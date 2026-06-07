@@ -1,4 +1,4 @@
-# Grade 7 — Creative Arts (CAPS)
+# Grade 7 — siSwati Second Additional Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Senior Phase*
@@ -21,12 +21,12 @@
 ## Curriculum Overview
 
 **Grade:** Grade 7
-**Subject:** Creative Arts
+**Subject:** siSwati Second Additional Language
 **Phase:** Senior Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Creative Arts curriculum for Grade 7 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The siSwati Second Additional Language curriculum for Grade 7 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -47,7 +47,45 @@ By the end of Grade 7, learners should be able to:
 
 ## Key Concepts
 
-*Key concepts will be extracted from the curriculum documents.*
+### Listening and Speaking
+
+*Listening and Speaking* is a fundamental concept in siSwati Second Additional Language for Grade 7.
+
+**Understanding:**
+Learners should understand the principles of listening and speaking and how they apply in various contexts.
+
+**Application:**
+This concept is applied when solving siswati second additional language problems and in real-world scenarios.
+
+### Reading and Viewing
+
+*Reading and Viewing* is a fundamental concept in siSwati Second Additional Language for Grade 7.
+
+**Understanding:**
+Learners should understand the principles of reading and viewing and how they apply in various contexts.
+
+**Application:**
+This concept is applied when solving siswati second additional language problems and in real-world scenarios.
+
+### Writing
+
+*Writing* is a fundamental concept in siSwati Second Additional Language for Grade 7.
+
+**Understanding:**
+Learners should understand the principles of writing and how they apply in various contexts.
+
+**Application:**
+This concept is applied when solving siswati second additional language problems and in real-world scenarios.
+
+### Language Structures
+
+*Language Structures* is a fundamental concept in siSwati Second Additional Language for Grade 7.
+
+**Understanding:**
+Learners should understand the principles of language structures and how they apply in various contexts.
+
+**Application:**
+This concept is applied when solving siswati second additional language problems and in real-world scenarios.
 
 ---
 
@@ -111,12 +149,12 @@ Informal or daily assessment ...................................................
 
 ### What You Will Learn
 
-In Grade 7 Creative Arts, you will learn:
+In Grade 7 siSwati Second Additional Language, you will learn:
 
-- Core subject concepts and principles
-- Practical applications
-- Critical thinking skills
-- Assessment preparation
+- Listening and speaking skills
+- Reading comprehension and analysis
+- Writing for different purposes
+- Language structures and conventions
 
 ### Study Tips
 
@@ -140,7 +178,7 @@ In Grade 7 Creative Arts, you will learn:
 
 ## Exam Tips
 
-- Review all Creative Arts topics from Term 1-4
+- Review all siSwati Second Additional Language topics from Term 1-4
 - Practice with past CAPS assessment questions
 - Understand the marking guidelines and rubrics
 - Manage your time during the exam
@@ -185,6 +223,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:33:39*
+*Generated: 2026-06-07 16:36:14*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

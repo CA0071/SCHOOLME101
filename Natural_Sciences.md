@@ -1,4 +1,4 @@
-# Grade 7 — Creative Arts (CAPS)
+# Grade 7 — Natural Sciences (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Senior Phase*
@@ -21,12 +21,12 @@
 ## Curriculum Overview
 
 **Grade:** Grade 7
-**Subject:** Creative Arts
+**Subject:** Natural Sciences
 **Phase:** Senior Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Creative Arts curriculum for Grade 7 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Natural Sciences curriculum for Grade 7 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -47,7 +47,45 @@ By the end of Grade 7, learners should be able to:
 
 ## Key Concepts
 
-*Key concepts will be extracted from the curriculum documents.*
+### Matter and Materials
+
+*Matter and Materials* is a fundamental concept in Natural Sciences for Grade 7.
+
+**Understanding:**
+Learners should understand the principles of matter and materials and how they apply in various contexts.
+
+**Application:**
+This concept is applied when solving natural sciences problems and in real-world scenarios.
+
+### Living and Non-living
+
+*Living and Non-living* is a fundamental concept in Natural Sciences for Grade 7.
+
+**Understanding:**
+Learners should understand the principles of living and non-living and how they apply in various contexts.
+
+**Application:**
+This concept is applied when solving natural sciences problems and in real-world scenarios.
+
+### Earth and Beyond
+
+*Earth and Beyond* is a fundamental concept in Natural Sciences for Grade 7.
+
+**Understanding:**
+Learners should understand the principles of earth and beyond and how they apply in various contexts.
+
+**Application:**
+This concept is applied when solving natural sciences problems and in real-world scenarios.
+
+### Energy and Change
+
+*Energy and Change* is a fundamental concept in Natural Sciences for Grade 7.
+
+**Understanding:**
+Learners should understand the principles of energy and change and how they apply in various contexts.
+
+**Application:**
+This concept is applied when solving natural sciences problems and in real-world scenarios.
 
 ---
 
@@ -111,12 +149,12 @@ Informal or daily assessment ...................................................
 
 ### What You Will Learn
 
-In Grade 7 Creative Arts, you will learn:
+In Grade 7 Natural Sciences, you will learn:
 
-- Core subject concepts and principles
-- Practical applications
-- Critical thinking skills
-- Assessment preparation
+- Scientific investigation skills
+- Matter, materials, and chemical processes
+- Living things and life processes
+- Earth, space, and environmental systems
 
 ### Study Tips
 
@@ -140,7 +178,7 @@ In Grade 7 Creative Arts, you will learn:
 
 ## Exam Tips
 
-- Review all Creative Arts topics from Term 1-4
+- Review all Natural Sciences topics from Term 1-4
 - Practice with past CAPS assessment questions
 - Understand the marking guidelines and rubrics
 - Manage your time during the exam
@@ -185,6 +223,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:33:39*
+*Generated: 2026-06-07 16:33:21*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

@@ -1,4 +1,4 @@
-# Grade 7 — Xitsonga First Additional Language (CAPS)
+# Grade 7 — Technology (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Senior Phase*
@@ -21,12 +21,12 @@
 ## Curriculum Overview
 
 **Grade:** Grade 7
-**Subject:** Xitsonga First Additional Language
+**Subject:** Technology
 **Phase:** Senior Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Xitsonga First Additional Language curriculum for Grade 7 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Technology curriculum for Grade 7 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -47,69 +47,28 @@ By the end of Grade 7, learners should be able to:
 
 ## Key Concepts
 
-### Listening and Speaking
-
-*Listening and Speaking* is a fundamental concept in Xitsonga First Additional Language for Grade 7.
-
-**Understanding:**
-Learners should understand the principles of listening and speaking and how they apply in various contexts.
-
-**Application:**
-This concept is applied when solving xitsonga first additional language problems and in real-world scenarios.
-
-### Reading and Viewing
-
-*Reading and Viewing* is a fundamental concept in Xitsonga First Additional Language for Grade 7.
-
-**Understanding:**
-Learners should understand the principles of reading and viewing and how they apply in various contexts.
-
-**Application:**
-This concept is applied when solving xitsonga first additional language problems and in real-world scenarios.
-
-### Writing
-
-*Writing* is a fundamental concept in Xitsonga First Additional Language for Grade 7.
-
-**Understanding:**
-Learners should understand the principles of writing and how they apply in various contexts.
-
-**Application:**
-This concept is applied when solving xitsonga first additional language problems and in real-world scenarios.
-
-### Language Structures
-
-*Language Structures* is a fundamental concept in Xitsonga First Additional Language for Grade 7.
-
-**Understanding:**
-Learners should understand the principles of language structures and how they apply in various contexts.
-
-**Application:**
-This concept is applied when solving xitsonga first additional language problems and in real-world scenarios.
+*Key concepts will be extracted from the curriculum documents.*
 
 ---
 
 ## Topic Summaries
 
-### XITSONGA RIRIMI RO ENGETELA
+### TECHNOLOGY
 
-RO SUNGALA
-Xitatimende xa Pholisi ya
-Kharikhulamu na Makambelelo
-Xiyimo xa le Henhla
-Tigiredi ta 7-9
-Xitatimende xa Kharikhulamu
-ya Rixaka (XKR)
+Curriculum and Assessment
+Policy Statement
+Senior Phase
+Grades 7-9
+National Curriculum Statement (NCS)
 
-XIPHOKHAMA
-Xitatimende xa Pholisi ya Kharikhulamu
-na Makambelelo
-Tigiredi ta 7 - 9
-XITSONGA RIRIMI RO ENGETELA RO SUNGULA
+CAPS
+Curriculum and Assessment Policy Statement
+GRADES 7-9
+TECHNOLOGY
 
-XITSONGA RIRIMI RO ENGETELA RO SUNGULA TIGIREDI TA 7-9
+TECHNOLOGY GRADES 7-9
 2
-XITATIMENDE XA PHOLISI YA KHARIKHULAMU NA MAKAMBELELO (XIPHOKHAMA)
+CURRICULUM AND ASSESSMENT POLICY STATEMENT (CAPS)
 DISCLAIMER
 In view of the stringent time requirements encountered by the Department of Basic Education to effect the necessary editorial changes and layout
 to the Curriculum and Assessment Policy Statements and the supplementary policy documents, possible errors may occur in the said documents
@@ -134,14 +93,17 @@ Tel: +27 21 465 1701
 Fax: +27 21 461 8110
 Website: http://www.education.gov.za
 © 2011 Department of Basic Education
-Isbn: 978-1-4315-0508-1
+Isbn: 978-1-4315-0528-9
 Design and Layout by: Ndabase Printing Solution
 Printed by: Government Printing Works
 
-XITSONGA RIRIMI RO ENGETELA RO SUNGULA TIGIREDI TA 7-9
-XIPHOKHAMA
+TECHNOLOGY GRADES 7-9
+CAPS
 FOREWORD by the minister
 Our national curriculum is the culmination of our efforts over a period of seventeen
+years to transform the curriculum bequeathed to us by apartheid. From the start of
+democracy we have built our curriculum on the values that inspired our Constitution
+(Act 108 of 1996). The Preamble to the Constitution states that the aims of the
 
 ---
 
@@ -149,12 +111,12 @@ Our national curriculum is the culmination of our efforts over a period of seven
 
 ### What You Will Learn
 
-In Grade 7 Xitsonga First Additional Language, you will learn:
+In Grade 7 Technology, you will learn:
 
-- Listening and speaking skills
-- Reading comprehension and analysis
-- Writing for different purposes
-- Language structures and conventions
+- Core subject concepts and principles
+- Practical applications
+- Critical thinking skills
+- Assessment preparation
 
 ### Study Tips
 
@@ -178,7 +140,7 @@ In Grade 7 Xitsonga First Additional Language, you will learn:
 
 ## Exam Tips
 
-- Review all Xitsonga First Additional Language topics from Term 1-4
+- Review all Technology topics from Term 1-4
 - Practice with past CAPS assessment questions
 - Understand the marking guidelines and rubrics
 - Manage your time during the exam
@@ -223,6 +185,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:35:30*
+*Generated: 2026-06-07 16:33:30*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

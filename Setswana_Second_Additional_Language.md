@@ -1,7 +1,7 @@
-# Grade 6 — Setswana Second Additional Language (CAPS)
+# Grade 7 — Setswana Second Additional Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
-*Intermediate Phase*
+*Senior Phase*
 
 ---
 
@@ -20,23 +20,23 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 6
+**Grade:** Grade 7
 **Subject:** Setswana Second Additional Language
-**Phase:** Intermediate Phase
+**Phase:** Senior Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Setswana Second Additional Language curriculum for Grade 6 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Setswana Second Additional Language curriculum for Grade 7 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
-- Age-appropriate content for Intermediate Phase
+- Age-appropriate content for Senior Phase
 - Integration with other subjects where applicable
 - Preparation for assessments and examinations
 
 ### Learning Outcomes
 
-By the end of Grade 6, learners should be able to:
+By the end of Grade 7, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 6, learners should be able to:
 
 ### Listening and Speaking
 
-*Listening and Speaking* is a fundamental concept in Setswana Second Additional Language for Grade 6.
+*Listening and Speaking* is a fundamental concept in Setswana Second Additional Language for Grade 7.
 
 **Understanding:**
 Learners should understand the principles of listening and speaking and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving setswana second additional language problem
 
 ### Reading and Viewing
 
-*Reading and Viewing* is a fundamental concept in Setswana Second Additional Language for Grade 6.
+*Reading and Viewing* is a fundamental concept in Setswana Second Additional Language for Grade 7.
 
 **Understanding:**
 Learners should understand the principles of reading and viewing and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving setswana second additional language problem
 
 ### Writing
 
-*Writing* is a fundamental concept in Setswana Second Additional Language for Grade 6.
+*Writing* is a fundamental concept in Setswana Second Additional Language for Grade 7.
 
 **Understanding:**
 Learners should understand the principles of writing and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving setswana second additional language problem
 
 ### Language Structures
 
-*Language Structures* is a fundamental concept in Setswana Second Additional Language for Grade 6.
+*Language Structures* is a fundamental concept in Setswana Second Additional Language for Grade 7.
 
 **Understanding:**
 Learners should understand the principles of language structures and how they apply in various contexts.
@@ -93,24 +93,29 @@ This concept is applied when solving setswana second additional language problem
 
 ### SETSWANA PUOTLALELETSO YA BOBEDI
 
-Pegelo ya Pholisi ya Kharikhulamo le
-Tlhatlhobo
-Kgato ya Magareng
-Mephato 4-6
+Pegelo ya Pholisi ya Kharikhulamo
+le Tlhatlhobo
+Kgato e Kgolwane
+Mephato 7-9
 Pegelo ya Kharikhulamo ya Bosetšhaba
 
-PEGELOYA PHOLISI YA KHARIKHULAMO LE TLHATLHOBO
-MEPHATO 4-6
-SETSWANA PUOTLALELETSO YA BOBEDI
+CAPS
+PUOTLALELETSO YA BOBEDI MEPHATO 7 – 9
+PEGELO YA PHOLISI YA KHARIKHULAMO
+LE TLHATLHOBO
+MEPHATO 7 - 9
+PUOTLALELETSO YA BOBEDI
 
-SETSWANA PUOTLALELETSO YA BOBEDI MEPHATO 4-6
-PEGELO YA PHOLISI YA KHARIKHULAMO LE TLHATLHOBO (PPKT)
+PEGELO YA PHOLISI YA KHARIKHULAMO LE TLHATLHOBO
+PUOTLALELETSO YA BOBEDI MEPHATO 7 – 9
+DISCLAIMER
 In view of the stringent time requirements encountered by the Department of Basic Education to effect the necessary editorial changes and layout
 to the Curriculum and Assessment Policy Statements and the supplementary policy documents, possible errors may occur in the said documents
 placed on the official departmental websites.
-There may also be vernacular inconsistencies in the language documents at Home-, First and Second Additional Language levels which have been
-translated in the various African Languages. Please note that the content of the documents translated and versioned in the African Languages are
-correct as they are based on the English generic language documents at all three language levels to be implemented in all four school phases.
+There may also be vernacular inconsistencies in the language documents at Home-, First and Second Additional Language levels which have
+been translated in the various African Languages. Please note that the content of the documents translated and versioned in the African Lan-
+guages are correct as they are based on the English generic language documents at all three language levels to be implemented in all four school
+phases.
 If any editorial, layout or vernacular inconsistencies are detected, the user is kindly requested to bring this to the attention of the Department of
 Basic Education.
 E-mail: capslangcomments@dbe.gov.za or fax (012) 328 9828
@@ -128,20 +133,15 @@ Tel: +27 21 465 1701
 Fax: +27 21 461 8110
 Website: http://www.education.gov.za
 © 2011 Department of Basic Education
-ISBN: 978-1-4315-0479-4
+Isbn: 978-1-4315-0516-6
 Design and Layout by: Ndabase Printing Solution
 Printed by: Government Printing Works
 
-SETSWANA PUOTLALELETSO YA BOBEDI MEPHATO 4-6
-PPKT
-FOREWORD BY THE MINISTER
+CAPS
+PUOTLALELETSO YA BOBEDI MEPHATO 7 – 9
+FOREWORD by the minister
 Our national curriculum is the culmination of our efforts over a period of seventeen
 years to transform the curriculum bequeathed to us by apartheid. From the start of
-democracy we have built our curriculum on the values that inspired our Constitution
-(Act 108 of 1996). The Preamble to the Constitution states that the aims of the
-Constitution are to:
-•
-heal the divisions of the past and establish a society based on democratic
 
 ---
 
@@ -149,7 +149,7 @@ heal the divisions of the past and establish a society based on democratic
 
 ### What You Will Learn
 
-In Grade 6 Setswana Second Additional Language, you will learn:
+In Grade 7 Setswana Second Additional Language, you will learn:
 
 - Listening and speaking skills
 - Reading comprehension and analysis
@@ -168,12 +168,11 @@ In Grade 6 Setswana Second Additional Language, you will learn:
 
 ## Assessment Guidelines
 
-### Intermediate Phase Assessment (Grades 4-6)
+### Senior Phase Assessment (Grades 7-9)
 
-- **School-Based Assessment (SBA):** 70%
-- **Final Examination:** 30%
-- **Tasks:** 16 assessment tasks per subject per year
-- **Types:** Tests, projects, practical tasks, oral presentations
+- **School-Based Assessment (SBA):** 75%
+- **Final Examination:** 25%
+- **Promotion:** Pass Home Language + 4 other subjects (50% each)
 
 ---
 
@@ -224,6 +223,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:32:43*
+*Generated: 2026-06-07 16:36:09*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

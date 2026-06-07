@@ -1,7 +1,7 @@
-# Grade 6 — First Additional Language (CAPS)
+# Grade 7 — First Additional Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
-*Intermediate Phase*
+*Senior Phase*
 
 ---
 
@@ -20,23 +20,23 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 6
+**Grade:** Grade 7
 **Subject:** First Additional Language
-**Phase:** Intermediate Phase
+**Phase:** Senior Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The First Additional Language curriculum for Grade 6 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The First Additional Language curriculum for Grade 7 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
-- Age-appropriate content for Intermediate Phase
+- Age-appropriate content for Senior Phase
 - Integration with other subjects where applicable
 - Preparation for assessments and examinations
 
 ### Learning Outcomes
 
-By the end of Grade 6, learners should be able to:
+By the end of Grade 7, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 6, learners should be able to:
 
 ### Listening and Speaking
 
-*Listening and Speaking* is a fundamental concept in First Additional Language for Grade 6.
+*Listening and Speaking* is a fundamental concept in First Additional Language for Grade 7.
 
 **Understanding:**
 Learners should understand the principles of listening and speaking and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving first additional language problems and in r
 
 ### Reading and Viewing
 
-*Reading and Viewing* is a fundamental concept in First Additional Language for Grade 6.
+*Reading and Viewing* is a fundamental concept in First Additional Language for Grade 7.
 
 **Understanding:**
 Learners should understand the principles of reading and viewing and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving first additional language problems and in r
 
 ### Writing
 
-*Writing* is a fundamental concept in First Additional Language for Grade 6.
+*Writing* is a fundamental concept in First Additional Language for Grade 7.
 
 **Understanding:**
 Learners should understand the principles of writing and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving first additional language problems and in r
 
 ### Language Structures
 
-*Language Structures* is a fundamental concept in First Additional Language for Grade 6.
+*Language Structures* is a fundamental concept in First Additional Language for Grade 7.
 
 **Understanding:**
 Learners should understand the principles of language structures and how they apply in various contexts.
@@ -94,54 +94,54 @@ This concept is applied when solving first additional language problems and in r
 ### CURRICULUM AND ASSESSMENT
 
 POLICY STATEMENT
-GRADES 4 - 6
+GRADES 7 - 9
 LANGUAGES
 GERMAN SECOND ADDITIONAL LANGUAGE
 
 CONTENTS
-SECTION 1 INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY STATEMENT .... 3
+SECTION 1 INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY
+STATEMENT ............................................................................................................................................................. 2
 1.1
-Background ....................................................................................................................................................... 3
+Background ....................................................................................................................................................................... 2
 1.2
-Overview ............................................................................................................................................................ 3
+Overview ............................................................................................................................................................................ 2
 1.3
-General aims of the South African curriculum .............................................................................................. 4
+General aims of the South African curriculum .............................................................................................................. 3
 1.4
-Time allocation ................................................................................................................................................. 6
-1.4.1 Foundation Phase ..................................................................................................................................... 6
-1.4.2 Intermediate Phase ................................................................................................................................... 7
-1.4.3 Senior Phase ............................................................................................................................................. 7
-1.4.4 Grades 10-12 ............................................................................................................................................ 8
-SECTION 2: INTRODUCING THE LANGUAGES .................................................................................. 9
+Time allocation.................................................................................................................................................................. 5
+1.4.1 Foundation Phase ....................................................................................................................................................... 5
+1.4.2 Intermediate Phase ..................................................................................................................................................... 6
+1.4.3 Senior Phase .............................................................................................................................................................. 6
+1.4.4 Grades 10-12 ............................................................................................................................................................. 7
+SECTION 2: INTRODUCING THE LANGUAGES .............................................................................................. 8
 2.1
-Languages in the Curriculum and Assessment Policy Statement.............................................................. 9
-2.1.1 Language levels ....................................................................................................................................... 9
-2.1.2 The language skills ................................................................................................................................ 12
-2.1.3 Language teaching approaches ............................................................................................................. 16
+Languages in the Curriculum and Assessment Policy Statement ................................................................................ 8
+2.1.1 Language levels ....................................................................................................................................................... 8
+2.1.2 The language skills ................................................................................................................................................ 10
+2.1.3 Language teaching approaches .............................................................................................................................. 10
 2.2
-Time allocation ............................................................................................................................................... 17
+Time allocation................................................................................................................................................................ 12
 2.3
-Learning and Teaching Support Materials .................................................................................................. 17
-SECTION 3: CONTENT AND TEACHING PLANS FOR LANGUAGE SKILLS .................................... 19
+Learning and Teaching Support Materials .................................................................................................................. 13
+SECTION 3: CONTENT AND TEACHING PLANS FOR LANGUAGE SKILLS .......................................... 14
 3.1
-Overview of skills, content and strategies .................................................................................................. 19
+Listening and speaking ................................................................................................................................................... 14
 3.2
-Spread of texts across Grades 4 – 6 ............................................................................................................ 27
-3.2.1 Spread of text table ................................................................................................................................ 27
-3.2.2 Summary of text types across the phase ............................................................................................... 30
-3.2.3 Lenght of text for Second Additional Language (to be produced by learners) ...................................... 34
-3.2.4 Lenght of text for Second Additional Language (for learners to engage with) ....................................... 34
-3.2.5 Vocabulary to be achieved by Second Additional Language learners .................................................. 35
+Reading and viewing ...................................................................................................................................................... 19
 3.3
-Teaching plans ............................................................................................................................................... 35
+Writing and presenting .................................................................................................................................................. 23
 3.4
-Content and teaching plans for German Second Additional Language ................................................... 37
-SECTION 4: ASSESSMENT IN SECOND ADDITIONAL LANGUAGE ................................................. 98
+Language structures and conventions .......................................................................................................................... 26
+3.5
+Teaching plans ................................................................................................................................................................ 29
+3.6
+Spread of texts across Grades 7-9 ................................................................................................................................. 32
+SECTION 4: ASSESSMENT IN SECOND ADDITIONAL LANGUAGE ........................................................ 64
 4.1
-Introduction ..................................................................................................................................................... 98
+Introduction .................................................................................................................................................................... 64
 4.2
-Informal or daily assessment ........................................................................................................................ 99
-1
+Informal or daily assessment ......................................................................................................................................... 64
+4.3
 
 ---
 
@@ -149,7 +149,7 @@ Informal or daily assessment ...................................................
 
 ### What You Will Learn
 
-In Grade 6 First Additional Language, you will learn:
+In Grade 7 First Additional Language, you will learn:
 
 - Listening and speaking skills
 - Reading comprehension and analysis
@@ -168,12 +168,11 @@ In Grade 6 First Additional Language, you will learn:
 
 ## Assessment Guidelines
 
-### Intermediate Phase Assessment (Grades 4-6)
+### Senior Phase Assessment (Grades 7-9)
 
-- **School-Based Assessment (SBA):** 70%
-- **Final Examination:** 30%
-- **Tasks:** 16 assessment tasks per subject per year
-- **Types:** Tests, projects, practical tasks, oral presentations
+- **School-Based Assessment (SBA):** 75%
+- **Final Examination:** 25%
+- **Promotion:** Pass Home Language + 4 other subjects (50% each)
 
 ---
 
@@ -224,6 +223,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:29:58*
+*Generated: 2026-06-07 16:33:11*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

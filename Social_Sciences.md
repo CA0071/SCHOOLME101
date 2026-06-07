@@ -1,7 +1,7 @@
-# Grade 6 — Social Sciences (CAPS)
+# Grade 7 — Social Sciences (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
-*Intermediate Phase*
+*Senior Phase*
 
 ---
 
@@ -20,23 +20,23 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 6
+**Grade:** Grade 7
 **Subject:** Social Sciences
-**Phase:** Intermediate Phase
+**Phase:** Senior Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Social Sciences curriculum for Grade 6 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Social Sciences curriculum for Grade 7 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
-- Age-appropriate content for Intermediate Phase
+- Age-appropriate content for Senior Phase
 - Integration with other subjects where applicable
 - Preparation for assessments and examinations
 
 ### Learning Outcomes
 
-By the end of Grade 6, learners should be able to:
+By the end of Grade 7, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 6, learners should be able to:
 
 ### Matter and Materials
 
-*Matter and Materials* is a fundamental concept in Social Sciences for Grade 6.
+*Matter and Materials* is a fundamental concept in Social Sciences for Grade 7.
 
 **Understanding:**
 Learners should understand the principles of matter and materials and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving social sciences problems and in real-world 
 
 ### Living and Non-living
 
-*Living and Non-living* is a fundamental concept in Social Sciences for Grade 6.
+*Living and Non-living* is a fundamental concept in Social Sciences for Grade 7.
 
 **Understanding:**
 Learners should understand the principles of living and non-living and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving social sciences problems and in real-world 
 
 ### Earth and Beyond
 
-*Earth and Beyond* is a fundamental concept in Social Sciences for Grade 6.
+*Earth and Beyond* is a fundamental concept in Social Sciences for Grade 7.
 
 **Understanding:**
 Learners should understand the principles of earth and beyond and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving social sciences problems and in real-world 
 
 ### Energy and Change
 
-*Energy and Change* is a fundamental concept in Social Sciences for Grade 6.
+*Energy and Change* is a fundamental concept in Social Sciences for Grade 7.
 
 **Understanding:**
 Learners should understand the principles of energy and change and how they apply in various contexts.
@@ -91,57 +91,57 @@ This concept is applied when solving social sciences problems and in real-world 
 
 ## Topic Summaries
 
-### SOSIALE WETENSKAPPE
+### CURRICULUM AND ASSESSMENT
 
-Kurrikulum- en
-assesseringsbeleidsverklaring
-Intermediêre fase
-Graad 4-6
-Nasionale Kurrikulumverklaring (NKV)
+POLICY STATEMENT
+GRADES 7 - 9
+LANGUAGES
+GERMAN SECOND ADDITIONAL LANGUAGE
 
-KABV
-KURRIKULUM- EN ASSESSERINGSBELEIDSVERKLARING
-GRAAD 4-6
-Sosiale Wetenskappe
-
-SOSIALE WETENSKAPPE GRAAD 4-6
-KURRIKULUM- EN ASSESSERINGSBELEIDSVERKLARING (KABV)
-Departement van Basiese Onderwys
-Strubenstraat 222
-Privaatsak X895
-Pretoria 0001
-Suid-Afrika
-Tel: +27 12 357 3000
-Faks: +27 12 323 0601
-Pleinstraat 120 Privaatsak X9023
-Kaapstad 8000
-Suid-Afrika
-Tel: +27 21 465 1701
-Faks: +27 21 461 8110
-Webtuiste: http://www. education. gov. za
-© 2011 Departement van Basiese Onderwys
-Isbn: 978-1-4315-0777-1
-Ontwerp en uitleg deur: Ndabase Printing Solution
-Gedruk deur: Staatsdrukkery
-
-SOSIALE WETENSKAPPE GRAAD 4-6
-KABV
-VOORWOORD VAN DIE MINISTER
-Die nasionale kurrikulum is die hoogtepunt van ons poging oor ֹ’n tydperk van 17 jaar
-om die apartheidskurrikulum wat ons geërf het, te hervorm. Sedert die aanvang van
-demokrasie het ons gepoog om die kurrikulum op die waardes deur die Grondwet
-(Wet No. 108 van 1998) geϊnspireer, te skoei. Die Aanhef van die Grondwet verklaar
-die doelstellings van die Grondwet soos volg:
-•
-Die verdeeldheid van die verlede te heel en ’n samelewing gegrond op
-demokratiese waardes, maatskaplike geregtigheid en basiese menseregte te
-skep;
-•
-Die lewensgehalte van alle burgers te verhoog en die potensiaal van elke
-mens te ontsluit;
-•
-Die grondslag te lê vir ’n demokratiese en oop samelewing waarin regering
-gebaseer is op die wil van die bevolking en elke burger gelyk deur die reg
+CONTENTS
+SECTION 1 INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY
+STATEMENT ............................................................................................................................................................. 2
+1.1
+Background ....................................................................................................................................................................... 2
+1.2
+Overview ............................................................................................................................................................................ 2
+1.3
+General aims of the South African curriculum .............................................................................................................. 3
+1.4
+Time allocation.................................................................................................................................................................. 5
+1.4.1 Foundation Phase ....................................................................................................................................................... 5
+1.4.2 Intermediate Phase ..................................................................................................................................................... 6
+1.4.3 Senior Phase .............................................................................................................................................................. 6
+1.4.4 Grades 10-12 ............................................................................................................................................................. 7
+SECTION 2: INTRODUCING THE LANGUAGES .............................................................................................. 8
+2.1
+Languages in the Curriculum and Assessment Policy Statement ................................................................................ 8
+2.1.1 Language levels ....................................................................................................................................................... 8
+2.1.2 The language skills ................................................................................................................................................ 10
+2.1.3 Language teaching approaches .............................................................................................................................. 10
+2.2
+Time allocation................................................................................................................................................................ 12
+2.3
+Learning and Teaching Support Materials .................................................................................................................. 13
+SECTION 3: CONTENT AND TEACHING PLANS FOR LANGUAGE SKILLS .......................................... 14
+3.1
+Listening and speaking ................................................................................................................................................... 14
+3.2
+Reading and viewing ...................................................................................................................................................... 19
+3.3
+Writing and presenting .................................................................................................................................................. 23
+3.4
+Language structures and conventions .......................................................................................................................... 26
+3.5
+Teaching plans ................................................................................................................................................................ 29
+3.6
+Spread of texts across Grades 7-9 ................................................................................................................................. 32
+SECTION 4: ASSESSMENT IN SECOND ADDITIONAL LANGUAGE ........................................................ 64
+4.1
+Introduction .................................................................................................................................................................... 64
+4.2
+Informal or daily assessment ......................................................................................................................................... 64
+4.3
 
 ---
 
@@ -149,7 +149,7 @@ gebaseer is op die wil van die bevolking en elke burger gelyk deur die reg
 
 ### What You Will Learn
 
-In Grade 6 Social Sciences, you will learn:
+In Grade 7 Social Sciences, you will learn:
 
 - Scientific investigation skills
 - Matter, materials, and chemical processes
@@ -168,12 +168,11 @@ In Grade 6 Social Sciences, you will learn:
 
 ## Assessment Guidelines
 
-### Intermediate Phase Assessment (Grades 4-6)
+### Senior Phase Assessment (Grades 7-9)
 
-- **School-Based Assessment (SBA):** 70%
-- **Final Examination:** 30%
-- **Tasks:** 16 assessment tasks per subject per year
-- **Types:** Tests, projects, practical tasks, oral presentations
+- **School-Based Assessment (SBA):** 75%
+- **Final Examination:** 25%
+- **Promotion:** Pass Home Language + 4 other subjects (50% each)
 
 ---
 
@@ -224,6 +223,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:30:12*
+*Generated: 2026-06-07 16:33:25*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

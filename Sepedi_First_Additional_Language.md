@@ -1,7 +1,7 @@
-# Grade 6 — Sepedi First Additional Language (CAPS)
+# Grade 7 — Sepedi First Additional Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
-*Intermediate Phase*
+*Senior Phase*
 
 ---
 
@@ -20,23 +20,23 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 6
+**Grade:** Grade 7
 **Subject:** Sepedi First Additional Language
-**Phase:** Intermediate Phase
+**Phase:** Senior Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Sepedi First Additional Language curriculum for Grade 6 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Sepedi First Additional Language curriculum for Grade 7 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
-- Age-appropriate content for Intermediate Phase
+- Age-appropriate content for Senior Phase
 - Integration with other subjects where applicable
 - Preparation for assessments and examinations
 
 ### Learning Outcomes
 
-By the end of Grade 6, learners should be able to:
+By the end of Grade 7, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 6, learners should be able to:
 
 ### Listening and Speaking
 
-*Listening and Speaking* is a fundamental concept in Sepedi First Additional Language for Grade 6.
+*Listening and Speaking* is a fundamental concept in Sepedi First Additional Language for Grade 7.
 
 **Understanding:**
 Learners should understand the principles of listening and speaking and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving sepedi first additional language problems a
 
 ### Reading and Viewing
 
-*Reading and Viewing* is a fundamental concept in Sepedi First Additional Language for Grade 6.
+*Reading and Viewing* is a fundamental concept in Sepedi First Additional Language for Grade 7.
 
 **Understanding:**
 Learners should understand the principles of reading and viewing and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving sepedi first additional language problems a
 
 ### Writing
 
-*Writing* is a fundamental concept in Sepedi First Additional Language for Grade 6.
+*Writing* is a fundamental concept in Sepedi First Additional Language for Grade 7.
 
 **Understanding:**
 Learners should understand the principles of writing and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving sepedi first additional language problems a
 
 ### Language Structures
 
-*Language Structures* is a fundamental concept in Sepedi First Additional Language for Grade 6.
+*Language Structures* is a fundamental concept in Sepedi First Additional Language for Grade 7.
 
 **Understanding:**
 Learners should understand the principles of language structures and how they apply in various contexts.
@@ -95,17 +95,17 @@ This concept is applied when solving sepedi first additional language problems a
 
 Setatamente sa Pholisi sa
 Lenaneothuto le Kelo
-Sehlopa sa gare
-Mephato ya 4-6
-Setatamente sa kharikhulamo ya
+Sehlopa sa Godimo
+Mephato ya 7-9
+Setatamente sa Kharikhulamo ya
 Setšhaba (SKS)
 
 SEPHOLEKE
 SETATAMENTE SA PHOLISI SA LENANEOTHUTO LE KELO
-MEPHATO YA 4-6
+MEPHATO YA 7-9
 SEPEDI LELEMETLALELETŠO LA PELE
 
-SEPEDI LELEMETLALELETŠO LA PELE MEPHATO YA 4-6
+SEPEDI LELEMETLALELETŠO LA PELE MEPHATO YA 7-9
 SETATAMENTE SA PHOLISI SA LENANEOTHUTO LE KELO (SEPHOLEKE)
 DISCLAIMER
 In view of the stringent time requirements encountered by the Department of Basic Education to effect the necessary editorial changes and layout
@@ -129,13 +129,13 @@ Cape Town 8000
 South Africa
 Tel: +27 21 465 1701
 Fax: +27 21 461 8110
-Website: http://www.education.gov.za
+Website: http: //www.education.gov.za
 © 2011 Department of Basic Education
-Isbn: 978-1-4315-0470-1
+Isbn: 978-1-4315-0507-4
 Design and Layout by: Ndabase Printing Solution
 Printed by: Government Printing Works
 
-SEPEDI LELEMETLALELETŠO LA PELE MEPHATO YA 4-6
+SEPEDI LELEMETLALELETŠO LA PELE MEPHATO YA 7-9
 SEPHOLEKE
 FOREWORD by the minister
 Our national curriculum is the culmination of our efforts over a period of seventeen
@@ -149,7 +149,7 @@ democracy we have built our curriculum on the values that inspired our Constitut
 
 ### What You Will Learn
 
-In Grade 6 Sepedi First Additional Language, you will learn:
+In Grade 7 Sepedi First Additional Language, you will learn:
 
 - Listening and speaking skills
 - Reading comprehension and analysis
@@ -168,12 +168,11 @@ In Grade 6 Sepedi First Additional Language, you will learn:
 
 ## Assessment Guidelines
 
-### Intermediate Phase Assessment (Grades 4-6)
+### Senior Phase Assessment (Grades 7-9)
 
-- **School-Based Assessment (SBA):** 70%
-- **Final Examination:** 30%
-- **Tasks:** 16 assessment tasks per subject per year
-- **Types:** Tests, projects, practical tasks, oral presentations
+- **School-Based Assessment (SBA):** 75%
+- **Final Examination:** 25%
+- **Promotion:** Pass Home Language + 4 other subjects (50% each)
 
 ---
 
@@ -224,6 +223,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:31:41*
+*Generated: 2026-06-07 16:35:05*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

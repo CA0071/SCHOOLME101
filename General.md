@@ -1,10 +1,10 @@
-# Grade 6 — General (CAPS)
+# Grade 7 — General (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
-*Intermediate Phase*
+*Senior Phase*
 
-**Generated:** 2026-06-07 16:10:24
-**Source Documents:** 46 official CAPS document(s)
+**Generated:** 2026-06-07 16:10:27
+**Source Documents:** 58 official CAPS document(s)
 
 ---
 
@@ -24,20 +24,20 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 6
+**Grade:** Grade 7
 **Subject:** General
-**Phase:** Intermediate Phase
+**Phase:** Senior Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-**Age Range:** 9-12 years
-**Assessment:** SBA 70% + Final Examination 30%
+**Age Range:** 12-15 years
+**Assessment:** SBA 75% + Final Examination 25%
 
 ### Learning Outcomes
 
-By the end of Grade 6, learners should be able to:
+By the end of Grade 7, learners should be able to:
 
-- Demonstrate understanding of core General concepts appropriate for intermediate phase
+- Demonstrate understanding of core General concepts appropriate for senior phase
 - Apply knowledge to solve problems and complete tasks
 - Communicate effectively using subject-specific terminology
 - Think critically and analytically
@@ -47,27 +47,60 @@ By the end of Grade 6, learners should be able to:
 
 ## Introduction
 
-SECTION 1 INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY STATEMENT .... 3
+SECTION 1 INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY
+STATEMENT ............................................................................................................................................................. 2
 1.1
-Background ....................................................................................................................................................... 3
+Background ....................................................................................................................................................................... 2
 1.2
-Overview ............................................................................................................................................................ 3
+Overview ............................................................................................................................................................................ 2
 1.3
-General aims of the South African curriculum .............................................................................................. 4
+General aims of the South African curriculum .............................................................................................................. 3
 1.4
-Time allocation ................................................................................................................................................. 6
-1.4.1 Foundation Phase ..................................................................................................................................... 6
-1.4.2 Intermediate Phase ................................................................................................................................... 7
-1.4.3 Senior Phase ............................................................................................................................................. 7
-1.4.4 Grades 10-12 ............................................................................................................................................ 8
+Time allocation.................................................................................................................................................................. 5
+1.4.1 Foundation Phase ....................................................................................................................................................... 5
+1.4.2 Intermediate Phase ..................................................................................................................................................... 6
+1.4.3 Senior Phase .............................................................................................................................................................. 6
+1.4.4 Grades 10-12 ............................................................................................................................................................. 7
 
 ---
 
 ## Key Concepts
 
+### Topic
+Grade 7
+Grade 8
+Grade 9
+1
+Development of the self in
+society
+• Concept
+
+This topic covers essential General concepts for Grade 7.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### TERM 1
+GRADE 7
+WEEKS 1 – 2
+Recommended resources
+Development of the self in society
+2 hours
+Textbook, life skills books and posters
+• Concept
+
+This topic covers essential General concepts for Grade 7.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
 ### equipping learners, irrespective of their socio-economic background, race, gender, physical ability o
 
-This topic covers essential General concepts for Grade 6.
+This topic covers essential General concepts for Grade 7.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -76,7 +109,7 @@ This topic covers essential General concepts for Grade 6.
 
 ### providing access to higher education;
 
-This topic covers essential General concepts for Grade 6.
+This topic covers essential General concepts for Grade 7.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -85,7 +118,7 @@ This topic covers essential General concepts for Grade 6.
 
 ### facilitating the transition of learners from education institutions to the workplace; and
 
-This topic covers essential General concepts for Grade 6.
+This topic covers essential General concepts for Grade 7.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -94,16 +127,16 @@ This topic covers essential General concepts for Grade 6.
 
 ### providing employers with a sufficient profile of a learner’s competences.
 
-This topic covers essential General concepts for Grade 6.
+This topic covers essential General concepts for Grade 7.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### Social transformation: ensuring that the educational imbalances of the past are redressed, and that
+### Social transformation: ensuring that the educational imbalances of the past are redressed, and that e
 
-This topic covers essential General concepts for Grade 6.
+This topic covers essential General concepts for Grade 7.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -112,7 +145,7 @@ This topic covers essential General concepts for Grade 6.
 
 ### Active and critical learning: encouraging an active and critical approach to learning, rather than ro
 
-This topic covers essential General concepts for Grade 6.
+This topic covers essential General concepts for Grade 7.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -121,7 +154,7 @@ This topic covers essential General concepts for Grade 6.
 
 ### High knowledge and high skills: the minimum standards of knowledge and skills to be achieved at each
 
-This topic covers essential General concepts for Grade 6.
+This topic covers essential General concepts for Grade 7.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -130,7 +163,7 @@ This topic covers essential General concepts for Grade 6.
 
 ### Progression: content and context of each grade shows progression from simple to complex;
 
-This topic covers essential General concepts for Grade 6.
+This topic covers essential General concepts for Grade 7.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -139,7 +172,7 @@ This topic covers essential General concepts for Grade 6.
 
 ### Human rights, inclusivity, environmental and social justice: infusing the principles and practices of
 
-This topic covers essential General concepts for Grade 6.
+This topic covers essential General concepts for Grade 7.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -148,7 +181,7 @@ This topic covers essential General concepts for Grade 6.
 
 ### Valuing indigenous knowledge systems: acknowledging the rich history and heritage of this country as
 
-This topic covers essential General concepts for Grade 6.
+This topic covers essential General concepts for Grade 7.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -157,7 +190,7 @@ This topic covers essential General concepts for Grade 6.
 
 ### Credibility, quality and efficiency: providing an education that is comparable in quality, breadth an
 
-This topic covers essential General concepts for Grade 6.
+This topic covers essential General concepts for Grade 7.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -166,7 +199,7 @@ This topic covers essential General concepts for Grade 6.
 
 ### identify and solve problems and make decisions using critical and creative thinking;
 
-This topic covers essential General concepts for Grade 6.
+This topic covers essential General concepts for Grade 7.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -175,7 +208,7 @@ This topic covers essential General concepts for Grade 6.
 
 ### work effectively as individuals and with others as members of a team;
 
-This topic covers essential General concepts for Grade 6.
+This topic covers essential General concepts for Grade 7.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -184,7 +217,7 @@ This topic covers essential General concepts for Grade 6.
 
 ### organise and manage themselves and their activities responsibly and effectively;
 
-This topic covers essential General concepts for Grade 6.
+This topic covers essential General concepts for Grade 7.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -193,7 +226,7 @@ This topic covers essential General concepts for Grade 6.
 
 ### collect, analyse, organise and critically evaluate information;
 
-This topic covers essential General concepts for Grade 6.
+This topic covers essential General concepts for Grade 7.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -202,7 +235,7 @@ This topic covers essential General concepts for Grade 6.
 
 ### communicate effectively using visual, symbolic and/or language skills in various modes;
 
-This topic covers essential General concepts for Grade 6.
+This topic covers essential General concepts for Grade 7.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -211,34 +244,34 @@ This topic covers essential General concepts for Grade 6.
 
 ### use science and technology effectively and critically showing responsibility towards the environment
 
-This topic covers essential General concepts for Grade 6.
+This topic covers essential General concepts for Grade 7.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### demonstrate an understanding of the world as a set of related systems by recognising that problem
+### demonstrate an understanding of the world as a set of related systems by recognising that problem sol
 
-This topic covers essential General concepts for Grade 6.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### basic interpersonal communication skills. In Grades 2 and 3 learners start
-
-This topic covers essential General concepts for Grade 6.
+This topic covers essential General concepts for Grade 7.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### basic interpersonal communication skills. In Grades 4 - 6
+### basic interpersonal communication skills. In Grades 4 - 6 learners start to
 
-This topic covers essential General concepts for Grade 6.
+This topic covers essential General concepts for Grade 7.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### acquire the language skills necessary to communicate appropriately in the target language at a basic
+
+This topic covers essential General concepts for Grade 7.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -252,148 +285,109 @@ This topic covers essential General concepts for Grade 6.
 ### Topic 1: CURRICULUM AND ASSESSMENT
 
 POLICY STATEMENT
-GRADES 4 - 6
+GRADES 7 - 9
 LANGUAGES
 GERMAN SECOND ADDITIONAL LANGUAGE
 
 CONTENTS
 
-### Topic 2: INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY STATEMENT .... 3
+### Topic 2: INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY
 
+STATEMENT ............................................................................................................................................................. 2
 1.1
-Background ....................................................................................................................................................... 3
+Background ....................................................................................................................................................................... 2
 1.2
-Overview ............................................................................................................................................................ 3
-1.3
-General aims of the South African curriculum .............................................................................................. 4
-1.4
-Time allo...
+Overview .......................................................................................................................................
 
 ### Topic 3: : INTRODUCING THE LANGUAGES ........................................................................
 
 2.1
-Languages in the Curriculum and Assessment Policy Statement.............................................................. 9
-2.1.1 Language levels ....................................................................................................................................... 9
-2.1.2 The language skills ................................................................................................................................ 12
-2.1.3 Language teaching approaches ......................
+Languages in the Curriculum and Assessment Policy Statement ................................................................................ 8
+2.1.1 Language levels ....................................................................................................................................................... 8
+2.1.2 The language skills ................................................................................................................................................ 10
+2.1...
 
-### Topic 4: : CONTENT AND TEACHING PLANS FOR LANGUAGE SKILLS .................................... 19
+### Topic 4: : CONTENT AND TEACHING PLANS FOR LANGUAGE SKILLS .......................................... 14
 
 3.1
-Overview of skills, content and strategies .................................................................................................. 19
+Listening and speaking ................................................................................................................................................... 14
 3.2
-Spread of texts across Grades 4 – 6 ............................................................................................................ 27
-3.2.1 Spread of text table ................................................................................................................................ 27
-3.2.2 Summary of text types across the p...
+Reading and viewing ...................................................................................................................................................... 19
+3.3
+Writing and presenting ........................................................................................................................
 
-### Topic 5: : ASSESSMENT IN SECOND ADDITIONAL LANGUAGE ................................................. 98
+### Topic 5: : ASSESSMENT IN SECOND ADDITIONAL LANGUAGE ........................................................ 
 
 4.1
-Introduction ..................................................................................................................................................... 98
+Introduction .................................................................................................................................................................... 64
 4.2
-Informal or daily assessment ........................................................................................................................ 99
-1
-
+Informal or daily assessment ......................................................................................................................................... 64
 4.3
-Formal assessment ........................................................................................................................................ 99
-4.4.
-Pro...
+Formal assessment ..........................................................................................................................
 
 ### Topic 6: : INTRODUCTION TO THE CURRICULUM AND
 
 ASSESSMENT POLICY STATEMENT
 1.1
 BACKGROUND
-The National Curriculum Statement Grades R-12 (NCS) stipulates policy on curriculum and assessment in the
-schooling sector.
-To improve implementation, the National Curriculum Statement was amended, with the amendments coming into
-effect in January 2012. A single comprehensive Curriculum and Assessment Policy document was developed for
-each subject to replace Subject Statements, Learning Programme Guidelines and Subject Assessment
-Guidelines in Grades R-...
+The National Curriculum Statement Grades R-12 (NCS) stipulates policy on curriculum and assessment in the schooling
+sector.
+To improve implementation, the National Curriculum Statement was amended, with the amendments coming into effect
+in January 2012. A single comprehensive Curriculum and Assessment Policy document was developed for each subject
+to replace Subject Statements, Learning Programme Guidelines and Subject Assessment Guidelines in Grades R-...
 
 ### Topic 7: : INTRODUCING THE LANGUAGES
 
-2.1 LANGUAGES IN THE CURRICULUM AND ASSESSMENT POLICY STATEMENT
+2.1 Languages in the Curriculum and Assessment Policy Statement
 Language is a tool for thought and communication. It is also a cultural and aesthetic means commonly shared
 among a people to make better sense of the world they live in. Learning to use language effectively enables
-learners to acquire knowledge, to express their identity, feelings and ideas, to interact with others, and to manage
-their world. It also provides learners with a rich, powerful and deeply rooted set of images and ideas ...
+learners to acquire knowledge, to express their identity, feelings and ideas, to interact with others and to
+manage their world. It also provides learners with a rich, powerful and deeply rooted set of images and ideas
+t...
 
-### Topic 8: NATIONAL CURRICULUM AND ASSESSMENT POLICY STATEMENT............................. 3
+### Topic 8: anguage Structures and Conventions
 
+2.1.3 Language Teaching Approaches
+The approaches to teaching language in these documents are text-based, communicative, integrated and
+process orientated.
+The text-based approach and the communicative approach are both dependent on the continuous use and
+production of texts. The text-based approach explores how texts work. The purpose of a text-based approach
+is to enable learners to become competent, confident and critical readers, writers, viewers and designers of
+texts. It involves listening...
+
+### Topic 9: INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY
+
+STATEMENT ............................................................................................................................................................. 2
 1.1
-Background...................................................................................................................................................... 3
+Background ....................................................................................................................................................................... 2
 1.2
-Overview........................................................................................................................................................... 3
-1.3
-General aims of the South African curriculum............................................................................................. 4
-1.4
-Time allocation...
+Overview .......................................................................................................................................
 
-### Topic 9: : INTRODUCING THE HOME LANGUAGE IN THE INTERMEDIATE PHASE...................... 8
+### Topic 10: : INTRODUCING THE LANGUAGES ........................................................................
 
 2.1
-Languages in the National Curriculum and Assessment Policy Statement.............................................. 8
-2.1.1 Language levels....................................................................................................................................... 8
-2.1.2 The language skills.................................................................................................................................. 9
-2.1.3 Language teaching approaches...............................
+Languages in the Curriculum and Assessment Policy Statement ................................................................................ 8
+2.1.1 Language levels ....................................................................................................................................................... 8
+2.1.2 The language skills ................................................................................................................................................ 10
+2.1...
 
-### Topic 10: : CONTENT AND TEACHING PLANS FOR LANGUAGE SKILLS...................................... 16
+### Topic 11: : CONTENT AND TEACHING PLANS FOR LANGUAGE SKILLS .......................................... 14
 
 3.1
-Overview of skills, content and strategies.................................................................................................. 16
+Listening and speaking ................................................................................................................................................... 14
 3.2
-Spread of texts across Grades 4 – 6............................................................................................................ 25
-3.2.1 Spread of text table................................................................................................................................ 25
-3.2.2 Summary of text types across the phas...
+Reading and viewing ...................................................................................................................................................... 19
+3.3
+Writing and presenting ........................................................................................................................
 
-### Topic 11: : ASSESSMENT IN HOME LANGUAGE.......................................................................
+### Topic 12: : ASSESSMENT IN SECOND ADDITIONAL LANGUAGE ........................................................ 
 
 4.1
-Introduction.................................................................................................................................................... 88
+Introduction .................................................................................................................................................................... 64
 4.2
-Informal or daily assessment....................................................................................................................... 89
+Informal or daily assessment ......................................................................................................................................... 64
 4.3
-Formal assessment....................................................................................................................................... 89
-4.4.
-Programme of...
-
-### Topic 12: :
-
-INTRODUCTION
-TO
-THE
-CURRICULUM
-AND
-ASSESSMENT POLICY STATEMENT
-1.1
-BACKGROUND
-The National Curriculum Statement Grades R-12 (NCS) stipulates policy on curriculum and assessment in the
-schooling sector.
-To improve implementation, the National Curriculum Statement was amended, with the amendments coming into
-effect in January 2012. A single comprehensive Curriculum and Assessment Policy document was developed for
-each subject to replace Subject Statements, Learning Programme Guidelines and Subject...
-
-### Topic 13: : INTRODUCING THE HOME LANGUAGE IN THE
-
-INTERMEDIATE PHASE
-2.1 LANGUAGES IN THE NATIONAL CURRICULUM AND ASSESSMENT POLICY STATEMENT
-Language is a tool for thought and communication. It is also a cultural and aesthetic means commonly shared among
-a people to make better sense of the world they live in. Learning to use language effectively enables learners to
-acquire knowledge, to express their identity, feelings and ideas, to interact with others, and to manage their world. It
-also provides learners with a rich, powerful and deeply roo...
-
-### Topic 14: ESOTHO PUO YA LAPENG DIKEREITENG TSA 4-6
-
-4
-SETATEMENTE SA LEANO LA KHARIKHULAMO LE TEKANYETSO
-(c)
-Ditatemente tsa Dithuto, Ditataiso tsa Mananetsamaiso a ho Ithuta, le Tataiso tsa Tekanyetso tsa Dithuto
-Dikereiteng tsa R - 9 le Dikereiteng tsa 10 - 12 di a fediswa, mme bakeng sa tsona ho kenngwa Ditatemente
-tsa Leano la Kharikhulamo le Tekanyetso tsa Naha Dikereiteng tsa 10 - 12 (Pherekgong 2012).
-(d)
-Tokomane ya leano, eo e leng sehlomathiso sa tokomane ya National Senior Certificate: A qualification at
-Level 4 on the National Qualifi...
+Formal assessment ..........................................................................................................................
 
 ---
 
@@ -421,18 +415,20 @@ Level 4 on the National Qualifi...
 
 ## Assessment Guidelines
 
-### Intermediate Phase Assessment (Grades 4-6)
+### Senior Phase Assessment (Grades 7-9)
 
-- **School-Based Assessment (SBA):** 70%
-- **Final Examination:** 30%
-- **Tasks per year:** 16 per subject
+- **School-Based Assessment (SBA):** 75%
+- **Final Examination:** 25%
 
-**SBA includes:**
-- Tests and examinations
-- Projects and assignments
-- Practical tasks
-- Oral presentations
-- Classwork and homework
+**Promotion Requirements:**
+- Pass Home Language + 4 other subjects (50% each)
+- Minimum 40% in 2 other subjects
+
+**Assessment Tasks:**
+- Formal tests and exams
+- Projects and investigations
+- Practical assessments
+- Oral and performance tasks
 
 ---
 
@@ -511,9 +507,9 @@ Level 4 on the National Qualifi...
 
 ## Document Information
 
-**Generated:** 2026-06-07 16:10:24
-**Source Documents:** 46 CAPS document(s) processed
-**Grade:** Grade 6
+**Generated:** 2026-06-07 16:10:27
+**Source Documents:** 58 CAPS document(s) processed
+**Grade:** Grade 7
 **Subject:** General
 
 ---

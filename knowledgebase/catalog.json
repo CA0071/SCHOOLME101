@@ -1,0 +1,573 @@
+{
+  "version": "1.0.0",
+  "generated_from": "root markdown CAPS headers",
+  "entries": [
+    {
+      "id": "grade_12__accounting",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Accounting",
+      "source_path": "Accounting.md"
+    },
+    {
+      "id": "grade_r__afrikaans_first_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Afrikaans First Additional Language",
+      "source_path": "Afrikaans_First_Additional_Language.md"
+    },
+    {
+      "id": "grade_r__afrikaans_home_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Afrikaans Home Language",
+      "source_path": "Afrikaans_Home_Language.md"
+    },
+    {
+      "id": "grade_9__afrikaans_second_additional_language",
+      "grade": "Grade 9",
+      "grade_band": "Senior Phase",
+      "subject": "Afrikaans Second Additional Language",
+      "source_path": "Afrikaans_Second_Additional_Language.md"
+    },
+    {
+      "id": "grade_12__agricultural_sciences",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Agricultural Sciences",
+      "source_path": "Agricultural_Sciences.md"
+    },
+    {
+      "id": "grade_12__automotive_technology",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Automotive Technology",
+      "source_path": "Automotive_Technology.md"
+    },
+    {
+      "id": "grade_12__business_studies",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Business Studies",
+      "source_path": "Business_Studies.md"
+    },
+    {
+      "id": "grade_12__cat",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "CAT",
+      "source_path": "CAT.md"
+    },
+    {
+      "id": "grade_12__civil_technology",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Civil Technology",
+      "source_path": "Civil_Technology.md"
+    },
+    {
+      "id": "grade_r__coding_robotics",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Coding Robotics",
+      "source_path": "Coding_Robotics.md"
+    },
+    {
+      "id": "grade_r__coding_and_robotics",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Coding and Robotics",
+      "source_path": "Coding_and_Robotics.md"
+    },
+    {
+      "id": "grade_12__computer_applications_technology_(cat)",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Computer Applications Technology (CAT)",
+      "source_path": "Computer_Applications_Technology_CAT.md"
+    },
+    {
+      "id": "grade_12__consumer_studies",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Consumer Studies",
+      "source_path": "Consumer_Studies.md"
+    },
+    {
+      "id": "grade_9__creative_arts",
+      "grade": "Grade 9",
+      "grade_band": "Senior Phase",
+      "subject": "Creative Arts",
+      "source_path": "Creative_Arts.md"
+    },
+    {
+      "id": "grade_12__dance",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Dance",
+      "source_path": "Dance.md"
+    },
+    {
+      "id": "grade_12__dramatic_arts",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Dramatic Arts",
+      "source_path": "Dramatic_Arts.md"
+    },
+    {
+      "id": "grade_9__ems",
+      "grade": "Grade 9",
+      "grade_band": "Senior Phase",
+      "subject": "EMS",
+      "source_path": "EMS.md"
+    },
+    {
+      "id": "grade_9__economic_management_sciences_(ems)",
+      "grade": "Grade 9",
+      "grade_band": "Senior Phase",
+      "subject": "Economic Management Sciences (EMS)",
+      "source_path": "Economic_Management_Sciences_EMS.md"
+    },
+    {
+      "id": "grade_12__economics",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Economics",
+      "source_path": "Economics.md"
+    },
+    {
+      "id": "grade_12__electrical_technology",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Electrical Technology",
+      "source_path": "Electrical_Technology.md"
+    },
+    {
+      "id": "grade_12__engineering_graphics_and_design_(egd)",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Engineering Graphics and Design (EGD)",
+      "source_path": "Engineering_Graphics_and_Design_EGD.md"
+    },
+    {
+      "id": "grade_r__english_first_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "English First Additional Language",
+      "source_path": "English_First_Additional_Language.md"
+    },
+    {
+      "id": "grade_r__english_home_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "English Home Language",
+      "source_path": "English_Home_Language.md"
+    },
+    {
+      "id": "grade_r__english_second_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "English Second Additional Language",
+      "source_path": "English_Second_Additional_Language.md"
+    },
+    {
+      "id": "grade_12__fashion_design",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Fashion Design",
+      "source_path": "Fashion_Design.md"
+    },
+    {
+      "id": "grade_r__first_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "First Additional Language",
+      "source_path": "First_Additional_Language.md"
+    },
+    {
+      "id": "grade_r__general",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "General",
+      "source_path": "General.md"
+    },
+    {
+      "id": "grade_12__geography",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Geography",
+      "source_path": "Geography.md"
+    },
+    {
+      "id": "grade_12__history",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "History",
+      "source_path": "History.md"
+    },
+    {
+      "id": "grade_r__home_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Home Language",
+      "source_path": "Home_Language.md"
+    },
+    {
+      "id": "grade_12__hospitality_studies",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Hospitality Studies",
+      "source_path": "Hospitality_Studies.md"
+    },
+    {
+      "id": "grade_12__it",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "IT",
+      "source_path": "IT.md"
+    },
+    {
+      "id": "grade_12__information_technology_(it)",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Information Technology (IT)",
+      "source_path": "Information_Technology_IT.md"
+    },
+    {
+      "id": "grade_12__life_orientation",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Life Orientation",
+      "source_path": "Life_Orientation.md"
+    },
+    {
+      "id": "grade_12__life_sciences",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Life Sciences",
+      "source_path": "Life_Sciences.md"
+    },
+    {
+      "id": "grade_r__life_skills",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Life Skills",
+      "source_path": "Life_Skills.md"
+    },
+    {
+      "id": "grade_12__mathematical_literacy",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Mathematical Literacy",
+      "source_path": "Mathematical_Literacy.md"
+    },
+    {
+      "id": "grade_r__mathematics",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Mathematics",
+      "source_path": "Mathematics.md"
+    },
+    {
+      "id": "grade_12__mechanical_technology",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Mechanical Technology",
+      "source_path": "Mechanical_Technology.md"
+    },
+    {
+      "id": "grade_12__music",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Music",
+      "source_path": "Music.md"
+    },
+    {
+      "id": "grade_9__natural_sciences",
+      "grade": "Grade 9",
+      "grade_band": "Senior Phase",
+      "subject": "Natural Sciences",
+      "source_path": "Natural_Sciences.md"
+    },
+    {
+      "id": "grade_6__natural_sciences_tech",
+      "grade": "Grade 6",
+      "grade_band": "Intermediate Phase",
+      "subject": "Natural Sciences Tech",
+      "source_path": "Natural_Sciences_Tech.md"
+    },
+    {
+      "id": "grade_6__natural_sciences_and_technology",
+      "grade": "Grade 6",
+      "grade_band": "Intermediate Phase",
+      "subject": "Natural Sciences and Technology",
+      "source_path": "Natural_Sciences_and_Technology.md"
+    },
+    {
+      "id": "grade_12__physical_sciences",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Physical Sciences",
+      "source_path": "Physical_Sciences.md"
+    },
+    {
+      "id": "grade_12__religion_studies",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Religion Studies",
+      "source_path": "Religion_Studies.md"
+    },
+    {
+      "id": "grade_r__sepedi_first_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Sepedi First Additional Language",
+      "source_path": "Sepedi_First_Additional_Language.md"
+    },
+    {
+      "id": "grade_r__sepedi_home_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Sepedi Home Language",
+      "source_path": "Sepedi_Home_Language.md"
+    },
+    {
+      "id": "grade_r__sepedi_second_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Sepedi Second Additional Language",
+      "source_path": "Sepedi_Second_Additional_Language.md"
+    },
+    {
+      "id": "grade_r__sesotho_first_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Sesotho First Additional Language",
+      "source_path": "Sesotho_First_Additional_Language.md"
+    },
+    {
+      "id": "grade_r__sesotho_home_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Sesotho Home Language",
+      "source_path": "Sesotho_Home_Language.md"
+    },
+    {
+      "id": "grade_r__sesotho_second_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Sesotho Second Additional Language",
+      "source_path": "Sesotho_Second_Additional_Language.md"
+    },
+    {
+      "id": "grade_r__setswana_first_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Setswana First Additional Language",
+      "source_path": "Setswana_First_Additional_Language.md"
+    },
+    {
+      "id": "grade_r__setswana_home_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Setswana Home Language",
+      "source_path": "Setswana_Home_Language.md"
+    },
+    {
+      "id": "grade_r__setswana_second_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Setswana Second Additional Language",
+      "source_path": "Setswana_Second_Additional_Language.md"
+    },
+    {
+      "id": "grade_12__siswati_first_additional_language",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "siSwati First Additional Language",
+      "source_path": "Siswati_First_Additional_Language.md"
+    },
+    {
+      "id": "grade_3__siswati_home_language",
+      "grade": "Grade 3",
+      "grade_band": "Foundation Phase",
+      "subject": "siSwati Home Language",
+      "source_path": "Siswati_Home_Language.md"
+    },
+    {
+      "id": "grade_r__siswati_second_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "siSwati Second Additional Language",
+      "source_path": "Siswati_Second_Additional_Language.md"
+    },
+    {
+      "id": "grade_9__social_sciences",
+      "grade": "Grade 9",
+      "grade_band": "Senior Phase",
+      "subject": "Social Sciences",
+      "source_path": "Social_Sciences.md"
+    },
+    {
+      "id": "grade_11__south_african_sign_language_(sasl)",
+      "grade": "Grade 11",
+      "grade_band": "FET Phase",
+      "subject": "South African Sign Language (SASL)",
+      "source_path": "South_African_Sign_Language_SASL.md"
+    },
+    {
+      "id": "grade_9__technology",
+      "grade": "Grade 9",
+      "grade_band": "Senior Phase",
+      "subject": "Technology",
+      "source_path": "Technology.md"
+    },
+    {
+      "id": "grade_12__tourism",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Tourism",
+      "source_path": "Tourism.md"
+    },
+    {
+      "id": "grade_r__tshivenda_first_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Tshivenda First Additional Language",
+      "source_path": "Tshivenda_First_Additional_Language.md"
+    },
+    {
+      "id": "grade_r__tshivenda_home_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Tshivenda Home Language",
+      "source_path": "Tshivenda_Home_Language.md"
+    },
+    {
+      "id": "grade_9__tshivenda_second_additional_language",
+      "grade": "Grade 9",
+      "grade_band": "Senior Phase",
+      "subject": "Tshivenda Second Additional Language",
+      "source_path": "Tshivenda_Second_Additional_Language.md"
+    },
+    {
+      "id": "grade_12__visual_arts",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Visual Arts",
+      "source_path": "Visual_Arts.md"
+    },
+    {
+      "id": "grade_12__welding_technology",
+      "grade": "Grade 12",
+      "grade_band": "FET Phase",
+      "subject": "Welding Technology",
+      "source_path": "Welding_Technology.md"
+    },
+    {
+      "id": "grade_r__xitsonga_first_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Xitsonga First Additional Language",
+      "source_path": "Xitsonga_First_Additional_Language.md"
+    },
+    {
+      "id": "grade_r__xitsonga_home_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Xitsonga Home Language",
+      "source_path": "Xitsonga_Home_Language.md"
+    },
+    {
+      "id": "grade_r__xitsonga_second_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "Xitsonga Second Additional Language",
+      "source_path": "Xitsonga_Second_Additional_Language.md"
+    },
+    {
+      "id": "grade_r__isindebele_first_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "isiNdebele First Additional Language",
+      "source_path": "isiNdebele_First_Additional_Language.md"
+    },
+    {
+      "id": "grade_r__isindebele_home_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "isiNdebele Home Language",
+      "source_path": "isiNdebele_Home_Language.md"
+    },
+    {
+      "id": "grade_r__isindebele_second_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "isiNdebele Second Additional Language",
+      "source_path": "isiNdebele_Second_Additional_Language.md"
+    },
+    {
+      "id": "grade_r__isixhosa_first_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "isiXhosa First Additional Language",
+      "source_path": "isiXhosa_First_Additional_Language.md"
+    },
+    {
+      "id": "grade_r__isixhosa_home_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "isiXhosa Home Language",
+      "source_path": "isiXhosa_Home_Language.md"
+    },
+    {
+      "id": "grade_r__isixhosa_second_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "isiXhosa Second Additional Language",
+      "source_path": "isiXhosa_Second_Additional_Language.md"
+    },
+    {
+      "id": "grade_r__isizulu_first_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "isiZulu First Additional Language",
+      "source_path": "isiZulu_First_Additional_Language.md"
+    },
+    {
+      "id": "grade_r__isizulu_home_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "isiZulu Home Language",
+      "source_path": "isiZulu_Home_Language.md"
+    },
+    {
+      "id": "grade_r__isizulu_second_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "isiZulu Second Additional Language",
+      "source_path": "isiZulu_Second_Additional_Language.md"
+    },
+    {
+      "id": "grade_r__siswati_first_additional_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "siSwati First Additional Language",
+      "source_path": "siSwati_First_Additional_Language.md"
+    },
+    {
+      "id": "grade_r__siswati_home_language",
+      "grade": "Grade R",
+      "grade_band": "Foundation Phase",
+      "subject": "siSwati Home Language",
+      "source_path": "siSwati_Home_Language.md"
+    },
+    {
+      "id": "grade_9__siswati_second_additional_language",
+      "grade": "Grade 9",
+      "grade_band": "Senior Phase",
+      "subject": "siSwati Second Additional Language",
+      "source_path": "siSwati_Second_Additional_Language.md"
+    }
+  ]
+}

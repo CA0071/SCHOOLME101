@@ -1,4 +1,4 @@
-# Grade 1 — Afrikaans Home Language (CAPS)
+# Grade 2 — Afrikaans Home Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Foundation Phase*
@@ -20,13 +20,13 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 1
+**Grade:** Grade 2
 **Subject:** Afrikaans Home Language
 **Phase:** Foundation Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Afrikaans Home Language curriculum for Grade 1 (Foundation Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Afrikaans Home Language curriculum for Grade 2 (Foundation Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -36,7 +36,7 @@ Key Focus Areas:
 
 ### Learning Outcomes
 
-By the end of Grade 1, learners should be able to:
+By the end of Grade 2, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 1, learners should be able to:
 
 ### Listening and Speaking
 
-*Listening and Speaking* is a fundamental concept in Afrikaans Home Language for Grade 1.
+*Listening and Speaking* is a fundamental concept in Afrikaans Home Language for Grade 2.
 
 **Understanding:**
 Learners should understand the principles of listening and speaking and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving afrikaans home language problems and in rea
 
 ### Reading and Viewing
 
-*Reading and Viewing* is a fundamental concept in Afrikaans Home Language for Grade 1.
+*Reading and Viewing* is a fundamental concept in Afrikaans Home Language for Grade 2.
 
 **Understanding:**
 Learners should understand the principles of reading and viewing and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving afrikaans home language problems and in rea
 
 ### Writing
 
-*Writing* is a fundamental concept in Afrikaans Home Language for Grade 1.
+*Writing* is a fundamental concept in Afrikaans Home Language for Grade 2.
 
 **Understanding:**
 Learners should understand the principles of writing and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving afrikaans home language problems and in rea
 
 ### Language Structures
 
-*Language Structures* is a fundamental concept in Afrikaans Home Language for Grade 1.
+*Language Structures* is a fundamental concept in Afrikaans Home Language for Grade 2.
 
 **Understanding:**
 Learners should understand the principles of language structures and how they apply in various contexts.
@@ -149,7 +149,7 @@ and
 
 ### What You Will Learn
 
-In Grade 1 Afrikaans Home Language, you will learn:
+In Grade 2 Afrikaans Home Language, you will learn:
 
 - Listening and speaking skills
 - Reading comprehension and analysis
@@ -219,10 +219,10 @@ Download past CAPS assessment papers from:
 ### Online Resources
 
 - [CAPS for Foundation Phase](https://www.education.gov.za/Curriculum/CurriculumAssessmentPolicyStatements(CAPS)/CAPSFoundation/tabid/571/Default.aspx)
-- [ENGLISH HOME L ANGU A GE](https://www.education.gov.za/Portals/0/CD/National%20Curriculum%20Statements%20and%20Vocational/CAPS%20English%20HL%20GRADES%20R-3%20FS.pdf?ver=2015-01-27-154201-167)
+- [Rainbow Workbooks for learners](https://www.education.gov.za/Curriculum/LearningandTeachingSupportMaterials(LTSM)/Workbooks.aspx)
 - [National Department of Basic Education > Home](https://www.education.gov.za/)
 - [CAPS for Foundation Phase](https://www.education.gov.za/Curriculum/CurriculumAssessmentPolicyStatements(CAPS)/CAPSFoundation/tabid/571/Default.aspx)
-- [CAPS for Foundation Phase](https://www.education.gov.za/Curriculum/CurriculumAssessmentPolicyStatements(CAPS)/CAPSFoundation/tabid/571/Default.aspx)
+- [Mind the Gap Study Guides Grade 12 CAPS Aligned](https://www.education.gov.za/Curriculum/LearningandTeachingSupportMaterials(LTSM)/MindtheGapStudyGuides.aspx)
 
 ### Textbooks and Workbooks
 
@@ -232,6 +232,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:10:25*
+*Generated: 2026-06-07 16:17:39*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

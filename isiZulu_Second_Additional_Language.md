@@ -1,9 +1,9 @@
-# Grade 1 — isiZulu_Second_Additional_Language (CAPS)
+# Grade 2 — isiZulu_Second_Additional_Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Foundation Phase*
 
-**Generated:** 2026-06-07 16:10:15
+**Generated:** 2026-06-07 16:10:17
 **Source Documents:** 15 official CAPS document(s)
 
 ---
@@ -24,7 +24,7 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 1
+**Grade:** Grade 2
 **Subject:** isiZulu_Second_Additional_Language
 **Phase:** Foundation Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
@@ -35,7 +35,7 @@
 
 ### Learning Outcomes
 
-By the end of Grade 1, learners should be able to:
+By the end of Grade 2, learners should be able to:
 
 - Demonstrate understanding of core isiZulu_Second_Additional_Language concepts appropriate for foundation phase
 - Apply knowledge to solve problems and complete tasks
@@ -80,7 +80,7 @@ and will simply be known as the National Curriculum Statement Grades R-1
 
 ### AMABANGA 1-3
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -89,7 +89,7 @@ This topic covers essential isiZulu_Second_Additional_Language concepts for Grad
 
 ### Ukuhlomisa abafundi, noma ngabe bavela kuziphi izimo zenhlalo yomphakathi nezomnotho,
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -98,7 +98,7 @@ This topic covers essential isiZulu_Second_Additional_Language concepts for Grad
 
 ### Ukuvumela abafundi ukuba bangene emikhakheni yemfundo ephakeme.
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -107,7 +107,7 @@ This topic covers essential isiZulu_Second_Additional_Language concepts for Grad
 
 ### Ukwenza kube lula kubafundi ukwedlulela ezikhungweni zemisebenzi ngemuva kokuqeda esikoleni
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -116,7 +116,7 @@ This topic covers essential isiZulu_Second_Additional_Language concepts for Grad
 
 ### Nokwedlulisela kubaqashi ulwazi oluphelele ngamakhono nakwazi ukukwenza ngempumelelo
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -125,7 +125,7 @@ This topic covers essential isiZulu_Second_Additional_Language concepts for Grad
 
 ### Ukuguquka kwezenhlalo yomphakathi; ukubhekelela ukungalingani kwezemfundo ngesikhathi
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -134,7 +134,7 @@ This topic covers essential isiZulu_Second_Additional_Language concepts for Grad
 
 ### Ukufunda ngokuphapheme nangokuhlolisisa; ukukhuthaza indlela yokufunda ngokuphapheme
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -143,7 +143,7 @@ This topic covers essential isiZulu_Second_Additional_Language concepts for Grad
 
 ### Ulwazi oluphakeme namakhono aphakeme, ubuncane obemukelekile umthetho wokulinganisa
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -152,7 +152,7 @@ This topic covers essential isiZulu_Second_Additional_Language concepts for Grad
 
 ### Inqubekela phambili yolwazi; okuqukethwe nengqikithi yalelo nalelo banga kukhombise inqubekela
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -161,7 +161,7 @@ This topic covers essential isiZulu_Second_Additional_Language concepts for Grad
 
 ### Amalungelo esintu, ukudidiyela, ubulungiswa bezemvelo nezenhlalo yomphakathi; ukufaka
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -170,7 +170,7 @@ This topic covers essential isiZulu_Second_Additional_Language concepts for Grad
 
 ### Ukwazisa ngezinhlelo zolwazi lwendabuko, ukwazisa ukunotha komlando namasiko aleli zwe,
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -179,7 +179,7 @@ This topic covers essential isiZulu_Second_Additional_Language concepts for Grad
 
 ### Nokukholakala, uhlonze kanye nokwenza ngempumelelo, ukuhlinzeka ngohlobo lwemfundo
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -188,7 +188,7 @@ This topic covers essential isiZulu_Second_Additional_Language concepts for Grad
 
 ### Ukubona baxazulule izinkinga, bakwazi nokwenza izinqumo besebenzisa ukucabanga ngokuhlaziya
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -197,7 +197,7 @@ This topic covers essential isiZulu_Second_Additional_Language concepts for Grad
 
 ### Ukusebenza ngokuzinikela nabanye njengamalungu eqembu;
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -206,7 +206,7 @@ This topic covers essential isiZulu_Second_Additional_Language concepts for Grad
 
 ### Ukulungiselela, bakwazi ukuziphatha bona baphathe nemisebenzi yabo ngokuyikho;
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -215,7 +215,7 @@ This topic covers essential isiZulu_Second_Additional_Language concepts for Grad
 
 ### Ukuqoqa, bahlaziye, bahlele, bahlanganise, bahlolisise ngokucubungula ulwazi.
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -224,7 +224,7 @@ This topic covers essential isiZulu_Second_Additional_Language concepts for Grad
 
 ### Ukuxoxisana ngempumelelo besebenzisa izinto ezibukwayo, ukufanekisa ngezimpawu kanye
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -233,7 +233,7 @@ This topic covers essential isiZulu_Second_Additional_Language concepts for Grad
 
 ### Ukusebenzisa
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -242,7 +242,7 @@ This topic covers essential isiZulu_Second_Additional_Language concepts for Grad
 
 ### Nokukhombisa ukuqondisisa umhlaba njengenkundla yezinhlelo ezihlobene ngokubona ukuthi
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -251,7 +251,7 @@ This topic covers essential isiZulu_Second_Additional_Language concepts for Grad
 
 ### Ulwazi lokuqala
 
-This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 1.
+This topic covers essential isiZulu_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -456,9 +456,9 @@ vhuvha havho, vhuḓipfi na mihumbulo, u davhidzana na vhaṅwe n...
 
 ## Document Information
 
-**Generated:** 2026-06-07 16:10:15
+**Generated:** 2026-06-07 16:10:17
 **Source Documents:** 15 CAPS document(s) processed
-**Grade:** Grade 1
+**Grade:** Grade 2
 **Subject:** isiZulu_Second_Additional_Language
 
 ---

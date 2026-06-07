@@ -1,9 +1,9 @@
-# Grade 1 — Sesotho_Second_Additional_Language (CAPS)
+# Grade 2 — Sesotho_Second_Additional_Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Foundation Phase*
 
-**Generated:** 2026-06-07 16:10:15
+**Generated:** 2026-06-07 16:10:17
 **Source Documents:** 15 official CAPS document(s)
 
 ---
@@ -24,7 +24,7 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 1
+**Grade:** Grade 2
 **Subject:** Sesotho_Second_Additional_Language
 **Phase:** Foundation Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
@@ -35,7 +35,7 @@
 
 ### Learning Outcomes
 
-By the end of Grade 1, learners should be able to:
+By the end of Grade 2, learners should be able to:
 
 - Demonstrate understanding of core Sesotho_Second_Additional_Language concepts appropriate for foundation phase
 - Apply knowledge to solve problems and complete tasks
@@ -80,7 +80,7 @@ and will simply be known as the National Curriculum Statement Grades R-1
 
 ### ho hlomela baithuti ka tsebo, bokgoni le makgabane tse hlokehang ho iphedisa le ho ba le seabo
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -89,7 +89,7 @@ This topic covers essential Sesotho_Second_Additional_Language concepts for Grad
 
 ### ho ba neha tsela ya ho kena thutong e phahameng;
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -98,7 +98,7 @@ This topic covers essential Sesotho_Second_Additional_Language concepts for Grad
 
 ### ho phethahatsa tshebetso ya ha baithuti ba qetile dibakeng tsa thuto mme ba fetela mesebetsing;
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -107,7 +107,7 @@ This topic covers essential Sesotho_Second_Additional_Language concepts for Grad
 
 ### ho neha boramesebetsi lesedi le felletseng (profaele) ka bokgoni ba moithuti.
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -116,7 +116,7 @@ This topic covers essential Sesotho_Second_Additional_Language concepts for Grad
 
 ### Diphetoho phedisanong; ho nnetefatsa hore ho se lekalekane ha thuto ha ka nako e fetileng ho
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -125,7 +125,7 @@ This topic covers essential Sesotho_Second_Additional_Language concepts for Grad
 
 ### ho ithuta ka tshekatsheko le ka mafolofolo; ho kgothalletsa ho ithuta ka mafolofolo le ka ho sekaseka
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -134,7 +134,7 @@ This topic covers essential Sesotho_Second_Additional_Language concepts for Grad
 
 ### Tsebo le bokgoni tsa boemo bo hodimo: ho hlahisitswe bonyane dipehelo tsa tsebo le bokgoni
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -143,7 +143,7 @@ This topic covers essential Sesotho_Second_Additional_Language concepts for Grad
 
 ### Kgatelopele; dikahare le maemo a tse ithutwang tsa Kereite e nngwe le e nngwe di bontsha
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -152,7 +152,7 @@ This topic covers essential Sesotho_Second_Additional_Language concepts for Grad
 
 ### Ditokelo tsa botho, kenyelletso ya bohle, toka ho tsa phedisano le tikoloho, ho kenyelletsa metheo
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -161,7 +161,7 @@ This topic covers essential Sesotho_Second_Additional_Language concepts for Grad
 
 ### Ho ananela tsebo le mahlale a seholoholo: kananelo ya nalane e mothamo le setso tsa naha ya
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -170,7 +170,7 @@ This topic covers essential Sesotho_Second_Additional_Language concepts for Grad
 
 ### Kamohelo, boleng le phethahatso; ho nehelana ka thuto eo boleng, bophara le botebo ba yona bo
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -179,7 +179,7 @@ This topic covers essential Sesotho_Second_Additional_Language concepts for Grad
 
 ### Tsebo ya Motheo
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -188,7 +188,7 @@ This topic covers essential Sesotho_Second_Additional_Language concepts for Grad
 
 ### Bonono bo iqapelwang
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -197,7 +197,7 @@ This topic covers essential Sesotho_Second_Additional_Language concepts for Grad
 
 ### Boithapollo ba Mmele
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -206,7 +206,7 @@ This topic covers essential Sesotho_Second_Additional_Language concepts for Grad
 
 ### Bophelo bo botle ba motho le
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -215,7 +215,7 @@ This topic covers essential Sesotho_Second_Additional_Language concepts for Grad
 
 ### Bonono bo iqapelwang
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -224,7 +224,7 @@ This topic covers essential Sesotho_Second_Additional_Language concepts for Grad
 
 ### Boithapollo ba Mmele
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -233,7 +233,7 @@ This topic covers essential Sesotho_Second_Additional_Language concepts for Grad
 
 ### Bophelo ba botle ba motho le phedisano
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -242,7 +242,7 @@ This topic covers essential Sesotho_Second_Additional_Language concepts for Grad
 
 ### B8 tsa tokomane
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -251,7 +251,7 @@ This topic covers essential Sesotho_Second_Additional_Language concepts for Grad
 
 ### mmoho le Dipuo tseo e seng tsa Semmuso e leng Arabic, French, German, Gujarati, Hebrew, Hindu, Italia
 
-This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sesotho_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -456,9 +456,9 @@ vhuvha havho, vhuḓipfi na mihumbulo, u davhidzana na vhaṅwe n...
 
 ## Document Information
 
-**Generated:** 2026-06-07 16:10:15
+**Generated:** 2026-06-07 16:10:17
 **Source Documents:** 15 CAPS document(s) processed
-**Grade:** Grade 1
+**Grade:** Grade 2
 **Subject:** Sesotho_Second_Additional_Language
 
 ---

@@ -1,9 +1,9 @@
-# Grade 1 — Sepedi_Second_Additional_Language (CAPS)
+# Grade 2 — Sepedi_Second_Additional_Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Foundation Phase*
 
-**Generated:** 2026-06-07 16:10:15
+**Generated:** 2026-06-07 16:10:17
 **Source Documents:** 15 official CAPS document(s)
 
 ---
@@ -24,7 +24,7 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 1
+**Grade:** Grade 2
 **Subject:** Sepedi_Second_Additional_Language
 **Phase:** Foundation Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
@@ -35,7 +35,7 @@
 
 ### Learning Outcomes
 
-By the end of Grade 1, learners should be able to:
+By the end of Grade 2, learners should be able to:
 
 - Demonstrate understanding of core Sepedi_Second_Additional_Language concepts appropriate for foundation phase
 - Apply knowledge to solve problems and complete tasks
@@ -80,7 +80,7 @@ and will simply be known as the National Curriculum Statement Grades R-1
 
 ### go hlama barutwana, go sa šetšwe maemo a ekonomi malapeng a gabobona, morafe, bong, go itakanela
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -89,7 +89,7 @@ This topic covers essential Sepedi_Second_Additional_Language concepts for Grade
 
 ### go bula menyako ya thuto ya maemo a godimo;
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -98,7 +98,7 @@ This topic covers essential Sepedi_Second_Additional_Language concepts for Grade
 
 ### go kgonagatša diphethogo tša barutwana go tšwa go dihlongwa tša thuto go ya go lefase la mešomo; le
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -107,7 +107,7 @@ This topic covers essential Sepedi_Second_Additional_Language concepts for Grade
 
 ### go fa bengmešomo profaele ye e lekanego ya bokgoni bja morutwana.
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -116,7 +116,7 @@ This topic covers essential Sepedi_Second_Additional_Language concepts for Grade
 
 ### Phetošo ya leago: go netefatša gore go se lekalekane ga maemo a thuto ya maloba go a lokišwa, le
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -125,7 +125,7 @@ This topic covers essential Sepedi_Second_Additional_Language concepts for Grade
 
 ### Go ithuta ka mafolofolo le ka tsinkelo: go hlohleletša go ithuta ka mafolofolo le ka tsinkelo, go pha
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -134,7 +134,7 @@ This topic covers essential Sepedi_Second_Additional_Language concepts for Grade
 
 ### Tsebo ya maemo a godimo le mabokgoni a maemo a godimo: tsebo le mabokgoni a bonyane bja go
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -143,7 +143,7 @@ This topic covers essential Sepedi_Second_Additional_Language concepts for Grade
 
 ### Kgatelopele: diteng le dikamano tša mphato wo mongwe le wo mongwe di laetša kgatelopele go tloga
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -152,7 +152,7 @@ This topic covers essential Sepedi_Second_Additional_Language concepts for Grade
 
 ### Ditokelo tša botho, boakaretši, toka ya tikologo le leago: go tsentšha ditheo le ditšhomišo tša toka
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -161,7 +161,7 @@ This topic covers essential Sepedi_Second_Additional_Language concepts for Grade
 
 ### Go bona mohola wa dithulaganyo tša tsebo ya setšo: go amogela le go dumela gore naga ye e na le
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -170,7 +170,7 @@ This topic covers essential Sepedi_Second_Additional_Language concepts for Grade
 
 ### Kamogelego, boleng le bokgoni: go aba thuto ye e bapetšegago le ya dinaga tše dingwe, go ya ka
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -179,7 +179,7 @@ This topic covers essential Sepedi_Second_Additional_Language concepts for Grade
 
 ### lemoga le go rarolla mathata le go tšea diphetho ka go nagana ka tsinkelo le boitlhamelo bjo bo
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -188,7 +188,7 @@ This topic covers essential Sepedi_Second_Additional_Language concepts for Grade
 
 ### rulaganya le go kgona go itaola mešongwaneng ya bona ka maikarabelo le ka bokgwari;
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -197,7 +197,7 @@ This topic covers essential Sepedi_Second_Additional_Language concepts for Grade
 
 ### kgoboketša, sekaseka, rulaganya le go lekola tshedimošo ka tsinkelo;
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -206,7 +206,7 @@ This topic covers essential Sepedi_Second_Additional_Language concepts for Grade
 
 ### kgokagana ka bokgwari le ba bangwe ka go diriša diswantšho tša go bonwa, dikai le/goba mabokgoni
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -215,7 +215,7 @@ This topic covers essential Sepedi_Second_Additional_Language concepts for Grade
 
 ### diriša saense le theknolotši ka bokgwari le ka tsinkelo ba bontšha maikarabelo mabapi le tikologo le
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -224,7 +224,7 @@ This topic covers essential Sepedi_Second_Additional_Language concepts for Grade
 
 ### laetša kwešišo ya lefase bjalo ka sehlaga sa dithulaganyo tša go nyalelana ka go lemoga gore dikamano
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -233,7 +233,7 @@ This topic covers essential Sepedi_Second_Additional_Language concepts for Grade
 
 ### Tsebo ya go Thoma
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -242,7 +242,7 @@ This topic covers essential Sepedi_Second_Additional_Language concepts for Grade
 
 ### Bokgabo bja Boitlhamelo
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -251,7 +251,7 @@ This topic covers essential Sepedi_Second_Additional_Language concepts for Grade
 
 ### Thutatšhidullammele
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -456,9 +456,9 @@ vhuvha havho, vhuḓipfi na mihumbulo, u davhidzana na vhaṅwe n...
 
 ## Document Information
 
-**Generated:** 2026-06-07 16:10:15
+**Generated:** 2026-06-07 16:10:17
 **Source Documents:** 15 CAPS document(s) processed
-**Grade:** Grade 1
+**Grade:** Grade 2
 **Subject:** Sepedi_Second_Additional_Language
 
 ---

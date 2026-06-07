@@ -1,9 +1,9 @@
-# Grade 1 — Setswana_Second_Additional_Language (CAPS)
+# Grade 2 — Setswana_Second_Additional_Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Foundation Phase*
 
-**Generated:** 2026-06-07 16:10:16
+**Generated:** 2026-06-07 16:10:17
 **Source Documents:** 15 official CAPS document(s)
 
 ---
@@ -24,7 +24,7 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 1
+**Grade:** Grade 2
 **Subject:** Setswana_Second_Additional_Language
 **Phase:** Foundation Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
@@ -35,7 +35,7 @@
 
 ### Learning Outcomes
 
-By the end of Grade 1, learners should be able to:
+By the end of Grade 2, learners should be able to:
 
 - Demonstrate understanding of core Setswana_Second_Additional_Language concepts appropriate for foundation phase
 - Apply knowledge to solve problems and complete tasks
@@ -80,7 +80,7 @@ and will simply be known as the National Curriculum Statement Grades R-1
 
 ### go tlamela barutwana, go sa kgathalesege lemorago la ikonomi ya loago, lotso, bong, bokgoni jwa
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -89,7 +89,7 @@ This topic covers essential Setswana_Second_Additional_Language concepts for Gra
 
 ### e tlamela phitlhelelo ya thuto e e kwa godimo;
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -98,7 +98,7 @@ This topic covers essential Setswana_Second_Additional_Language concepts for Gra
 
 ### go kaela phetogelo ya barutwana go tswa go thuto ya ditheo go ya go lefelo la tiro; le
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -107,7 +107,7 @@ This topic covers essential Setswana_Second_Additional_Language concepts for Gra
 
 ### go tlamela bathati ka tshedimosetso e e lekaneng ya dikgono tsa morutwana.
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -116,7 +116,7 @@ This topic covers essential Setswana_Second_Additional_Language concepts for Gra
 
 ### Phetogo ya loago; e netefatsa gore go sa lekalekaneng mo go tsa thuto go go fetileng go a siamisiwa,
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -125,7 +125,7 @@ This topic covers essential Setswana_Second_Additional_Language concepts for Gra
 
 ### Go ithuta go go tlhaga gape go tseneletse, go rotloetsa molebo o o tlhaga e le o o tseneletseng mo
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -134,7 +134,7 @@ This topic covers essential Setswana_Second_Additional_Language concepts for Gra
 
 ### Kitso e e kwa godimo le dikgono tse di kwa godimo; bonnye jwa maemo a kitso le dikgono tse di
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -143,7 +143,7 @@ This topic covers essential Setswana_Second_Additional_Language concepts for Gra
 
 ### Tsweletso; diteng le bokao jwa mophato o mongwe le o mongwe di supa tsweletso go tloga go e e
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -152,7 +152,7 @@ This topic covers essential Setswana_Second_Additional_Language concepts for Gra
 
 ### Ditshwanelo tsa botho, boakaretsi, bosiaimisi jwa tikologo le loago; go tsenyeletsa melawana le ditlw
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -161,7 +161,7 @@ This topic covers essential Setswana_Second_Additional_Language concepts for Gra
 
 ### Go totobatsa botlhokwa jwa tsamaiso ya kitso ditso; go lemoga ditiragalo (hisetori) le boswa jo bo
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -170,7 +170,7 @@ This topic covers essential Setswana_Second_Additional_Language concepts for Gra
 
 ### Go ikanyega, boleng le nonofo; go tlamela thuto e e ka bapisiwang le ya dinaga tse dingwe ka boleng,
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -179,7 +179,7 @@ This topic covers essential Setswana_Second_Additional_Language concepts for Gra
 
 ### lemoga le go rarabolola mathata gape ba tsaya ditshwetso ba akanya ka tsenelelo e bile ba na le
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -188,7 +188,7 @@ This topic covers essential Setswana_Second_Additional_Language concepts for Gra
 
 ### dira ka katlego ba le bosi, kana ba na le ba bangwe e le karolo ya setlhopha;
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -197,7 +197,7 @@ This topic covers essential Setswana_Second_Additional_Language concepts for Gra
 
 ### ithulaganya, go itsamaisa le go tsamaisa ditiro tsa bona ka boikarabelo le ka nonofo.
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -206,7 +206,7 @@ This topic covers essential Setswana_Second_Additional_Language concepts for Gra
 
 ### tlhaeletsana ka nonofo ba dirisa dikgono tsa pono, matshwao kgotsa dikgono tsa puo mo mekgweng e
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -215,7 +215,7 @@ This topic covers essential Setswana_Second_Additional_Language concepts for Gra
 
 ### dirisa saense le thekenoloji ka nonofo le ka tsenelelo ba supa boikarabelo mo tikologong le mo
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -224,7 +224,7 @@ This topic covers essential Setswana_Second_Additional_Language concepts for Gra
 
 ### bontsha go tlhaloganya lefatshe jaaka thulaganyo ya ditsamaiso tse di amanang ka go lemoga gore
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -233,7 +233,7 @@ This topic covers essential Setswana_Second_Additional_Language concepts for Gra
 
 ### Kitso ya Tshimologo
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -242,7 +242,7 @@ This topic covers essential Setswana_Second_Additional_Language concepts for Gra
 
 ### Botshweretsi jwa Boitlhamedi
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -251,7 +251,7 @@ This topic covers essential Setswana_Second_Additional_Language concepts for Gra
 
 ### Thuto ya Ikatiso ya Mmele
 
-This topic covers essential Setswana_Second_Additional_Language concepts for Grade 1.
+This topic covers essential Setswana_Second_Additional_Language concepts for Grade 2.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -457,9 +457,9 @@ vhuvha havho, vhuḓipfi na mihumbulo, u davhidzana na vhaṅwe n...
 
 ## Document Information
 
-**Generated:** 2026-06-07 16:10:16
+**Generated:** 2026-06-07 16:10:17
 **Source Documents:** 15 CAPS document(s) processed
-**Grade:** Grade 1
+**Grade:** Grade 2
 **Subject:** Setswana_Second_Additional_Language
 
 ---

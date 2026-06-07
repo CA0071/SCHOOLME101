@@ -1,4 +1,4 @@
-# Grade 1 — Sepedi Home Language (CAPS)
+# Grade 2 — Sepedi Home Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Foundation Phase*
@@ -20,13 +20,13 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 1
+**Grade:** Grade 2
 **Subject:** Sepedi Home Language
 **Phase:** Foundation Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Sepedi Home Language curriculum for Grade 1 (Foundation Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Sepedi Home Language curriculum for Grade 2 (Foundation Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -36,7 +36,7 @@ Key Focus Areas:
 
 ### Learning Outcomes
 
-By the end of Grade 1, learners should be able to:
+By the end of Grade 2, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 1, learners should be able to:
 
 ### Listening and Speaking
 
-*Listening and Speaking* is a fundamental concept in Sepedi Home Language for Grade 1.
+*Listening and Speaking* is a fundamental concept in Sepedi Home Language for Grade 2.
 
 **Understanding:**
 Learners should understand the principles of listening and speaking and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving sepedi home language problems and in real-w
 
 ### Reading and Viewing
 
-*Reading and Viewing* is a fundamental concept in Sepedi Home Language for Grade 1.
+*Reading and Viewing* is a fundamental concept in Sepedi Home Language for Grade 2.
 
 **Understanding:**
 Learners should understand the principles of reading and viewing and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving sepedi home language problems and in real-w
 
 ### Writing
 
-*Writing* is a fundamental concept in Sepedi Home Language for Grade 1.
+*Writing* is a fundamental concept in Sepedi Home Language for Grade 2.
 
 **Understanding:**
 Learners should understand the principles of writing and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving sepedi home language problems and in real-w
 
 ### Language Structures
 
-*Language Structures* is a fundamental concept in Sepedi Home Language for Grade 1.
+*Language Structures* is a fundamental concept in Sepedi Home Language for Grade 2.
 
 **Understanding:**
 Learners should understand the principles of language structures and how they apply in various contexts.
@@ -149,7 +149,7 @@ Constitution are to:
 
 ### What You Will Learn
 
-In Grade 1 Sepedi Home Language, you will learn:
+In Grade 2 Sepedi Home Language, you will learn:
 
 - Listening and speaking skills
 - Reading comprehension and analysis
@@ -221,7 +221,7 @@ Download past CAPS assessment papers from:
 - [CAPS for Foundation Phase](https://www.education.gov.za/Curriculum/CurriculumAssessmentPolicyStatements(CAPS)/CAPSFoundation/tabid/571/Default.aspx)
 - [Foundation Phase](https://www.education.gov.za/LinkClick.aspx?fileticket=Uw6apnHzVFA%3D&tabid=571&portalid=0&mid=1560)
 - [IIAL Resouces for Foundation Phase](https://www.education.gov.za/Curriculum/LearningandTeachingSupportMaterials(LTSM)/IIALResources.aspx)
-- [CAPS for Foundation Phase](https://www.education.gov.za/Curriculum/CurriculumAssessmentPolicyStatements(CAPS)/CAPSFoundation/tabid/571/Default.aspx)
+- [National Department of Basic Education > papers](https://www.education.gov.za/papers.aspx)
 - [CAPS for Foundation Phase](https://www.education.gov.za/Curriculum/CurriculumAssessmentPolicyStatements(CAPS)/CAPSFoundation/tabid/571/Default.aspx)
 
 ### Textbooks and Workbooks
@@ -232,6 +232,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:11:08*
+*Generated: 2026-06-07 16:18:09*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

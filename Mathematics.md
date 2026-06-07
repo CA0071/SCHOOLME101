@@ -1,4 +1,4 @@
-# Grade 4 — Mathematics (CAPS)
+# Grade 5 — Mathematics (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Intermediate Phase*
@@ -20,13 +20,13 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 4
+**Grade:** Grade 5
 **Subject:** Mathematics
 **Phase:** Intermediate Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Mathematics curriculum for Grade 4 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Mathematics curriculum for Grade 5 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -36,7 +36,7 @@ Key Focus Areas:
 
 ### Learning Outcomes
 
-By the end of Grade 4, learners should be able to:
+By the end of Grade 5, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 4, learners should be able to:
 
 ### Numbers and Operations
 
-*Numbers and Operations* is a fundamental concept in Mathematics for Grade 4.
+*Numbers and Operations* is a fundamental concept in Mathematics for Grade 5.
 
 **Understanding:**
 Learners should understand the principles of numbers and operations and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving mathematics problems and in real-world scen
 
 ### Patterns and Algebra
 
-*Patterns and Algebra* is a fundamental concept in Mathematics for Grade 4.
+*Patterns and Algebra* is a fundamental concept in Mathematics for Grade 5.
 
 **Understanding:**
 Learners should understand the principles of patterns and algebra and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving mathematics problems and in real-world scen
 
 ### Space and Shape
 
-*Space and Shape* is a fundamental concept in Mathematics for Grade 4.
+*Space and Shape* is a fundamental concept in Mathematics for Grade 5.
 
 **Understanding:**
 Learners should understand the principles of space and shape and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving mathematics problems and in real-world scen
 
 ### Measurement
 
-*Measurement* is a fundamental concept in Mathematics for Grade 4.
+*Measurement* is a fundamental concept in Mathematics for Grade 5.
 
 **Understanding:**
 Learners should understand the principles of measurement and how they apply in various contexts.
@@ -89,7 +89,7 @@ This concept is applied when solving mathematics problems and in real-world scen
 
 ### Data Handling
 
-*Data Handling* is a fundamental concept in Mathematics for Grade 4.
+*Data Handling* is a fundamental concept in Mathematics for Grade 5.
 
 **Understanding:**
 Learners should understand the principles of data handling and how they apply in various contexts.
@@ -159,7 +159,7 @@ Informal or daily assessment ...................................................
 
 ### What You Will Learn
 
-In Grade 4 Mathematics, you will learn:
+In Grade 5 Mathematics, you will learn:
 
 - Number operations and calculations
 - Patterns, functions, and algebra
@@ -234,6 +234,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:23:35*
+*Generated: 2026-06-07 16:26:49*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

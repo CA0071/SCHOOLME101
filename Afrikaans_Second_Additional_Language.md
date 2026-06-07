@@ -1,4 +1,4 @@
-# Grade 4 — Afrikaans Second Additional Language (CAPS)
+# Grade 5 — Afrikaans Second Additional Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Intermediate Phase*
@@ -20,13 +20,13 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 4
+**Grade:** Grade 5
 **Subject:** Afrikaans Second Additional Language
 **Phase:** Intermediate Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Afrikaans Second Additional Language curriculum for Grade 4 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Afrikaans Second Additional Language curriculum for Grade 5 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -36,7 +36,7 @@ Key Focus Areas:
 
 ### Learning Outcomes
 
-By the end of Grade 4, learners should be able to:
+By the end of Grade 5, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 4, learners should be able to:
 
 ### Listening and Speaking
 
-*Listening and Speaking* is a fundamental concept in Afrikaans Second Additional Language for Grade 4.
+*Listening and Speaking* is a fundamental concept in Afrikaans Second Additional Language for Grade 5.
 
 **Understanding:**
 Learners should understand the principles of listening and speaking and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving afrikaans second additional language proble
 
 ### Reading and Viewing
 
-*Reading and Viewing* is a fundamental concept in Afrikaans Second Additional Language for Grade 4.
+*Reading and Viewing* is a fundamental concept in Afrikaans Second Additional Language for Grade 5.
 
 **Understanding:**
 Learners should understand the principles of reading and viewing and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving afrikaans second additional language proble
 
 ### Writing
 
-*Writing* is a fundamental concept in Afrikaans Second Additional Language for Grade 4.
+*Writing* is a fundamental concept in Afrikaans Second Additional Language for Grade 5.
 
 **Understanding:**
 Learners should understand the principles of writing and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving afrikaans second additional language proble
 
 ### Language Structures
 
-*Language Structures* is a fundamental concept in Afrikaans Second Additional Language for Grade 4.
+*Language Structures* is a fundamental concept in Afrikaans Second Additional Language for Grade 5.
 
 **Understanding:**
 Learners should understand the principles of language structures and how they apply in various contexts.
@@ -149,7 +149,7 @@ democracy we have built our curriculum on the values that inspired our Constitut
 
 ### What You Will Learn
 
-In Grade 4 Afrikaans Second Additional Language, you will learn:
+In Grade 5 Afrikaans Second Additional Language, you will learn:
 
 - Listening and speaking skills
 - Reading comprehension and analysis
@@ -224,6 +224,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:25:52*
+*Generated: 2026-06-07 16:29:06*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

@@ -1,4 +1,4 @@
-# Grade 4 — Natural Sciences and Technology (CAPS)
+# Grade 5 — Natural Sciences and Technology (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Intermediate Phase*
@@ -20,13 +20,13 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 4
+**Grade:** Grade 5
 **Subject:** Natural Sciences and Technology
 **Phase:** Intermediate Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Natural Sciences and Technology curriculum for Grade 4 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Natural Sciences and Technology curriculum for Grade 5 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -36,7 +36,7 @@ Key Focus Areas:
 
 ### Learning Outcomes
 
-By the end of Grade 4, learners should be able to:
+By the end of Grade 5, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 4, learners should be able to:
 
 ### Matter and Materials
 
-*Matter and Materials* is a fundamental concept in Natural Sciences and Technology for Grade 4.
+*Matter and Materials* is a fundamental concept in Natural Sciences and Technology for Grade 5.
 
 **Understanding:**
 Learners should understand the principles of matter and materials and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving natural sciences and technology problems an
 
 ### Living and Non-living
 
-*Living and Non-living* is a fundamental concept in Natural Sciences and Technology for Grade 4.
+*Living and Non-living* is a fundamental concept in Natural Sciences and Technology for Grade 5.
 
 **Understanding:**
 Learners should understand the principles of living and non-living and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving natural sciences and technology problems an
 
 ### Earth and Beyond
 
-*Earth and Beyond* is a fundamental concept in Natural Sciences and Technology for Grade 4.
+*Earth and Beyond* is a fundamental concept in Natural Sciences and Technology for Grade 5.
 
 **Understanding:**
 Learners should understand the principles of earth and beyond and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving natural sciences and technology problems an
 
 ### Energy and Change
 
-*Energy and Change* is a fundamental concept in Natural Sciences and Technology for Grade 4.
+*Energy and Change* is a fundamental concept in Natural Sciences and Technology for Grade 5.
 
 **Understanding:**
 Learners should understand the principles of energy and change and how they apply in various contexts.
@@ -149,7 +149,7 @@ Constitution are to:
 
 ### What You Will Learn
 
-In Grade 4 Natural Sciences and Technology, you will learn:
+In Grade 5 Natural Sciences and Technology, you will learn:
 
 - Scientific investigation skills
 - Matter, materials, and chemical processes
@@ -224,6 +224,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:23:40*
+*Generated: 2026-06-07 16:26:54*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

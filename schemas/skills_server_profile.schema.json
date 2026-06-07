@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Grade R-12 Skills Server Profile",
+  "title": "Grade R–12 Skills Server Profile",
   "type": "object",
   "required": [
     "server_id",

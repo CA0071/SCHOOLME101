@@ -35,7 +35,7 @@
     },
     {
       "id": "student_skills_r12",
-      "name": "Grade R-12 Student Skills MCP",
+      "name": "Grade R–12 Student Skills MCP",
       "definition": "mcp/servers/student_skills_r12.server.json",
       "enabled_by_default": true
     },

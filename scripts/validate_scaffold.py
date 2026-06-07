@@ -5,7 +5,7 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
-from typing import Dict, List, Tuple
+from typing import Dict, List, Tuple, TypedDict
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -46,14 +46,28 @@ EXPECTED_GITHUB_TOOL_GROUPS = {
 }
 
 
+class ScaffoldContext(TypedDict, total=False):
+    registry: Dict
+
+
 def _load_json(path: Path) -> Dict:
     with path.open("r", encoding="utf-8") as handle:
         return json.load(handle)
 
 
-def validate_scaffold(root: Path = ROOT) -> Tuple[List[str], Dict]:
+def validate_scaffold(root: Path = ROOT) -> Tuple[List[str], ScaffoldContext]:
+    """Validate required scaffold files and key server capabilities.
+
+    Args:
+        root: Repository root path to validate.
+
+    Returns:
+        A tuple of:
+        - errors: list of human-readable validation errors.
+        - context: auxiliary parsed data (currently includes the loaded registry).
+    """
     errors: List[str] = []
-    context: Dict = {}
+    context: ScaffoldContext = {}
 
     for rel in REQUIRED_FILES:
         if not (root / rel).exists():
@@ -61,7 +75,6 @@ def validate_scaffold(root: Path = ROOT) -> Tuple[List[str], Dict]:
 
     registry_path = root / "mcp/config/mcp_registry.json"
     if not registry_path.exists():
-        errors.append("Missing MCP registry file")
         return errors, context
 
     registry = _load_json(registry_path)
@@ -91,7 +104,12 @@ def validate_scaffold(root: Path = ROOT) -> Tuple[List[str], Dict]:
     skills_def_path = root / "mcp/servers/student_skills_r12.server.json"
     if skills_def_path.exists():
         skills_def = _load_json(skills_def_path)
-        bands = {band.get("band") for band in skills_def.get("grade_bands", [])}
+        bands = set()
+        for band in skills_def.get("grade_bands", []):
+            if "band" not in band:
+                errors.append("student_skills_r12 grade band entry missing 'band' key")
+                continue
+            bands.add(band["band"])
         if EXPECTED_GRADE_BANDS - bands:
             errors.append("student_skills_r12 missing required grade bands")
 

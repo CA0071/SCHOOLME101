@@ -1,0 +1,17 @@
+{
+  "build_profile": "scaffold-foundation",
+  "registry": "mcp/config/mcp_registry.json",
+  "enabled_servers": [
+    "education",
+    "quiz",
+    "homework",
+    "automation_admin",
+    "retrieval",
+    "student_skills_r12",
+    "github"
+  ],
+  "notes": [
+    "This file controls scaffold integration and validation coverage.",
+    "External MCP servers are represented as templates unless deployed separately."
+  ]
+}

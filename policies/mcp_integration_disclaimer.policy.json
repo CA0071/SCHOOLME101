@@ -1,0 +1,8 @@
+{
+  "policy_id": "mcp_integration_disclaimer_v1",
+  "rules": [
+    "Scaffold definitions describe integration contracts, not guaranteed live services.",
+    "Runtime credentials and external deployments must be configured separately.",
+    "Document implemented vs planned integrations explicitly."
+  ]
+}

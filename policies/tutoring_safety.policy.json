@@ -1,0 +1,10 @@
+{
+  "policy_id": "tutoring_safety_v1",
+  "applies_to": ["education", "quiz", "homework", "retrieval", "student_skills_r12"],
+  "rules": [
+    "Enforce age-appropriate language by grade band.",
+    "Do not provide unsafe, harmful, or exploitative content.",
+    "Prefer guided learning over answer dumping.",
+    "Flag sensitive student wellbeing signals for human escalation."
+  ]
+}

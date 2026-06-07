@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "MCP Server Definition",
+  "type": "object",
+  "required": ["id", "title", "status", "scope"],
+  "properties": {
+    "id": {"type": "string", "minLength": 1},
+    "title": {"type": "string", "minLength": 1},
+    "status": {"type": "string", "enum": ["scaffolded", "active"]},
+    "scope": {"type": "string", "minLength": 1},
+    "policies": {"type": "array", "items": {"type": "string"}}
+  }
+}

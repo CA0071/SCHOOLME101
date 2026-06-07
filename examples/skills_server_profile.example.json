@@ -1,0 +1,22 @@
+{
+  "server_id": "student_skills_r12",
+  "grade_band": "senior_phase",
+  "subjects": [
+    "Mathematics",
+    "Natural Sciences",
+    "English Home Language"
+  ],
+  "skill_categories": [
+    "tutoring",
+    "summaries",
+    "quizzes",
+    "homework_help",
+    "remediation",
+    "study_planning"
+  ],
+  "curriculum_framework": "CAPS",
+  "localization": {
+    "country": "South Africa",
+    "language": "English"
+  }
+}

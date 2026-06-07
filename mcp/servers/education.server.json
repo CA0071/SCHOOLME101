@@ -1,0 +1,14 @@
+{
+  "id": "education",
+  "title": "Education Content MCP",
+  "status": "scaffolded",
+  "scope": "curriculum-aligned tutoring content",
+  "capabilities": [
+    "lesson_explanations",
+    "topic_breakdowns",
+    "curriculum_alignment"
+  ],
+  "policies": [
+    "policies/tutoring_safety.policy.json"
+  ]
+}

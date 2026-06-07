@@ -1,0 +1,14 @@
+{
+  "id": "quiz",
+  "title": "Quiz Generation MCP",
+  "status": "scaffolded",
+  "scope": "assessment generation",
+  "capabilities": [
+    "question_generation",
+    "marking_guides",
+    "difficulty_scaling"
+  ],
+  "policies": [
+    "policies/tutoring_safety.policy.json"
+  ]
+}

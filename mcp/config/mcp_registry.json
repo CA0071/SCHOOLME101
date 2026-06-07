@@ -1,0 +1,49 @@
+{
+  "version": "1.0.0",
+  "scaffold_only": true,
+  "description": "MCP server registry for SCHOOLME101 scaffold foundation.",
+  "servers": [
+    {
+      "id": "education",
+      "name": "Education Content MCP",
+      "definition": "mcp/servers/education.server.json",
+      "enabled_by_default": true
+    },
+    {
+      "id": "quiz",
+      "name": "Quiz Generation MCP",
+      "definition": "mcp/servers/quiz.server.json",
+      "enabled_by_default": true
+    },
+    {
+      "id": "homework",
+      "name": "Homework Support MCP",
+      "definition": "mcp/servers/homework.server.json",
+      "enabled_by_default": true
+    },
+    {
+      "id": "automation_admin",
+      "name": "Automation Admin MCP",
+      "definition": "mcp/servers/automation_admin.server.json",
+      "enabled_by_default": false
+    },
+    {
+      "id": "retrieval",
+      "name": "Knowledge Retrieval MCP",
+      "definition": "mcp/servers/retrieval.server.json",
+      "enabled_by_default": true
+    },
+    {
+      "id": "student_skills_r12",
+      "name": "Grade R-12 Student Skills MCP",
+      "definition": "mcp/servers/student_skills_r12.server.json",
+      "enabled_by_default": true
+    },
+    {
+      "id": "github",
+      "name": "GitHub MCP Integration",
+      "definition": "mcp/servers/github.server.json",
+      "enabled_by_default": true
+    }
+  ]
+}

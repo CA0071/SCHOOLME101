@@ -1,0 +1,14 @@
+{
+  "id": "retrieval",
+  "title": "Knowledge Retrieval MCP",
+  "status": "scaffolded",
+  "scope": "curriculum and knowledgebase retrieval",
+  "capabilities": [
+    "document_search",
+    "source_grounding",
+    "citation_support"
+  ],
+  "policies": [
+    "policies/tutoring_safety.policy.json"
+  ]
+}

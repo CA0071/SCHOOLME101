@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Grade R-12 Skills Server Profile",
+  "type": "object",
+  "required": [
+    "server_id",
+    "grade_band",
+    "subjects",
+    "skill_categories",
+    "curriculum_framework",
+    "localization"
+  ],
+  "properties": {
+    "server_id": {"const": "student_skills_r12"},
+    "grade_band": {
+      "type": "string",
+      "enum": ["foundation_phase", "intermediate_phase", "senior_phase", "fet"]
+    },
+    "subjects": {
+      "type": "array",
+      "minItems": 1,
+      "items": {"type": "string"}
+    },
+    "skill_categories": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "tutoring",
+          "summaries",
+          "quizzes",
+          "homework_help",
+          "remediation",
+          "study_planning",
+          "exam_prep",
+          "language_learning",
+          "age_appropriate_guidance"
+        ]
+      }
+    },
+    "curriculum_framework": {
+      "type": "string",
+      "enum": ["CAPS", "IEB", "IMPAQ", "custom"]
+    },
+    "localization": {
+      "type": "object",
+      "required": ["country", "language"],
+      "properties": {
+        "country": {"type": "string"},
+        "language": {"type": "string"}
+      }
+    }
+  }
+}

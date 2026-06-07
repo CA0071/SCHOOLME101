@@ -1,0 +1,17 @@
+services:
+  schoolme101-mcp:
+    build:
+      context: .
+      target: production
+    image: schoolme101-mcp:latest
+    container_name: schoolme101-mcp
+    environment:
+      - MCP_TRANSPORT=stdio
+      - CURRICULUM_PATH=/app
+      - LOG_LEVEL=info
+    stdin_open: true
+    tty: false
+    restart: unless-stopped
+    volumes:
+      # Mount local curriculum files during development so changes are reflected immediately
+      - .:/app/curriculum:ro

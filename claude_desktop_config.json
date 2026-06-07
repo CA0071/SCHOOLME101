@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "schoolme101": {
+      "command": "node",
+      "args": ["/ABSOLUTE/PATH/TO/SCHOOLME101/dist/index.js"],
+      "env": {
+        "CURRICULUM_PATH": "/ABSOLUTE/PATH/TO/SCHOOLME101",
+        "MCP_TRANSPORT": "stdio"
+      }
+    }
+  }
+}

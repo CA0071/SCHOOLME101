@@ -1,0 +1,56 @@
+{
+  "servers": [
+    { "id": "schoolme101", "category": "education", "tools": 7, "resources": 5 },
+    { "id": "student_skills_r12", "category": "education", "tools": 12, "resources": 3 },
+    { "id": "question_bank", "category": "education", "tools": 8, "resources": 2 },
+    { "id": "student_progress", "category": "education", "tools": 6, "resources": 2 },
+    { "id": "openstax", "category": "education", "tools": 8, "resources": 2 },
+    { "id": "geogebra", "category": "education", "tools": 7, "resources": 2 },
+    { "id": "lumen_tutor", "category": "education", "tools": 6, "resources": 2 },
+    { "id": "global_education_data", "category": "education", "tools": 5, "resources": 2 },
+
+    { "id": "whatsapp", "category": "whatsapp", "tools": 12, "resources": 3 },
+    { "id": "whatsapp_extended", "category": "whatsapp", "tools": 15, "resources": 3 },
+    { "id": "whatsapp_cloud_api", "category": "whatsapp", "tools": 18, "resources": 3 },
+    { "id": "whatsapp_stream", "category": "whatsapp", "tools": 16, "resources": 3 },
+
+    { "id": "supabase", "category": "database", "tools": 18, "resources": 3 },
+    { "id": "qdrant", "category": "database", "tools": 12, "resources": 3 },
+    { "id": "mysql", "category": "database", "tools": 8, "resources": 2 },
+    { "id": "mongodb", "category": "database", "tools": 7, "resources": 2 },
+    { "id": "postgres", "category": "database", "tools": 6, "resources": 2 },
+    { "id": "redis", "category": "database", "tools": 5, "resources": 2 },
+
+    { "id": "cloudflare", "category": "cloud", "tools": 18, "resources": 3 },
+    { "id": "cloudflare_api", "category": "cloud", "tools": 10, "resources": 2 },
+
+    { "id": "playwright", "category": "browser", "tools": 12, "resources": 2 },
+    { "id": "playwright_extended", "category": "browser", "tools": 10, "resources": 2 },
+
+    { "id": "tts_kokoro", "category": "tts", "tools": 8, "resources": 2 },
+    { "id": "tts_edge", "category": "tts", "tools": 12, "resources": 2 },
+    { "id": "tts_allvoice", "category": "tts", "tools": 5, "resources": 2 },
+
+    { "id": "image_minimax", "category": "image", "tools": 7, "resources": 2 },
+    { "id": "image_diffusion", "category": "image", "tools": 6, "resources": 2 },
+    { "id": "image_gpt", "category": "image", "tools": 5, "resources": 2 },
+
+    { "id": "ocr_advanced", "category": "ocr", "tools": 10, "resources": 2 },
+    { "id": "pdf_ai", "category": "ocr", "tools": 12, "resources": 2 },
+    { "id": "pdf_ops", "category": "ocr", "tools": 6, "resources": 2 },
+    { "id": "document_ocr", "category": "ocr", "tools": 4, "resources": 2 },
+
+    { "id": "nocturne_memory", "category": "memory", "tools": 10, "resources": 2 },
+    { "id": "memory_bank", "category": "memory", "tools": 8, "resources": 2 },
+    { "id": "bookstack", "category": "memory", "tools": 10, "resources": 2 },
+
+    { "id": "arxiv", "category": "research", "tools": 6, "resources": 2 },
+    { "id": "jupyter", "category": "research", "tools": 7, "resources": 2 },
+
+    { "id": "paypal", "category": "other", "tools": 12, "resources": 2 },
+    { "id": "shell", "category": "other", "tools": 4, "resources": 1 },
+    { "id": "powershell", "category": "other", "tools": 4, "resources": 1 },
+    { "id": "ai_automation", "category": "other", "tools": 7, "resources": 2 },
+    { "id": "github", "category": "other", "tools": 9, "resources": 2 }
+  ]
+}

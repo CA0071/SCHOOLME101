@@ -1,0 +1,6 @@
+services:
+  schoolme-unified:
+    build: .
+    image: schoolme-unified:latest
+    stdin_open: true
+    tty: true

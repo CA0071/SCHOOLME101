@@ -1,0 +1,18 @@
+{
+  "id": "ocr",
+  "name": "OCR MCP",
+  "description": "Advanced OCR MCP \u2014 DeepSeek-OCR, Florence-2, PP-OCRv5, multi-format, scanned PDFs",
+  "category": "OCR",
+  "upstream_repo": "sandraschi/ocr-mcp",
+  "install": {
+    "type": "pip",
+    "package": "ocr-mcp",
+    "env_vars": []
+  },
+  "tools": [
+    "ocr_extraction",
+    "multi_engine_ocr",
+    "pdf_ocr"
+  ],
+  "safety_notes": "Redact personal learner data from scanned documents before sharing."
+}

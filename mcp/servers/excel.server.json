@@ -1,0 +1,18 @@
+{
+  "id": "excel",
+  "name": "Excel MCP",
+  "description": "Excel/spreadsheet manipulation \u2014 mark sheets, timetables, reports",
+  "category": "Database",
+  "upstream_repo": "haris-musa/excel-mcp-server",
+  "install": {
+    "type": "pip",
+    "package": "excel-mcp-server",
+    "env_vars": []
+  },
+  "tools": [
+    "spreadsheet_editing",
+    "formula_operations",
+    "report_generation"
+  ],
+  "safety_notes": "Protect grade sheets and avoid accidental overwrite of official records."
+}

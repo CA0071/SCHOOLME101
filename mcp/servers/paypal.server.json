@@ -1,0 +1,23 @@
+{
+  "id": "paypal",
+  "name": "PayPal MCP",
+  "description": "Official PayPal MCP server \u2014 orders, payments, subscriptions, invoices",
+  "category": "Payments",
+  "upstream_repo": "paypal/paypal-mcp-server",
+  "install": {
+    "type": "npx",
+    "package": "paypal-mcp-server",
+    "env_vars": [
+      "PAYPAL_CLIENT_ID",
+      "PAYPAL_CLIENT_SECRET",
+      "PAYPAL_MODE"
+    ]
+  },
+  "tools": [
+    "orders",
+    "payments",
+    "subscriptions",
+    "invoices"
+  ],
+  "safety_notes": "Use sandbox mode by default and never expose payment credentials in logs."
+}

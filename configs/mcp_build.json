@@ -1,0 +1,214 @@
+{
+  "servers": [
+    {
+      "id": "ai_automation",
+      "install_type": "docker",
+      "install_command": "docker run --rm csoai-org/education-ai-mcp"
+    },
+    {
+      "id": "arxiv",
+      "install_type": "pip",
+      "install_command": "pip install arxiv-mcp-server"
+    },
+    {
+      "id": "bookstack",
+      "install_type": "docker",
+      "install_command": "docker run --rm bees-roadhouse/bookstack-mcp"
+    },
+    {
+      "id": "cloudflare",
+      "install_type": "npx",
+      "install_command": "npx @cloudflare/mcp-server-cloudflare"
+    },
+    {
+      "id": "cloudflare_api",
+      "install_type": "docker",
+      "install_command": "docker run --rm cloudflare/mcp"
+    },
+    {
+      "id": "excel",
+      "install_type": "pip",
+      "install_command": "pip install excel-mcp-server"
+    },
+    {
+      "id": "geogebra",
+      "install_type": "npx",
+      "install_command": "npx geogebra-mcp-server"
+    },
+    {
+      "id": "github",
+      "install_type": "npx",
+      "install_command": "npx @github/mcp-server"
+    },
+    {
+      "id": "global_education_data",
+      "install_type": "pip",
+      "install_command": "pip install global-education-mcp"
+    },
+    {
+      "id": "image_gen",
+      "install_type": "pip",
+      "install_command": "pip install image-generation-mcp-server"
+    },
+    {
+      "id": "image_gen_gpt",
+      "install_type": "npx",
+      "install_command": "npx gpt-image-1-mcp"
+    },
+    {
+      "id": "jupyter",
+      "install_type": "pip",
+      "install_command": "pip install jupyter-mcp-server"
+    },
+    {
+      "id": "lumen_tutor",
+      "install_type": "docker",
+      "install_command": "docker run --rm ahmedeid1/lumen"
+    },
+    {
+      "id": "memory_bank",
+      "install_type": "npx",
+      "install_command": "npx memory-bank-mcp"
+    },
+    {
+      "id": "memory_nocturne",
+      "install_type": "pip",
+      "install_command": "pip install nocturne-memory"
+    },
+    {
+      "id": "minimax",
+      "install_type": "npx",
+      "install_command": "npx minimax-mcp"
+    },
+    {
+      "id": "mongodb",
+      "install_type": "npx",
+      "install_command": "npx mongodb-mcp-server"
+    },
+    {
+      "id": "mysql",
+      "install_type": "pip",
+      "install_command": "pip install mysql-mcp-server"
+    },
+    {
+      "id": "ocr",
+      "install_type": "pip",
+      "install_command": "pip install ocr-mcp"
+    },
+    {
+      "id": "ocr_docs",
+      "install_type": "pip",
+      "install_command": "pip install ocr-mcp"
+    },
+    {
+      "id": "openstax",
+      "install_type": "npx",
+      "install_command": "npx openstax-mcp-server"
+    },
+    {
+      "id": "openstudy",
+      "install_type": "docker",
+      "install_command": "docker run --rm openstudy-dev/openstudy"
+    },
+    {
+      "id": "paypal",
+      "install_type": "npx",
+      "install_command": "npx paypal-mcp-server"
+    },
+    {
+      "id": "pdf_ai",
+      "install_type": "pip",
+      "install_command": "pip install comidp-mcp-server"
+    },
+    {
+      "id": "pdf_ops",
+      "install_type": "pip",
+      "install_command": "pip install pdf-mcp-server"
+    },
+    {
+      "id": "playwright",
+      "install_type": "npx",
+      "install_command": "npx @playwright/mcp"
+    },
+    {
+      "id": "playwright_exec",
+      "install_type": "npx",
+      "install_command": "npx mcp-playwright"
+    },
+    {
+      "id": "powershell",
+      "install_type": "docker",
+      "install_command": "docker run --rm dfinke/mcp-powershell-exec"
+    },
+    {
+      "id": "powershell_poshmcp",
+      "install_type": "docker",
+      "install_command": "docker run --rm usepowershell/poshmcp"
+    },
+    {
+      "id": "qdrant",
+      "install_type": "docker",
+      "install_command": "docker run --rm qdrant/mcp-server-qdrant"
+    },
+    {
+      "id": "question_bank",
+      "install_type": "pip",
+      "install_command": "pip install question-bank-mcp"
+    },
+    {
+      "id": "student_progress",
+      "install_type": "pip",
+      "install_command": "pip install student-progress-tracker"
+    },
+    {
+      "id": "student_skills_r12",
+      "install_type": "pip",
+      "install_command": "pip install student-skills-r12-mcp"
+    },
+    {
+      "id": "supabase",
+      "install_type": "npx",
+      "install_command": "npx supabase-mcp-server"
+    },
+    {
+      "id": "supabase_selfhosted",
+      "install_type": "docker",
+      "install_command": "docker run --rm henkdz/selfhosted-supabase-mcp"
+    },
+    {
+      "id": "tts_allvoice",
+      "install_type": "npx",
+      "install_command": "npx allvoicelab-mcp"
+    },
+    {
+      "id": "tts_edge",
+      "install_type": "pip",
+      "install_command": "pip install edge-tts-mcp-server"
+    },
+    {
+      "id": "tts_kokoro",
+      "install_type": "pip",
+      "install_command": "pip install kokoro-tts-mcp"
+    },
+    {
+      "id": "whatsapp",
+      "install_type": "go",
+      "install_command": "go install github.com/lharries/whatsapp-mcp@latest"
+    },
+    {
+      "id": "whatsapp_cloud_api",
+      "install_type": "npx",
+      "install_command": "npx whatsapp-mcp-server"
+    },
+    {
+      "id": "whatsapp_extended",
+      "install_type": "npx",
+      "install_command": "npx whatsapp-mcp-extended"
+    },
+    {
+      "id": "whatsapp_stream",
+      "install_type": "docker",
+      "install_command": "docker run --rm delltrak/wamcp"
+    }
+  ]
+}

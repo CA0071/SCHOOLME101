@@ -1,0 +1,18 @@
+{
+  "id": "arxiv",
+  "name": "ArXiv MCP",
+  "description": "ArXiv research paper access \u2014 teacher/curriculum content enrichment",
+  "category": "Research",
+  "upstream_repo": "blazickjp/arxiv-mcp-server",
+  "install": {
+    "type": "pip",
+    "package": "arxiv-mcp-server",
+    "env_vars": []
+  },
+  "tools": [
+    "paper_search",
+    "paper_fetch",
+    "research_discovery"
+  ],
+  "safety_notes": "Surface only age-appropriate excerpts for classroom use."
+}

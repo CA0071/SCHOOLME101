@@ -1,0 +1,19 @@
+{
+  "id": "pdf_ops",
+  "name": "PDF Ops MCP",
+  "description": "PDF operations: form fill, OCR, redaction, table extraction, LLM understanding",
+  "category": "OCR",
+  "upstream_repo": "nfsarch33/pdf-mcp-server",
+  "install": {
+    "type": "pip",
+    "package": "pdf-mcp-server",
+    "env_vars": []
+  },
+  "tools": [
+    "form_fill",
+    "redaction",
+    "table_extraction",
+    "ocr"
+  ],
+  "safety_notes": "Enforce redaction checks for student identifiers in shared outputs."
+}

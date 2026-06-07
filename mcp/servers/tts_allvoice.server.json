@@ -1,0 +1,20 @@
+{
+  "id": "tts_allvoice",
+  "name": "AllVoiceLab MCP",
+  "description": "AllVoiceLab MCP \u2014 multi-voice TTS with emotion/style control",
+  "category": "TTS",
+  "upstream_repo": "allvoicelab/AllVoiceLab-MCP",
+  "install": {
+    "type": "npx",
+    "package": "allvoicelab-mcp",
+    "env_vars": [
+      "ALLVOICE_API_KEY"
+    ]
+  },
+  "tools": [
+    "multi_voice_tts",
+    "emotion_control",
+    "style_control"
+  ],
+  "safety_notes": "Use neutral, supportive tone settings suitable for school-age learners."
+}

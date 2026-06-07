@@ -1,0 +1,20 @@
+{
+  "id": "mongodb",
+  "name": "MongoDB MCP",
+  "description": "Official MongoDB MCP server",
+  "category": "Database",
+  "upstream_repo": "mongodb-js/mongodb-mcp-server",
+  "install": {
+    "type": "npx",
+    "package": "mongodb-mcp-server",
+    "env_vars": [
+      "MONGODB_URI"
+    ]
+  },
+  "tools": [
+    "document_queries",
+    "aggregation",
+    "collection_management"
+  ],
+  "safety_notes": "Validate and sanitize document payloads before persistence."
+}

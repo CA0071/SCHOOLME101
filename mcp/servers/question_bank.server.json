@@ -1,0 +1,19 @@
+{
+  "id": "question_bank",
+  "name": "Question Bank MCP",
+  "description": "Teacher tool: create and manage test question banks via Claude",
+  "category": "Education",
+  "upstream_repo": "woodstocksoftware/question-bank-mcp",
+  "install": {
+    "type": "pip",
+    "package": "question-bank-mcp",
+    "env_vars": []
+  },
+  "tools": [
+    "question_authoring",
+    "question_management",
+    "assessment_planning"
+  ],
+  "safety_notes": "Ensure generated assessments match grade level and curriculum outcomes.",
+  "age_appropriate_content": true
+}

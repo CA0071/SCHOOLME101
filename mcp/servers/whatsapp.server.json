@@ -1,0 +1,21 @@
+{
+  "id": "whatsapp",
+  "name": "WhatsApp MCP",
+  "description": "Primary WhatsApp MCP (Go/whatsmeow) \u2014 send/receive messages, media, contacts",
+  "category": "WhatsApp",
+  "upstream_repo": "lharries/whatsapp-mcp",
+  "install": {
+    "type": "go",
+    "command": "go install github.com/lharries/whatsapp-mcp@latest",
+    "env_vars": [
+      "WHATSAPP_API_TOKEN",
+      "WHATSAPP_PHONE_NUMBER_ID"
+    ]
+  },
+  "tools": [
+    "messaging",
+    "media",
+    "contacts"
+  ],
+  "safety_notes": "Apply moderation and consent controls for parent-student-teacher communication."
+}

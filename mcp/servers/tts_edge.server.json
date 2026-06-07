@@ -1,0 +1,19 @@
+{
+  "id": "tts_edge",
+  "name": "Edge TTS MCP",
+  "description": "Microsoft Edge TTS \u2014 free, 400+ multilingual voices including African languages",
+  "category": "TTS",
+  "upstream_repo": "yuiseki/edge_tts_mcp_server",
+  "install": {
+    "type": "pip",
+    "package": "edge-tts-mcp-server",
+    "env_vars": []
+  },
+  "tools": [
+    "multilingual_tts",
+    "voice_synthesis",
+    "audio_export"
+  ],
+  "safety_notes": "Ensure generated audio remains curriculum-safe and culturally respectful.",
+  "educational_notes": "Supports multilingual South African contexts, including isiZulu, isiXhosa, Afrikaans, and Sesotho voice output for Grade R\u201312 learners."
+}

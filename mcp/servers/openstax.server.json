@@ -1,0 +1,19 @@
+{
+  "id": "openstax",
+  "name": "OpenStax MCP",
+  "description": "OpenStax textbooks: semantic search, Jupyter notebook generation, practice problems",
+  "category": "Education",
+  "upstream_repo": "pythpythpython/openstax-mcp-server",
+  "install": {
+    "type": "npx",
+    "package": "openstax-mcp-server",
+    "env_vars": []
+  },
+  "tools": [
+    "textbook_search",
+    "practice_generation",
+    "notebook_generation"
+  ],
+  "safety_notes": "Align generated practice with local curriculum and age level.",
+  "age_appropriate_content": true
+}

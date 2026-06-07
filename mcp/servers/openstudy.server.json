@@ -1,0 +1,22 @@
+{
+  "id": "openstudy",
+  "name": "OpenStudy MCP",
+  "description": "Self-hostable study dashboard MCP \u2014 AI-powered, Supabase-backed, student-facing",
+  "category": "Education",
+  "upstream_repo": "OpenStudy-dev/OpenStudy",
+  "install": {
+    "type": "docker",
+    "command": "docker run --rm openstudy-dev/openstudy",
+    "env_vars": [
+      "SUPABASE_URL",
+      "SUPABASE_SERVICE_ROLE_KEY"
+    ]
+  },
+  "tools": [
+    "study_dashboard",
+    "student_sessions",
+    "learning_content"
+  ],
+  "safety_notes": "Protect student profiles and enforce supervised content delivery.",
+  "age_appropriate_content": true
+}

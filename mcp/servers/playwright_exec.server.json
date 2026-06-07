@@ -1,0 +1,18 @@
+{
+  "id": "playwright_exec",
+  "name": "Playwright Exec MCP",
+  "description": "Extended Playwright MCP with test execution support",
+  "category": "Browser Automation",
+  "upstream_repo": "executeautomation/mcp-playwright",
+  "install": {
+    "type": "npx",
+    "package": "mcp-playwright",
+    "env_vars": []
+  },
+  "tools": [
+    "browser_automation",
+    "test_execution",
+    "page_interaction"
+  ],
+  "safety_notes": "Run only approved browser automation scripts for school workflows."
+}

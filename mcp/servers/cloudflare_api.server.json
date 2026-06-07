@@ -1,0 +1,21 @@
+{
+  "id": "cloudflare_api",
+  "name": "Cloudflare API MCP",
+  "description": "Official Cloudflare API MCP server at mcp.cloudflare.com",
+  "category": "Cloud",
+  "upstream_repo": "cloudflare/mcp",
+  "install": {
+    "type": "docker",
+    "command": "docker run --rm cloudflare/mcp",
+    "env_vars": [
+      "CLOUDFLARE_API_TOKEN",
+      "CLOUDFLARE_ACCOUNT_ID"
+    ]
+  },
+  "tools": [
+    "api_gateway",
+    "zone_management",
+    "infrastructure_ops"
+  ],
+  "safety_notes": "Use strict change approval for DNS and edge policy modifications."
+}

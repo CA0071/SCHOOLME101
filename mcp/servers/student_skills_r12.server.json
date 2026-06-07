@@ -1,0 +1,19 @@
+{
+  "id": "student_skills_r12",
+  "name": "Student Skills R12",
+  "description": "Grade R\u201312 student skills orchestration MCP scaffold.",
+  "category": "Education",
+  "upstream_repo": "schoolme101/student-skills-r12-mcp",
+  "install": {
+    "type": "pip",
+    "package": "student-skills-r12-mcp",
+    "env_vars": []
+  },
+  "tools": [
+    "tutoring",
+    "quiz_generation",
+    "exam_preparation"
+  ],
+  "safety_notes": "Enforce CAPS-aligned, age-appropriate tutoring and disallow harmful/cheating outputs.",
+  "age_appropriate_content": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "image_gen",
+  "name": "Image Generation MCP",
+  "description": "Image generation MCP \u2014 DALL-E/Stable Diffusion integration",
+  "category": "Image",
+  "upstream_repo": "GongRzhe/Image-Generation-MCP-Server",
+  "install": {
+    "type": "pip",
+    "package": "image-generation-mcp-server",
+    "env_vars": []
+  },
+  "tools": [
+    "image_generation",
+    "model_selection",
+    "prompting"
+  ],
+  "safety_notes": "Moderate prompts/outputs to prevent unsafe or age-inappropriate imagery."
+}

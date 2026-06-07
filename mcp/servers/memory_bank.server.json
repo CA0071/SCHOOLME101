@@ -1,0 +1,17 @@
+{
+  "id": "memory_bank",
+  "name": "Memory Bank MCP",
+  "description": "Cross-session memory bank for AI agents",
+  "category": "Memory",
+  "upstream_repo": "alioshr/memory-bank-mcp",
+  "install": {
+    "type": "npx",
+    "package": "memory-bank-mcp",
+    "env_vars": []
+  },
+  "tools": [
+    "cross_session_memory",
+    "knowledge_retrieval"
+  ],
+  "safety_notes": "Avoid storing sensitive personal information in shared memory contexts."
+}

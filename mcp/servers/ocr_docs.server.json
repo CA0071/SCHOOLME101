@@ -1,0 +1,18 @@
+{
+  "id": "ocr_docs",
+  "name": "OCR Docs MCP",
+  "description": "Document-level OCR pipeline with format detection",
+  "category": "OCR",
+  "upstream_repo": "sandraschi/ocr-mcp",
+  "install": {
+    "type": "pip",
+    "package": "ocr-mcp",
+    "env_vars": []
+  },
+  "tools": [
+    "document_pipeline",
+    "format_detection",
+    "ocr_workflows"
+  ],
+  "safety_notes": "Validate document classification before automated downstream processing."
+}

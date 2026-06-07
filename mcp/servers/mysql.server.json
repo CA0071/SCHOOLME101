@@ -1,0 +1,23 @@
+{
+  "id": "mysql",
+  "name": "MySQL MCP",
+  "description": "MySQL MCP server",
+  "category": "Database",
+  "upstream_repo": "designcomputer/mysql_mcp_server",
+  "install": {
+    "type": "pip",
+    "package": "mysql-mcp-server",
+    "env_vars": [
+      "MYSQL_HOST",
+      "MYSQL_USER",
+      "MYSQL_PASSWORD",
+      "MYSQL_DATABASE"
+    ]
+  },
+  "tools": [
+    "sql_queries",
+    "schema_inspection",
+    "admin"
+  ],
+  "safety_notes": "Use read-only roles where possible and protect learner records."
+}

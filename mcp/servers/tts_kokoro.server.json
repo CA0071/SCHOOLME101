@@ -1,0 +1,18 @@
+{
+  "id": "tts_kokoro",
+  "name": "Kokoro TTS MCP",
+  "description": "Kokoro TTS \u2014 high-quality local/offline TTS, multiple voices",
+  "category": "TTS",
+  "upstream_repo": "mberg/kokoro-tts-mcp",
+  "install": {
+    "type": "pip",
+    "package": "kokoro-tts-mcp",
+    "env_vars": []
+  },
+  "tools": [
+    "text_to_speech",
+    "voice_selection",
+    "offline_audio"
+  ],
+  "safety_notes": "Filter generated speech for age-appropriate educational content."
+}

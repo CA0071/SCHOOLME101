@@ -1,0 +1,20 @@
+{
+  "id": "memory_nocturne",
+  "name": "Nocturne Memory MCP",
+  "description": "Long-term agent memory \u2014 PostgreSQL + pgvector, rollbackable, graph-like (replaces Vector RAG amnesia)",
+  "category": "Memory",
+  "upstream_repo": "Dataojitori/nocturne_memory",
+  "install": {
+    "type": "pip",
+    "package": "nocturne-memory",
+    "env_vars": [
+      "DATABASE_URL"
+    ]
+  },
+  "tools": [
+    "long_term_memory",
+    "pgvector",
+    "rollback"
+  ],
+  "safety_notes": "Store only minimal learner data and honor data retention policies."
+}

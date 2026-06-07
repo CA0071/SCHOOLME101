@@ -1,0 +1,21 @@
+{
+  "id": "supabase_selfhosted",
+  "name": "Supabase Self-Hosted MCP",
+  "description": "Self-hosted Supabase MCP server",
+  "category": "Database",
+  "upstream_repo": "HenkDz/selfhosted-supabase-mcp",
+  "install": {
+    "type": "docker",
+    "command": "docker run --rm henkdz/selfhosted-supabase-mcp",
+    "env_vars": [
+      "SUPABASE_URL",
+      "SUPABASE_SERVICE_ROLE_KEY"
+    ]
+  },
+  "tools": [
+    "self_hosted_admin",
+    "database_ops",
+    "auth_management"
+  ],
+  "safety_notes": "Keep self-hosted endpoints internal and rotate admin secrets regularly."
+}

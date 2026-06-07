@@ -1,0 +1,22 @@
+{
+  "id": "playwright",
+  "name": "Playwright MCP",
+  "description": "Official Microsoft Playwright MCP \u2014 browser automation, screenshot, navigation, form fill, accessibility",
+  "category": "Browser Automation",
+  "upstream_repo": "microsoft/playwright-mcp",
+  "install": {
+    "type": "npx",
+    "package": "@playwright/mcp",
+    "args": [
+      "--headless"
+    ],
+    "env_vars": []
+  },
+  "tools": [
+    "navigation",
+    "screenshots",
+    "form_automation",
+    "accessibility"
+  ],
+  "safety_notes": "Limit browsing targets to trusted educational resources and sanitize captured content."
+}

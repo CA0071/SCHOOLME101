@@ -1,0 +1,17 @@
+{
+  "id": "powershell_poshmcp",
+  "name": "PoshMcp",
+  "description": "PoshMcp \u2014 PowerShell-native MCP server framework",
+  "category": "Shell",
+  "upstream_repo": "usepowershell/PoshMcp",
+  "install": {
+    "type": "docker",
+    "command": "docker run --rm usepowershell/poshmcp",
+    "env_vars": []
+  },
+  "tools": [
+    "powershell_modules",
+    "server_framework"
+  ],
+  "safety_notes": "Allow only vetted modules and enforce execution policy controls."
+}

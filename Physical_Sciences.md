@@ -1,4 +1,4 @@
-# Grade 10 — Physical Sciences (CAPS)
+# Grade 11 — Physical Sciences (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *FET Phase*
@@ -20,13 +20,13 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 10
+**Grade:** Grade 11
 **Subject:** Physical Sciences
 **Phase:** FET Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Physical Sciences curriculum for Grade 10 (FET Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Physical Sciences curriculum for Grade 11 (FET Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -36,7 +36,7 @@ Key Focus Areas:
 
 ### Learning Outcomes
 
-By the end of Grade 10, learners should be able to:
+By the end of Grade 11, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 10, learners should be able to:
 
 ### Matter and Materials
 
-*Matter and Materials* is a fundamental concept in Physical Sciences for Grade 10.
+*Matter and Materials* is a fundamental concept in Physical Sciences for Grade 11.
 
 **Understanding:**
 Learners should understand the principles of matter and materials and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving physical sciences problems and in real-worl
 
 ### Living and Non-living
 
-*Living and Non-living* is a fundamental concept in Physical Sciences for Grade 10.
+*Living and Non-living* is a fundamental concept in Physical Sciences for Grade 11.
 
 **Understanding:**
 Learners should understand the principles of living and non-living and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving physical sciences problems and in real-worl
 
 ### Earth and Beyond
 
-*Earth and Beyond* is a fundamental concept in Physical Sciences for Grade 10.
+*Earth and Beyond* is a fundamental concept in Physical Sciences for Grade 11.
 
 **Understanding:**
 Learners should understand the principles of earth and beyond and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving physical sciences problems and in real-worl
 
 ### Energy and Change
 
-*Energy and Change* is a fundamental concept in Physical Sciences for Grade 10.
+*Energy and Change* is a fundamental concept in Physical Sciences for Grade 11.
 
 **Understanding:**
 Learners should understand the principles of energy and change and how they apply in various contexts.
@@ -149,7 +149,7 @@ years to transform the curriculum bequeathed to us by apartheid. From the start 
 
 ### What You Will Learn
 
-In Grade 10 Physical Sciences, you will learn:
+In Grade 11 Physical Sciences, you will learn:
 
 - Scientific investigation skills
 - Matter, materials, and chemical processes
@@ -224,6 +224,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:44:17*
+*Generated: 2026-06-07 16:48:33*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

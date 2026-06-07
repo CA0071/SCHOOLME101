@@ -1,4 +1,4 @@
-# Grade 10 — Mathematics (CAPS)
+# Grade 11 — Mathematics (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *FET Phase*
@@ -20,13 +20,13 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 10
+**Grade:** Grade 11
 **Subject:** Mathematics
 **Phase:** FET Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Mathematics curriculum for Grade 10 (FET Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Mathematics curriculum for Grade 11 (FET Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -36,7 +36,7 @@ Key Focus Areas:
 
 ### Learning Outcomes
 
-By the end of Grade 10, learners should be able to:
+By the end of Grade 11, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 10, learners should be able to:
 
 ### Numbers and Operations
 
-*Numbers and Operations* is a fundamental concept in Mathematics for Grade 10.
+*Numbers and Operations* is a fundamental concept in Mathematics for Grade 11.
 
 **Understanding:**
 Learners should understand the principles of numbers and operations and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving mathematics problems and in real-world scen
 
 ### Patterns and Algebra
 
-*Patterns and Algebra* is a fundamental concept in Mathematics for Grade 10.
+*Patterns and Algebra* is a fundamental concept in Mathematics for Grade 11.
 
 **Understanding:**
 Learners should understand the principles of patterns and algebra and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving mathematics problems and in real-world scen
 
 ### Space and Shape
 
-*Space and Shape* is a fundamental concept in Mathematics for Grade 10.
+*Space and Shape* is a fundamental concept in Mathematics for Grade 11.
 
 **Understanding:**
 Learners should understand the principles of space and shape and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving mathematics problems and in real-world scen
 
 ### Measurement
 
-*Measurement* is a fundamental concept in Mathematics for Grade 10.
+*Measurement* is a fundamental concept in Mathematics for Grade 11.
 
 **Understanding:**
 Learners should understand the principles of measurement and how they apply in various contexts.
@@ -89,7 +89,7 @@ This concept is applied when solving mathematics problems and in real-world scen
 
 ### Data Handling
 
-*Data Handling* is a fundamental concept in Mathematics for Grade 10.
+*Data Handling* is a fundamental concept in Mathematics for Grade 11.
 
 **Understanding:**
 Learners should understand the principles of data handling and how they apply in various contexts.
@@ -159,7 +159,7 @@ years to transform the curriculum bequeathed to us by apartheid. From the start 
 
 ### What You Will Learn
 
-In Grade 10 Mathematics, you will learn:
+In Grade 11 Mathematics, you will learn:
 
 - Number operations and calculations
 - Patterns, functions, and algebra
@@ -234,6 +234,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:44:03*
+*Generated: 2026-06-07 16:48:19*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

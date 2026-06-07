@@ -1,4 +1,4 @@
-# Grade 10 — IT (CAPS)
+# Grade 11 — IT (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *FET Phase*
@@ -24,7 +24,7 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 10
+**Grade:** Grade 11
 **Subject:** IT
 **Phase:** FET Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
@@ -35,7 +35,7 @@
 
 ### Learning Outcomes
 
-By the end of Grade 10, learners should be able to:
+By the end of Grade 11, learners should be able to:
 
 - Demonstrate understanding of core IT concepts appropriate for fet phase
 - Apply knowledge to solve problems and complete tasks
@@ -80,7 +80,7 @@ in a single document and will simply be known as the National Curriculum Stateme
 
 ### heal the divisions of the past and establish a society based on democratic
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -89,7 +89,7 @@ This topic covers essential IT concepts for Grade 10.
 
 ### improve the quality of life of all citizens and free the potential of each person;
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -98,7 +98,7 @@ This topic covers essential IT concepts for Grade 10.
 
 ### lay the foundations for a democratic and open society in which government is
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -107,7 +107,7 @@ This topic covers essential IT concepts for Grade 10.
 
 ### build a united and democratic South Africa able to take its rightful place as a sovereign state in th
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -116,7 +116,7 @@ This topic covers essential IT concepts for Grade 10.
 
 ### kambiso elandelako esuswe beyajanyiselelwa siTatimende seKharikhyulamu yeliZweloke samaGreyidi 10-12
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -125,7 +125,7 @@ This topic covers essential IT concepts for Grade 10.
 
 ### hlomisa abafundi, ngaphandle kokutjheja ibhoduluko lezokuhlalisana-nezomnotho, ubulili, ikghono
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -134,7 +134,7 @@ This topic covers essential IT concepts for Grade 10.
 
 ### ukwenza ifundo yamazinga aphezulu ifinyeleleke;
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -143,7 +143,7 @@ This topic covers essential IT concepts for Grade 10.
 
 ### ukwenza kube lula bonyana abafundi basuke emazikweni wezefundo baye emisebenzini; begodu
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -152,7 +152,7 @@ This topic covers essential IT concepts for Grade 10.
 
 ### kunikela abaqatjhi ngephrofayili eyaneleko yamakghono womfundi.
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -161,7 +161,7 @@ This topic covers essential IT concepts for Grade 10.
 
 ### Ukutjhuguluka kwezokuhlalisana : ukuqinisekisa bonyana ukungalingani kezefundo kwesikhathi
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -170,7 +170,7 @@ This topic covers essential IT concepts for Grade 10.
 
 ### Ukufunda ngomdlandla nangelihlo elihlabako : ukukhuthaza indlela yokufunda ngelihlo elihlabako
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -179,7 +179,7 @@ This topic covers essential IT concepts for Grade 10.
 
 ### Ilwazi namakghono asezingeni eliphakamileko : iimfuneko ezimbalwa zelwazi namakghono okufanele
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -188,7 +188,7 @@ This topic covers essential IT concepts for Grade 10.
 
 ### Ukuragela phambili : okumumethweko nobujamo baleyo naleyo greyidi kutjengisa ukuragela phambili
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -197,7 +197,7 @@ This topic covers essential IT concepts for Grade 10.
 
 ### Ukukarekela amahlelo welwazi lobugugu bendabuko : ukuthabela umlando onothileko wenarha
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -206,7 +206,7 @@ This topic covers essential IT concepts for Grade 10.
 
 ### sisekelo ; begodu
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -215,7 +215,7 @@ This topic covers essential IT concepts for Grade 10.
 
 ### Ukuthembeka, ikhwalithi nekghono : ukunikela ifundo emadanisekako ngekhwalithi, ububanzi
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -224,7 +224,7 @@ This topic covers essential IT concepts for Grade 10.
 
 ### bona nokurarulula imiraro nokuthatha iinqunto kusetjenziswa ukucabanga ngelihlo elibukhali
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -233,7 +233,7 @@ This topic covers essential IT concepts for Grade 10.
 
 ### sebenzisana ngepumelelo nabanye njengamalunga wesiqhema ;
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -242,7 +242,7 @@ This topic covers essential IT concepts for Grade 10.
 
 ### hlela nokuziphatha begodu nokuphatha imisebenzi yabo ngokuziphendulela nangepumelelo ;
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -251,7 +251,7 @@ This topic covers essential IT concepts for Grade 10.
 
 ### buthelela, ukutsenga, ukuhlela bese bahlaziya ilwazi ngelihlo lokuhlaba ;
 
-This topic covers essential IT concepts for Grade 10.
+This topic covers essential IT concepts for Grade 11.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -472,7 +472,7 @@ world other than it is; better an...
 
 **Generated:** 2026-06-07 16:10:34
 **Source Documents:** 2 CAPS document(s) processed
-**Grade:** Grade 10
+**Grade:** Grade 11
 **Subject:** IT
 
 ---

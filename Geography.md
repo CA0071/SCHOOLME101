@@ -1,4 +1,4 @@
-# Grade 10 — Geography (CAPS)
+# Grade 11 — Geography (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *FET Phase*
@@ -20,13 +20,13 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 10
+**Grade:** Grade 11
 **Subject:** Geography
 **Phase:** FET Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Geography curriculum for Grade 10 (FET Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Geography curriculum for Grade 11 (FET Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -36,7 +36,7 @@ Key Focus Areas:
 
 ### Learning Outcomes
 
-By the end of Grade 10, learners should be able to:
+By the end of Grade 11, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 10, learners should be able to:
 
 ### Maps and Globes
 
-*Maps and Globes* is a fundamental concept in Geography for Grade 10.
+*Maps and Globes* is a fundamental concept in Geography for Grade 11.
 
 **Understanding:**
 Learners should understand the principles of maps and globes and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving geography problems and in real-world scenar
 
 ### Climate and Weather
 
-*Climate and Weather* is a fundamental concept in Geography for Grade 10.
+*Climate and Weather* is a fundamental concept in Geography for Grade 11.
 
 **Understanding:**
 Learners should understand the principles of climate and weather and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving geography problems and in real-world scenar
 
 ### Population
 
-*Population* is a fundamental concept in Geography for Grade 10.
+*Population* is a fundamental concept in Geography for Grade 11.
 
 **Understanding:**
 Learners should understand the principles of population and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving geography problems and in real-world scenar
 
 ### Economic Activities
 
-*Economic Activities* is a fundamental concept in Geography for Grade 10.
+*Economic Activities* is a fundamental concept in Geography for Grade 11.
 
 **Understanding:**
 Learners should understand the principles of economic activities and how they apply in various contexts.
@@ -149,7 +149,7 @@ years to transform the curriculum bequeathed to us by apartheid. From the start 
 
 ### What You Will Learn
 
-In Grade 10 Geography, you will learn:
+In Grade 11 Geography, you will learn:
 
 - Core subject concepts and principles
 - Practical applications
@@ -224,6 +224,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:44:51*
+*Generated: 2026-06-07 16:49:06*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

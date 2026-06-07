@@ -1,4 +1,4 @@
-# Grade 10 — Economics (CAPS)
+# Grade 11 — Economics (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *FET Phase*
@@ -20,13 +20,13 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 10
+**Grade:** Grade 11
 **Subject:** Economics
 **Phase:** FET Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Economics curriculum for Grade 10 (FET Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Economics curriculum for Grade 11 (FET Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -36,7 +36,7 @@ Key Focus Areas:
 
 ### Learning Outcomes
 
-By the end of Grade 10, learners should be able to:
+By the end of Grade 11, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -111,7 +111,7 @@ years to transform the curriculum bequeathed to us by apartheid. From the start 
 
 ### What You Will Learn
 
-In Grade 10 Economics, you will learn:
+In Grade 11 Economics, you will learn:
 
 - Core subject concepts and principles
 - Practical applications
@@ -186,6 +186,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:44:42*
+*Generated: 2026-06-07 16:48:57*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

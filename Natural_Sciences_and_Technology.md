@@ -1,4 +1,4 @@
-# Grade 4 — Sesotho Second Additional Language (CAPS)
+# Grade 4 — Natural Sciences and Technology (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Intermediate Phase*
@@ -21,12 +21,12 @@
 ## Curriculum Overview
 
 **Grade:** Grade 4
-**Subject:** Sesotho Second Additional Language
+**Subject:** Natural Sciences and Technology
 **Phase:** Intermediate Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Sesotho Second Additional Language curriculum for Grade 4 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Natural Sciences and Technology curriculum for Grade 4 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -47,67 +47,65 @@ By the end of Grade 4, learners should be able to:
 
 ## Key Concepts
 
-### Listening and Speaking
+### Matter and Materials
 
-*Listening and Speaking* is a fundamental concept in Sesotho Second Additional Language for Grade 4.
-
-**Understanding:**
-Learners should understand the principles of listening and speaking and how they apply in various contexts.
-
-**Application:**
-This concept is applied when solving sesotho second additional language problems and in real-world scenarios.
-
-### Reading and Viewing
-
-*Reading and Viewing* is a fundamental concept in Sesotho Second Additional Language for Grade 4.
+*Matter and Materials* is a fundamental concept in Natural Sciences and Technology for Grade 4.
 
 **Understanding:**
-Learners should understand the principles of reading and viewing and how they apply in various contexts.
+Learners should understand the principles of matter and materials and how they apply in various contexts.
 
 **Application:**
-This concept is applied when solving sesotho second additional language problems and in real-world scenarios.
+This concept is applied when solving natural sciences and technology problems and in real-world scenarios.
 
-### Writing
+### Living and Non-living
 
-*Writing* is a fundamental concept in Sesotho Second Additional Language for Grade 4.
+*Living and Non-living* is a fundamental concept in Natural Sciences and Technology for Grade 4.
 
 **Understanding:**
-Learners should understand the principles of writing and how they apply in various contexts.
+Learners should understand the principles of living and non-living and how they apply in various contexts.
 
 **Application:**
-This concept is applied when solving sesotho second additional language problems and in real-world scenarios.
+This concept is applied when solving natural sciences and technology problems and in real-world scenarios.
 
-### Language Structures
+### Earth and Beyond
 
-*Language Structures* is a fundamental concept in Sesotho Second Additional Language for Grade 4.
+*Earth and Beyond* is a fundamental concept in Natural Sciences and Technology for Grade 4.
 
 **Understanding:**
-Learners should understand the principles of language structures and how they apply in various contexts.
+Learners should understand the principles of earth and beyond and how they apply in various contexts.
 
 **Application:**
-This concept is applied when solving sesotho second additional language problems and in real-world scenarios.
+This concept is applied when solving natural sciences and technology problems and in real-world scenarios.
+
+### Energy and Change
+
+*Energy and Change* is a fundamental concept in Natural Sciences and Technology for Grade 4.
+
+**Understanding:**
+Learners should understand the principles of energy and change and how they apply in various contexts.
+
+**Application:**
+This concept is applied when solving natural sciences and technology problems and in real-world scenarios.
 
 ---
 
 ## Topic Summaries
 
-### SESOTHO PUO YA TLATSETSO YA BOBEDI
+### NATURAL SCIENCES AND TECHNOLOGY
 
-Setatemente sa Leano la Kharikhulamo
-le Tekanyetso
-Mokgahlelo o Mahareng
-Dikereiteng tsa 4-6
-Setatemente sa Kharikhulamu
-ya Naha (SKN)
+Curriculum and Assessment
+Policy Statement
+Intermediate Phase
+Grades 4-6
+National Curriculum Statement (NCS)
 
 CAPS
-SETATEMENTE SA LEANO LA KHARIKHULAMO LE TEKANYETSO
-DIKEREITENG TSA 4-6
-SESOTHO PUO YA TLATSETSO YA BOBEDI
+Curriculum and Assessment Policy Statement
+GRADES 4-6
+NATURAL SCIENCES AND TECHNOLOGY
 
-SESOTHO PUO YA TLATSETSO YA BOBEDI DIKEREITENG TSA 4-6
-2
-SETATEMENTE SA LEANO LA KHARIKHULAMO LE TEKANYETSO
+NATURAL SCIENCES AND TECHNOLOGY GRADES 4-6
+CURRICULUM AND ASSESSMENT POLICY STATEMENT (CAPS)
 DISCLAIMER
 In view of the stringent time requirements encountered by the Department of Basic Education to effect the necessary editorial changes and layout
 to the Curriculum and Assessment Policy Statements and the supplementary policy documents, possible errors may occur in the said documents
@@ -132,16 +130,18 @@ Tel: +27 21 465 1701
 Fax: +27 21 461 8110
 Website: http://www.education.gov.za
 © 2011 Department of Basic Education
-ISBN: 978-1-4315-0480-0
+Isbn:978-1-4315-0490-9
 Design and Layout by: Ndabase Printing Solution
 Printed by: Government Printing Works
 
-SESOTHO PUO YA TLATSETSO YA BOBEDI DIKEREITENG TSA 4-6
+NATURAL SCIENCES AND TECHNOLOGY GRADES 4-6
 CAPS
-FOREWORD BY THE MINISTER
+FOREWORD by the minister
 Our national curriculum is the culmination of our efforts over a period of seventeen
 years to transform the curriculum bequeathed to us by apartheid. From the start of
 democracy we have built our curriculum on the values that inspired our Constitution
+(Act 108 of 1996). The Preamble to the Constitution states that the aims of the
+Constitution are to:
 
 ---
 
@@ -149,12 +149,12 @@ democracy we have built our curriculum on the values that inspired our Constitut
 
 ### What You Will Learn
 
-In Grade 4 Sesotho Second Additional Language, you will learn:
+In Grade 4 Natural Sciences and Technology, you will learn:
 
-- Listening and speaking skills
-- Reading comprehension and analysis
-- Writing for different purposes
-- Language structures and conventions
+- Scientific investigation skills
+- Matter, materials, and chemical processes
+- Living things and life processes
+- Earth, space, and environmental systems
 
 ### Study Tips
 
@@ -179,7 +179,7 @@ In Grade 4 Sesotho Second Additional Language, you will learn:
 
 ## Exam Tips
 
-- Review all Sesotho Second Additional Language topics from Term 1-4
+- Review all Natural Sciences and Technology topics from Term 1-4
 - Practice with past CAPS assessment questions
 - Understand the marking guidelines and rubrics
 - Manage your time during the exam
@@ -224,6 +224,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:26:11*
+*Generated: 2026-06-07 16:23:40*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

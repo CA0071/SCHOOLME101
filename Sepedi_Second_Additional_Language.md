@@ -1,275 +1,122 @@
-# Grade 3 — Sepedi_Second_Additional_Language (CAPS)
+# Grade 4 — Sepedi Second Additional Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
-*Foundation Phase*
-
-**Generated:** 2026-06-07 16:10:19
-**Source Documents:** 15 official CAPS document(s)
+*Intermediate Phase*
 
 ---
 
 ## Table of Contents
 
 1. [Curriculum Overview](#curriculum-overview)
-2. [Introduction](#introduction)
-3. [Key Concepts](#key-concepts)
-4. [Topic Summaries](#topic-summaries)
-5. [Study Notes](#study-notes)
-6. [Assessment Guidelines](#assessment-guidelines)
-7. [Exam Tips](#exam-tips)
-8. [Practice Questions](#practice-questions)
-9. [Resources](#resources)
+2. [Key Concepts](#key-concepts)
+3. [Topic Summaries](#topic-summaries)
+4. [Study Notes](#study-notes)
+5. [Assessment Guidelines](#assessment-guidelines)
+6. [Exam Tips](#exam-tips)
+7. [Practice Questions](#practice-questions)
+8. [Resources](#resources)
 
 ---
 
 ## Curriculum Overview
 
-**Grade:** Grade 3
-**Subject:** Sepedi_Second_Additional_Language
-**Phase:** Foundation Phase
+**Grade:** Grade 4
+**Subject:** Sepedi Second Additional Language
+**Phase:** Intermediate Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-**Age Range:** 5-9 years
-**Assessment:** School-Based Assessment (SBA) 70% + Final 30%
+The Sepedi Second Additional Language curriculum for Grade 4 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+
+Key Focus Areas:
+- Alignment with Department of Basic Education standards
+- Age-appropriate content for Intermediate Phase
+- Integration with other subjects where applicable
+- Preparation for assessments and examinations
 
 ### Learning Outcomes
 
-By the end of Grade 3, learners should be able to:
+By the end of Grade 4, learners should be able to:
 
-- Demonstrate understanding of core Sepedi_Second_Additional_Language concepts appropriate for foundation phase
-- Apply knowledge to solve problems and complete tasks
+- Demonstrate understanding of core {subject} concepts
+- Apply knowledge to solve problems
 - Communicate effectively using subject-specific terminology
-- Think critically and analytically
-- Meet CAPS curriculum requirements for this grade
-
----
-
-## Introduction
-
-FOREWORD by the minister
-Our national curriculum is the culmination of our efforts over a period of seventeen
-years to transform the curriculum bequeathed to us by apartheid. From the start of
-democracy we have built our curriculum on the values that inspired our Constitution
-(Act 108 of 1996). The Preamble to the Constitution states that the aims of the
-Constitution are to:
-•
-heal the divisions of the past and establish a society based on democratic
-values, social justice and fundamental human rights;
-•
-improve the quality of life of all citizens and free the potential of each person;
-•
-lay the foundations for a democratic and open society in which government is
-based on the will of the people and every citizen is equally protected by law;
-and
-•
-build a united and democratic South Africa able to take its rightful place as a sovereign state in the family of
-nations.
-Education and the curriculum have an important role to play in realising these aims.
-In 1997 we introduced outcomes-based education to overcome the curricular divisions of the past, but the experience
-of implementation prompted a review in 2000. This led to the first curriculum revision: the Revised National Curriculum
-Statement Grades R-9 and the National Curriculum Statement Grades 10-12 (2002).
-Ongoing implementation challenges resulted in another review in 2009 and we revised the Revised National
-Curriculum Statement (2002) to produce this document.
-From 2012 the two 2002 curricula, for Grades R-9 and Grades 10-12 respectively, are combined in a single document
-and will simply be known as the National Curriculum Statement Grades R-1
+- Think critically and analytically about {subject.lower()} topics
 
 ---
 
 ## Key Concepts
 
-### go hlama barutwana, go sa šetšwe maemo a ekonomi malapeng a gabobona, morafe, bong, go itakanela
+### Listening and Speaking
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
+*Listening and Speaking* is a fundamental concept in Sepedi Second Additional Language for Grade 4.
 
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
+**Understanding:**
+Learners should understand the principles of listening and speaking and how they apply in various contexts.
 
-### go bula menyako ya thuto ya maemo a godimo;
+**Application:**
+This concept is applied when solving sepedi second additional language problems and in real-world scenarios.
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
+### Reading and Viewing
 
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
+*Reading and Viewing* is a fundamental concept in Sepedi Second Additional Language for Grade 4.
 
-### go kgonagatša diphethogo tša barutwana go tšwa go dihlongwa tša thuto go ya go lefase la mešomo; le
+**Understanding:**
+Learners should understand the principles of reading and viewing and how they apply in various contexts.
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
+**Application:**
+This concept is applied when solving sepedi second additional language problems and in real-world scenarios.
 
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
+### Writing
 
-### go fa bengmešomo profaele ye e lekanego ya bokgoni bja morutwana.
+*Writing* is a fundamental concept in Sepedi Second Additional Language for Grade 4.
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
+**Understanding:**
+Learners should understand the principles of writing and how they apply in various contexts.
 
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
+**Application:**
+This concept is applied when solving sepedi second additional language problems and in real-world scenarios.
 
-### Phetošo ya leago: go netefatša gore go se lekalekane ga maemo a thuto ya maloba go a lokišwa, le
+### Language Structures
 
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
+*Language Structures* is a fundamental concept in Sepedi Second Additional Language for Grade 4.
 
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
+**Understanding:**
+Learners should understand the principles of language structures and how they apply in various contexts.
 
-### Go ithuta ka mafolofolo le ka tsinkelo: go hlohleletša go ithuta ka mafolofolo le ka tsinkelo, go pha
-
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### Tsebo ya maemo a godimo le mabokgoni a maemo a godimo: tsebo le mabokgoni a bonyane bja go
-
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### Kgatelopele: diteng le dikamano tša mphato wo mongwe le wo mongwe di laetša kgatelopele go tloga
-
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### Ditokelo tša botho, boakaretši, toka ya tikologo le leago: go tsentšha ditheo le ditšhomišo tša toka
-
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### Go bona mohola wa dithulaganyo tša tsebo ya setšo: go amogela le go dumela gore naga ye e na le
-
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### Kamogelego, boleng le bokgoni: go aba thuto ye e bapetšegago le ya dinaga tše dingwe, go ya ka
-
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### lemoga le go rarolla mathata le go tšea diphetho ka go nagana ka tsinkelo le boitlhamelo bjo bo
-
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### rulaganya le go kgona go itaola mešongwaneng ya bona ka maikarabelo le ka bokgwari;
-
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### kgoboketša, sekaseka, rulaganya le go lekola tshedimošo ka tsinkelo;
-
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### kgokagana ka bokgwari le ba bangwe ka go diriša diswantšho tša go bonwa, dikai le/goba mabokgoni
-
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### diriša saense le theknolotši ka bokgwari le ka tsinkelo ba bontšha maikarabelo mabapi le tikologo le
-
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### laetša kwešišo ya lefase bjalo ka sehlaga sa dithulaganyo tša go nyalelana ka go lemoga gore dikamano
-
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### Tsebo ya go Thoma
-
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### Bokgabo bja Boitlhamelo
-
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### Thutatšhidullammele
-
-This topic covers essential Sepedi_Second_Additional_Language concepts for Grade 3.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
+**Application:**
+This concept is applied when solving sepedi second additional language problems and in real-world scenarios.
 
 ---
 
 ## Topic Summaries
 
-### Topic 1: SEPEDI SECOND ADDITIONAL LANGUAGE
+### SEPEDI LELEMETLALELETŠO LA BOBEDI
 
-Curriculum and Assessment
-Policy Statement
-FOUNDATION PHASE
-GRADES 1 – 3
-National Curriculum Statement (NCS)
+Setatamente sa Pholisi sa
+Lenaneothuto le Kelo
+Sehlopa sa Gare
+Mephato ya 4-6
+Setatamente sa Kharikhulamo ya
+Setšhaba (SKS)
 
+SEPHOLEKE
+SETATAMENTE SA PHOLISI SA LENANEOTHUTO LE KELO
+MEPHATO YA 4-6
+SEPEDI LELEMETLALELETŠO LA BOBEDI
+
+SEPEDI LELEMETLALELETŠO LA BOBEDI MEPHATO YA 4-6
+SETATAMENTE SA PHOLISI SA LENANEOTHUTO LE KELO (SEPHOLEKE)
+DISCLAIMER
+In view of the stringent time requirements encountered by the Department of Basic Education to effect the necessary editorial changes and layout
+to the Curriculum and Assessment Policy Statements and the supplementary policy documents, possible errors may occur in the said documents
+placed on the official departmental websites.
+There may also be vernacular inconsistencies in the language documents at Home-, First and Second Additional Language levels which have been
+translated in the various African Languages. Please note that the content of the documents translated and versioned in the African Languages are
+correct as they are based on the English generic language documents at all three language levels to be implemented in all four school phases.
+If any editorial, layout or vernacular inconsistencies are detected, the user is kindly requested to bring this to the attention of the Department of
+Basic Education.
+E-mail: capslangcomments@dbe.gov.za or fax (012) 328 9828
 Department of Basic Education
 222 Struben Street
 Private Bag X895
@@ -283,58 +130,18 @@ South Africa
 Tel: +27 21 465 1701
 Fax: +27 21 461 8110
 Website: http://www.education.gov.za
-© 2016 Department of Basic Education
-DRAFT COPY
+© 2011 Department of Basic Education
+Isbn: 978-1-4315-0481-7
+Design and Layout by: Ndabase Printing Solution
+Printed by: Government Printing Works
 
-SEPEDI LELEMETLALELETŠO LA BOBEDI MEPHATO YA 1 – 3
-3
-CAPS
-SETATA...
-
-### Topic 2: : INTRODUCTION TO LIFE SKILLS.......................................................................
-
-2.1
-What is Life Skills?......................................................................................................................................... 8
-2.2
-Specific Aims.................................................................................................................................................. 8
-2.3
-Explaining the Life Skills study areas........................................................................................................... 8
-2.4
-Teaching in th...
-
-### Topic 3: : Outline of course material .......................................................................
-
-
-
-### Topic 4: : ASSESSMENT IN LIFE SKILLS.........................................................................
-
-4.1
-Introduction................................................................................................................................................... 66
-4.2
-Programme of assessment.......................................................................................................................... 66
-4.3
-Inclusion........................................................................................................................................................ 67
-4.4
-Recordi...
-
-### Topic 5: 2.1
-
-What is Life Skills?
-The Life Skills subject is central to the holistic development of learners. It is concerned with the social, personal,
-intellectual, emotional and physical growth of learners, and with the way in which these are integrated.
-In the Curriculum and Assessment Policy Statement (CAPS) the subject Life Skills in Foundation Phase (Grades R-3)
-has been organised into four study areas: Beginning Knowledge, Personal and Social Well-being, Creative Arts and
-Physical Education. Life Ski...
-
-### Topic 6: HETHEKANYO YA 2: U ḒIVHADZA LUAMBO LWA U ENGEDZA LWA
-
-VHUVHILI KHA VHUIMO HA FHASI
-2.1
-NYAMBO KHA TSHITATAMENNDE TSHA PHOḼISI YA KHAKHIKHAḼAMU NA U LINGA
-Luambo ndi tshishumiswa tshi shumiswaho kha u humbula na vhudavhidzani. Lu dovha hafhu lwa vha nḓila ya mvelele
-na u takalela vhuḓi ha luambo lu kovhekanywaho vhukati ha vhathu u itela u pfesesa ḽifhasi ḽine vha khou tshila khaḽo.
-U guda u shumisa luambo zwavhuḓi zwi ita uri vhagudi vha kone u humbula na u wana nḓivho, u bvisela khagala
-vhuvha havho, vhuḓipfi na mihumbulo, u davhidzana na vhaṅwe n...
+SEPEDI LELEMETLALELETŠO LA BOBEDI MEPHATO YA 4-6
+SEPHOLEKE
+FOREWORD by the minister
+Our national curriculum is the culmination of our efforts over a period of seventeen
+years to transform the curriculum bequeathed to us by apartheid. From the start of
+democracy we have built our curriculum on the values that inspired our Constitution
+(Act 108 of 1996). The Preamble to the Constitution states that the aims of the
 
 ---
 
@@ -342,11 +149,12 @@ vhuvha havho, vhuḓipfi na mihumbulo, u davhidzana na vhaṅwe n...
 
 ### What You Will Learn
 
+In Grade 4 Sepedi Second Additional Language, you will learn:
+
 - Listening and speaking skills
 - Reading comprehension and analysis
-- Writing for different purposes and audiences
+- Writing for different purposes
 - Language structures and conventions
-- Literature study
 
 ### Study Tips
 
@@ -355,78 +163,49 @@ vhuvha havho, vhuḓipfi na mihumbulo, u davhidzana na vhaṅwe n...
 3. **Ask questions** - Clarify anything you don't understand
 4. **Use multiple resources** - Textbooks, workbooks, online resources
 5. **Form study groups** - Learn with classmates
-6. **Take breaks** - Use techniques like Pomodoro (25 min study, 5 min break)
-7. **Test yourself** - Use flashcards and practice questions
 
 ---
 
 ## Assessment Guidelines
 
-### Foundation Phase Assessment (Grades R-3)
+### Intermediate Phase Assessment (Grades 4-6)
 
-**Grade R:**
-- 100% formative assessment (no formal exams)
-- Continuous observation and informal testing
-- Focus on development milestones
-
-**Grades 1-3:**
-- School-Based Assessment (SBA): 70%
-- Final Assessment: 30%
-- 16 assessment tasks per subject per year
-- Mix of informal and formal tasks
+- **School-Based Assessment (SBA):** 70%
+- **Final Examination:** 30%
+- **Tasks:** 16 assessment tasks per subject per year
+- **Types:** Tests, projects, practical tasks, oral presentations
 
 ---
 
 ## Exam Tips
 
-### Before the Exam
+- Review all Sepedi Second Additional Language topics from Term 1-4
+- Practice with past CAPS assessment questions
+- Understand the marking guidelines and rubrics
+- Manage your time during the exam
+- Read questions carefully and answer all parts
 
-1. **Start early** - Begin revision at least 2-3 weeks before
-2. **Create a study schedule** - Plan what to study each day
-3. **Make summary notes** - Condense each topic into key points
-4. **Practice with past papers** - Get familiar with exam format
-5. **Understand the rubric** - Know how marks are allocated
-6. **Get enough sleep** - Rest is crucial for memory
-7. **Eat well** - Proper nutrition helps concentration
-
-### During the Exam
+### Exam Technique
 
 1. **Read all instructions** carefully before starting
-2. **Check the mark allocation** - Spend time accordingly
-3. **Answer easy questions first** - Build confidence and secure marks
-4. **Show all working** - Especially for calculations
-5. **Manage your time** - Keep an eye on the clock
-6. **Answer ALL questions** - Even if unsure, write something
-7. **Review your answers** - Check for mistakes if time permits
-
-### Subject-Specific Tips
-
-- Plan your writing before starting
-- Check spelling and grammar
-- Use varied vocabulary
-- Structure essays properly (intro, body, conclusion)
+2. **Allocate time** based on mark allocation
+3. **Answer easy questions first** to build confidence
+4. **Show all working** for calculation questions
+5. **Review your answers** if time permits
 
 ---
 
 ## Practice Questions
 
-### Sample Question Format
+### Sample Questions
 
-*Practice questions should follow CAPS assessment standards:*
+*Practice questions will be generated based on CAPS assessment standards.*
 
-1. **Knowledge questions** - Define, list, identify
-2. **Comprehension questions** - Explain, describe, summarize
-3. **Application questions** - Calculate, solve, demonstrate
-4. **Analysis questions** - Compare, contrast, evaluate
-5. **Synthesis questions** - Create, design, propose
+### Past Papers
 
-### Where to Find Practice Questions
-
-- **Textbooks** - End-of-chapter exercises
-- **Workbooks** - Practice activities
-- **Past papers** - Department of Basic Education website
-- **Study guides** - Commercially available
-- **Online resources** - Educational websites
+Download past CAPS assessment papers from:
+- Department of Basic Education: www.education.gov.za
+- CAPS Corner: capscorner.weebly.com
 
 ---
 
@@ -436,33 +215,15 @@ vhuvha havho, vhuḓipfi na mihumbulo, u davhidzana na vhaṅwe n...
 
 - [Department of Basic Education](https://www.education.gov.za)
 - [CAPS Curriculum Documents](https://www.education.gov.za/Curriculum/CurriculumAssessmentPolicyStatementsCAPS.aspx)
-- [Past Exam Papers](https://www.education.gov.za/Examinations/PastExamPapers.aspx)
 
-### Study Resources
+### Textbooks and Workbooks
 
 - CAPS-aligned textbooks (check with your school)
-- Department workbooks (Grades R-6)
+- Department workbooks (available for Grades R-6)
 - Study guides from reputable publishers
-- Online educational platforms
-
-### Additional Support
-
-- School teachers and tutors
-- Study groups with classmates
-- Educational YouTube channels
-- Library resources
 
 ---
 
-## Document Information
+*Generated: 2026-06-07 16:26:06*
 
-**Generated:** 2026-06-07 16:10:19
-**Source Documents:** 15 CAPS document(s) processed
-**Grade:** Grade 3
-**Subject:** Sepedi_Second_Additional_Language
-
----
-
-*This study guide is compiled from official South African CAPS curriculum documents. Always refer to the Department of Basic Education for the most authoritative and up-to-date curriculum information.*
-
-*For questions or support, contact your school or the Department of Basic Education.*
+*This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

@@ -1,7 +1,7 @@
-# Grade 3 — Setswana First Additional Language (CAPS)
+# Grade 4 — Setswana First Additional Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
-*Foundation Phase*
+*Intermediate Phase*
 
 ---
 
@@ -20,23 +20,23 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 3
+**Grade:** Grade 4
 **Subject:** Setswana First Additional Language
-**Phase:** Foundation Phase
+**Phase:** Intermediate Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Setswana First Additional Language curriculum for Grade 3 (Foundation Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Setswana First Additional Language curriculum for Grade 4 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
-- Age-appropriate content for Foundation Phase
+- Age-appropriate content for Intermediate Phase
 - Integration with other subjects where applicable
 - Preparation for assessments and examinations
 
 ### Learning Outcomes
 
-By the end of Grade 3, learners should be able to:
+By the end of Grade 4, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 3, learners should be able to:
 
 ### Listening and Speaking
 
-*Listening and Speaking* is a fundamental concept in Setswana First Additional Language for Grade 3.
+*Listening and Speaking* is a fundamental concept in Setswana First Additional Language for Grade 4.
 
 **Understanding:**
 Learners should understand the principles of listening and speaking and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving setswana first additional language problems
 
 ### Reading and Viewing
 
-*Reading and Viewing* is a fundamental concept in Setswana First Additional Language for Grade 3.
+*Reading and Viewing* is a fundamental concept in Setswana First Additional Language for Grade 4.
 
 **Understanding:**
 Learners should understand the principles of reading and viewing and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving setswana first additional language problems
 
 ### Writing
 
-*Writing* is a fundamental concept in Setswana First Additional Language for Grade 3.
+*Writing* is a fundamental concept in Setswana First Additional Language for Grade 4.
 
 **Understanding:**
 Learners should understand the principles of writing and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving setswana first additional language problems
 
 ### Language Structures
 
-*Language Structures* is a fundamental concept in Setswana First Additional Language for Grade 3.
+*Language Structures* is a fundamental concept in Setswana First Additional Language for Grade 4.
 
 **Understanding:**
 Learners should understand the principles of language structures and how they apply in various contexts.
@@ -91,20 +91,20 @@ This concept is applied when solving setswana first additional language problems
 
 ## Topic Summaries
 
-### SETSWANA FIRST ADDITIONAL LANGUAGE
+### SETSWANA puotlaleletso ya Ntlha
 
-Curriculum and Assessment
-Policy Statement
-Foundation Phase
-Grades 1-3
-National Curriculum Statement (NCS)
+Pegelo ya Pholisi ya Kharikhulamo
+le Tlhatlhobo
+Kgato ya Magareng
+Mephato 4-6
+Pegelo ya Kharikhulamo ya Bosetšhaba
 
-PEGELO YA PHOLISI YA KHARIKHULAMO LE TLHATLHOBO
-MEPHATO 1-3
-PUO TLALELETSO YA NTHLA KGATO YA MOTHEO
+PEGELOYA PHOLISI YA KHARIKHULAMO LE TLHATLHOBO
+MEPHATO 4-6
+SETSWANA PYOTALELETSO YA NTLHA
 
-PUO TLALELETSO YA NTHLA KGATO YA MOTHEO
-PEGELO YA PHOLISI YA KHARIKHULAMO LE TLHATLHOBO
+SETSWANA PUOTLALELETSO YA NTLHA MEPHATO 4-6
+PEGELOYA PHOLISI YA KHARIKHULAMO LE TLHATLHOBO (PPKT)
 Department of Basic Education
 222 Struben Street
 Private Bag X895
@@ -119,17 +119,17 @@ Tel: +27 21 465 1701
 Fax: +27 21 461 8110
 Website: http://www.education.gov.za
 © 2011 Department of Basic Education
-Isbn: 978-1-4315-0413-8
+Isbn: 978-1-4315-0577-7
 Design and Layout by: Ndabase Printing Solution
 Printed by: Government Printing Works
 
-PUO TLALELETSO YA NTHLA KGATO YA MOTHEO
-CAPS
+SETSWANA PUOTLALELETSO YA NTLHA MEPHATO 4-6
+PPKT
 FOREWORD by the minister
 Our national curriculum is the culmination of our efforts over a period of seventeen
 years to transform the curriculum bequeathed to us by apartheid. From the start of
-democracy we have built our curriculum on the values that inspired our Constitu-
-tion (Act 108 of 1996). The Preamble to the Constitution states that the aims of the
+democracy we have built our curriculum on the values that inspired our Constitution
+(Act 108 of 1996). The Preamble to the Constitution states that the aims of the
 Constitution are to:
 •
 heal the divisions of the past and establish a society based on democratic
@@ -149,7 +149,7 @@ build a united and democratic South Africa able to take its rightful place as a 
 
 ### What You Will Learn
 
-In Grade 3 Setswana First Additional Language, you will learn:
+In Grade 4 Setswana First Additional Language, you will learn:
 
 - Listening and speaking skills
 - Reading comprehension and analysis
@@ -168,12 +168,12 @@ In Grade 3 Setswana First Additional Language, you will learn:
 
 ## Assessment Guidelines
 
-### Foundation Phase Assessment (Grades R-3)
+### Intermediate Phase Assessment (Grades 4-6)
 
-- **Grade R:** 100% formative assessment (no formal exams)
-- **Grades 1-3:** School-Based Assessment (SBA) 70% + Final Assessment 30%
+- **School-Based Assessment (SBA):** 70%
+- **Final Examination:** 30%
 - **Tasks:** 16 assessment tasks per subject per year
-- **Focus:** Continuous observation, informal testing, practical tasks
+- **Types:** Tests, projects, practical tasks, oral presentations
 
 ---
 
@@ -216,11 +216,6 @@ Download past CAPS assessment papers from:
 - [Department of Basic Education](https://www.education.gov.za)
 - [CAPS Curriculum Documents](https://www.education.gov.za/Curriculum/CurriculumAssessmentPolicyStatementsCAPS.aspx)
 
-### Online Resources
-
-- [CAPS for Foundation Phase](https://www.education.gov.za/Curriculum/CurriculumAssessmentPolicyStatements(CAPS)/CAPSFoundation/tabid/571/Default.aspx)
-- [ENGLISH FIRST ADDITIONAL L ANGU A GE](https://www.education.gov.za/LinkClick.aspx?fileticket=BCaB/SnaASA%3D)
-
 ### Textbooks and Workbooks
 
 - CAPS-aligned textbooks (check with your school)
@@ -229,6 +224,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:22:59*
+*Generated: 2026-06-07 16:25:24*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

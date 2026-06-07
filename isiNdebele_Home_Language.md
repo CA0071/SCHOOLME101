@@ -1,7 +1,7 @@
-# Grade 3 — isiNdebele Home Language (CAPS)
+# Grade 4 — isiNdebele Home Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
-*Foundation Phase*
+*Intermediate Phase*
 
 ---
 
@@ -20,23 +20,23 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 3
+**Grade:** Grade 4
 **Subject:** isiNdebele Home Language
-**Phase:** Foundation Phase
+**Phase:** Intermediate Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The isiNdebele Home Language curriculum for Grade 3 (Foundation Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The isiNdebele Home Language curriculum for Grade 4 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
-- Age-appropriate content for Foundation Phase
+- Age-appropriate content for Intermediate Phase
 - Integration with other subjects where applicable
 - Preparation for assessments and examinations
 
 ### Learning Outcomes
 
-By the end of Grade 3, learners should be able to:
+By the end of Grade 4, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 3, learners should be able to:
 
 ### Listening and Speaking
 
-*Listening and Speaking* is a fundamental concept in isiNdebele Home Language for Grade 3.
+*Listening and Speaking* is a fundamental concept in isiNdebele Home Language for Grade 4.
 
 **Understanding:**
 Learners should understand the principles of listening and speaking and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving isindebele home language problems and in re
 
 ### Reading and Viewing
 
-*Reading and Viewing* is a fundamental concept in isiNdebele Home Language for Grade 3.
+*Reading and Viewing* is a fundamental concept in isiNdebele Home Language for Grade 4.
 
 **Understanding:**
 Learners should understand the principles of reading and viewing and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving isindebele home language problems and in re
 
 ### Writing
 
-*Writing* is a fundamental concept in isiNdebele Home Language for Grade 3.
+*Writing* is a fundamental concept in isiNdebele Home Language for Grade 4.
 
 **Understanding:**
 Learners should understand the principles of writing and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving isindebele home language problems and in re
 
 ### Language Structures
 
-*Language Structures* is a fundamental concept in isiNdebele Home Language for Grade 3.
+*Language Structures* is a fundamental concept in isiNdebele Home Language for Grade 4.
 
 **Understanding:**
 Learners should understand the principles of language structures and how they apply in various contexts.
@@ -91,57 +91,57 @@ This concept is applied when solving isindebele home language problems and in re
 
 ## Topic Summaries
 
-### Isindebele HOME LANGUAGE
+### CURRICULUM AND ASSESSMENT
 
-Curriculum and Assessment
-Policy Statement
-Foundation Phase
-Grades R-3
-National Curriculum Statement (NCS)
+POLICY STATEMENT
+GRADES 4 - 6
+LANGUAGES
+GERMAN SECOND ADDITIONAL LANGUAGE
 
-CAPS
-ISITATIMENDE SOMTHETHO-KAMBISO WEKHARIKHYULAMU
-NOKUHLOLA
-AMAGREYIDI R-3
-ISINDEBELE ILIMI LEKHAYA
-
-ISINDEBELE ILIMI LEKHAYA AMAGREYIDI R-3
-ISITATIMENDE SOMTHETHO-KAMBISO WEKHARIKHYULAMU NOKUHLOLA (TTKH)
-Department of Basic Education
-222 Struben Street
-Private Bag X895
-Pretoria 0001
-South Africa
-Tel: +27 12 357 3000
-Fax: +27 12 323 0601
-120 Plein Street Private Bag X9023
-Cape Town 8000
-South Africa
-Tel: +27 21 465 1701
-Fax: +27 21 461 8110
-Website: http://www.education.gov.za
-© 2011 Department of Basic Education
-Isbn: 978-1-4315-0409-1
-Design and Layout by: Ndabase Printing Solution
-Printed by: Government Printing Works
-
-ISINDEBELE ILIMI LEKHAYA AMAGREYIDI R-3
-CAPS
-FOREWORD by thE ministER
-Our national curriculum is the culmination of our efforts over a period of seventeen
-years to transform the curriculum bequeathed to us by apartheid. From the start of
-democracy we have built our curriculum on the values that inspired our Constitution
-(Act 108 of 1996). the Preamble to the Constitution states that the aims of the
-Constitution are to:
-•
-heal the divisions of the past and establish a society based on democratic
-values, social justice and fundamental human rights;
-•
-improve the quality of life of all citizens and free the potential of each person;
-•
-lay the foundations for a democratic and open society in which government is
-based on the will of the people and every citizen is equally protected by law;
-and
+CONTENTS
+SECTION 1 INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY STATEMENT .... 3
+1.1
+Background ....................................................................................................................................................... 3
+1.2
+Overview ............................................................................................................................................................ 3
+1.3
+General aims of the South African curriculum .............................................................................................. 4
+1.4
+Time allocation ................................................................................................................................................. 6
+1.4.1 Foundation Phase ..................................................................................................................................... 6
+1.4.2 Intermediate Phase ................................................................................................................................... 7
+1.4.3 Senior Phase ............................................................................................................................................. 7
+1.4.4 Grades 10-12 ............................................................................................................................................ 8
+SECTION 2: INTRODUCING THE LANGUAGES .................................................................................. 9
+2.1
+Languages in the Curriculum and Assessment Policy Statement.............................................................. 9
+2.1.1 Language levels ....................................................................................................................................... 9
+2.1.2 The language skills ................................................................................................................................ 12
+2.1.3 Language teaching approaches ............................................................................................................. 16
+2.2
+Time allocation ............................................................................................................................................... 17
+2.3
+Learning and Teaching Support Materials .................................................................................................. 17
+SECTION 3: CONTENT AND TEACHING PLANS FOR LANGUAGE SKILLS .................................... 19
+3.1
+Overview of skills, content and strategies .................................................................................................. 19
+3.2
+Spread of texts across Grades 4 – 6 ............................................................................................................ 27
+3.2.1 Spread of text table ................................................................................................................................ 27
+3.2.2 Summary of text types across the phase ............................................................................................... 30
+3.2.3 Lenght of text for Second Additional Language (to be produced by learners) ...................................... 34
+3.2.4 Lenght of text for Second Additional Language (for learners to engage with) ....................................... 34
+3.2.5 Vocabulary to be achieved by Second Additional Language learners .................................................. 35
+3.3
+Teaching plans ............................................................................................................................................... 35
+3.4
+Content and teaching plans for German Second Additional Language ................................................... 37
+SECTION 4: ASSESSMENT IN SECOND ADDITIONAL LANGUAGE ................................................. 98
+4.1
+Introduction ..................................................................................................................................................... 98
+4.2
+Informal or daily assessment ........................................................................................................................ 99
+1
 
 ---
 
@@ -149,7 +149,7 @@ and
 
 ### What You Will Learn
 
-In Grade 3 isiNdebele Home Language, you will learn:
+In Grade 4 isiNdebele Home Language, you will learn:
 
 - Listening and speaking skills
 - Reading comprehension and analysis
@@ -168,12 +168,12 @@ In Grade 3 isiNdebele Home Language, you will learn:
 
 ## Assessment Guidelines
 
-### Foundation Phase Assessment (Grades R-3)
+### Intermediate Phase Assessment (Grades 4-6)
 
-- **Grade R:** 100% formative assessment (no formal exams)
-- **Grades 1-3:** School-Based Assessment (SBA) 70% + Final Assessment 30%
+- **School-Based Assessment (SBA):** 70%
+- **Final Examination:** 30%
 - **Tasks:** 16 assessment tasks per subject per year
-- **Focus:** Continuous observation, informal testing, practical tasks
+- **Types:** Tests, projects, practical tasks, oral presentations
 
 ---
 
@@ -216,11 +216,6 @@ Download past CAPS assessment papers from:
 - [Department of Basic Education](https://www.education.gov.za)
 - [CAPS Curriculum Documents](https://www.education.gov.za/Curriculum/CurriculumAssessmentPolicyStatementsCAPS.aspx)
 
-### Online Resources
-
-- [CAPS for Foundation Phase](https://www.education.gov.za/Curriculum/CurriculumAssessmentPolicyStatements(CAPS)/CAPSFoundation/tabid/571/Default.aspx)
-- [Foundation Phase Grades R-3](https://www.education.gov.za/LinkClick.aspx?fileticket=vwrMWiq5Ws4%3D&tabid=571&portalid=0&mid=1560)
-
 ### Textbooks and Workbooks
 
 - CAPS-aligned textbooks (check with your school)
@@ -229,6 +224,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:22:28*
+*Generated: 2026-06-07 16:24:51*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

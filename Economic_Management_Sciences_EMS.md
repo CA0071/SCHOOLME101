@@ -1,4 +1,4 @@
-# Grade 4 — Home Language (CAPS)
+# Grade 4 — Economic Management Sciences (EMS) (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Intermediate Phase*
@@ -21,12 +21,12 @@
 ## Curriculum Overview
 
 **Grade:** Grade 4
-**Subject:** Home Language
+**Subject:** Economic Management Sciences (EMS)
 **Phase:** Intermediate Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Home Language curriculum for Grade 4 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Economic Management Sciences (EMS) curriculum for Grade 4 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -47,45 +47,45 @@ By the end of Grade 4, learners should be able to:
 
 ## Key Concepts
 
-### Listening and Speaking
+### Matter and Materials
 
-*Listening and Speaking* is a fundamental concept in Home Language for Grade 4.
-
-**Understanding:**
-Learners should understand the principles of listening and speaking and how they apply in various contexts.
-
-**Application:**
-This concept is applied when solving home language problems and in real-world scenarios.
-
-### Reading and Viewing
-
-*Reading and Viewing* is a fundamental concept in Home Language for Grade 4.
+*Matter and Materials* is a fundamental concept in Economic Management Sciences (EMS) for Grade 4.
 
 **Understanding:**
-Learners should understand the principles of reading and viewing and how they apply in various contexts.
+Learners should understand the principles of matter and materials and how they apply in various contexts.
 
 **Application:**
-This concept is applied when solving home language problems and in real-world scenarios.
+This concept is applied when solving economic management sciences (ems) problems and in real-world scenarios.
 
-### Writing
+### Living and Non-living
 
-*Writing* is a fundamental concept in Home Language for Grade 4.
+*Living and Non-living* is a fundamental concept in Economic Management Sciences (EMS) for Grade 4.
 
 **Understanding:**
-Learners should understand the principles of writing and how they apply in various contexts.
+Learners should understand the principles of living and non-living and how they apply in various contexts.
 
 **Application:**
-This concept is applied when solving home language problems and in real-world scenarios.
+This concept is applied when solving economic management sciences (ems) problems and in real-world scenarios.
 
-### Language Structures
+### Earth and Beyond
 
-*Language Structures* is a fundamental concept in Home Language for Grade 4.
+*Earth and Beyond* is a fundamental concept in Economic Management Sciences (EMS) for Grade 4.
 
 **Understanding:**
-Learners should understand the principles of language structures and how they apply in various contexts.
+Learners should understand the principles of earth and beyond and how they apply in various contexts.
 
 **Application:**
-This concept is applied when solving home language problems and in real-world scenarios.
+This concept is applied when solving economic management sciences (ems) problems and in real-world scenarios.
+
+### Energy and Change
+
+*Energy and Change* is a fundamental concept in Economic Management Sciences (EMS) for Grade 4.
+
+**Understanding:**
+Learners should understand the principles of energy and change and how they apply in various contexts.
+
+**Application:**
+This concept is applied when solving economic management sciences (ems) problems and in real-world scenarios.
 
 ---
 
@@ -149,12 +149,12 @@ Informal or daily assessment ...................................................
 
 ### What You Will Learn
 
-In Grade 4 Home Language, you will learn:
+In Grade 4 Economic Management Sciences (EMS), you will learn:
 
-- Listening and speaking skills
-- Reading comprehension and analysis
-- Writing for different purposes
-- Language structures and conventions
+- Scientific investigation skills
+- Matter, materials, and chemical processes
+- Living things and life processes
+- Earth, space, and environmental systems
 
 ### Study Tips
 
@@ -179,7 +179,7 @@ In Grade 4 Home Language, you will learn:
 
 ## Exam Tips
 
-- Review all Home Language topics from Term 1-4
+- Review all Economic Management Sciences (EMS) topics from Term 1-4
 - Practice with past CAPS assessment questions
 - Understand the marking guidelines and rubrics
 - Manage your time during the exam
@@ -224,6 +224,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:23:26*
+*Generated: 2026-06-07 16:23:49*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

@@ -1,7 +1,7 @@
-# Grade 3 — Mathematics (CAPS)
+# Grade 4 — Mathematics (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
-*Foundation Phase*
+*Intermediate Phase*
 
 ---
 
@@ -20,23 +20,23 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 3
+**Grade:** Grade 4
 **Subject:** Mathematics
-**Phase:** Foundation Phase
+**Phase:** Intermediate Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Mathematics curriculum for Grade 3 (Foundation Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Mathematics curriculum for Grade 4 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
-- Age-appropriate content for Foundation Phase
+- Age-appropriate content for Intermediate Phase
 - Integration with other subjects where applicable
 - Preparation for assessments and examinations
 
 ### Learning Outcomes
 
-By the end of Grade 3, learners should be able to:
+By the end of Grade 4, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 3, learners should be able to:
 
 ### Numbers and Operations
 
-*Numbers and Operations* is a fundamental concept in Mathematics for Grade 3.
+*Numbers and Operations* is a fundamental concept in Mathematics for Grade 4.
 
 **Understanding:**
 Learners should understand the principles of numbers and operations and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving mathematics problems and in real-world scen
 
 ### Patterns and Algebra
 
-*Patterns and Algebra* is a fundamental concept in Mathematics for Grade 3.
+*Patterns and Algebra* is a fundamental concept in Mathematics for Grade 4.
 
 **Understanding:**
 Learners should understand the principles of patterns and algebra and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving mathematics problems and in real-world scen
 
 ### Space and Shape
 
-*Space and Shape* is a fundamental concept in Mathematics for Grade 3.
+*Space and Shape* is a fundamental concept in Mathematics for Grade 4.
 
 **Understanding:**
 Learners should understand the principles of space and shape and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving mathematics problems and in real-world scen
 
 ### Measurement
 
-*Measurement* is a fundamental concept in Mathematics for Grade 3.
+*Measurement* is a fundamental concept in Mathematics for Grade 4.
 
 **Understanding:**
 Learners should understand the principles of measurement and how they apply in various contexts.
@@ -89,7 +89,7 @@ This concept is applied when solving mathematics problems and in real-world scen
 
 ### Data Handling
 
-*Data Handling* is a fundamental concept in Mathematics for Grade 3.
+*Data Handling* is a fundamental concept in Mathematics for Grade 4.
 
 **Understanding:**
 Learners should understand the principles of data handling and how they apply in various contexts.
@@ -101,57 +101,57 @@ This concept is applied when solving mathematics problems and in real-world scen
 
 ## Topic Summaries
 
-### AFRIKAANS MATHEMATICS
+### CURRICULUM AND ASSESSMENT
 
-Curriculum and Assessment
-Policy Statement
-Foundation Phase
-Grade 1-3
-National Curriculum Statement (NCS)
+POLICY STATEMENT
+GRADES 4 - 6
+LANGUAGES
+GERMAN SECOND ADDITIONAL LANGUAGE
 
-KABV
-KURRIKULUM- EN ASSESSERINGSBELEIDSVERKLARING
-graad 1-3
-wiskunde
-
-KURRIKULUM EN ASSESSERINGSBELEIDSVERKLARINGSBELEID (KABV)
-WISKUNDE GRAAD 1-3
-Department of Basic Education
-222 Struben Street
-Private Bag X895
-Pretoria 0001
-South Africa
-Tel: +27 12 357 3000
-Fax: +27 12 323 0601
-120 Plein Street Private Bag X9023
-Cape Town 8000
-South Africa
-Tel: +27 21 465 1701
-Fax: +27 21 461 8110
-Website: http://www.education.gov.za
-© 2011 Department of Basic Education
-Isbn: 978-1-4315-0445-9
-Design and Layout by: Ndabase Printing Solution
-Printed by: Government Printing Works
-DISCLAIMER
-In view of the stringent time requirements encountered by the Department of Basic Education to effect the necessary editorial changes and layout
-to the Curriculum and Assessment Policy Statements and the supplementary policy documents, possible errors may occur in the said documents
-placed on the official departmental websites.
-There may also be vernacular inconsistencies in the language documents at Home-, First and Second Additional Language levels which have
-been translated in the various African Languages. Please note that the content of the documents translated and versioned in the African Lan-
-guages are correct as they are based on the English generic language documents at all three language levels to be implemented in all four school
-phases.
-If any editorial, layout or vernacular inconsistencies are detected, the user is kindly requested to bring this to the attention of the Department of
-Basic Education.
-E-mail: capslangcomments@dbe.gov.za or fax (012) 328 9828
-
-KABV
-WISKUNDE GRAAD 1-3
-FOREWORD by the minister
-Our national curriculum is the culmination of our efforts over a period of seventeen
-years to transform the curriculum bequeathed to us by apartheid. From the start of
-democracy we have built our curriculum on the values that inspired our Constitution
-(Act 108 of 1996). The Preamble to the Constitution states that the aims of the
+CONTENTS
+SECTION 1 INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY STATEMENT .... 3
+1.1
+Background ....................................................................................................................................................... 3
+1.2
+Overview ............................................................................................................................................................ 3
+1.3
+General aims of the South African curriculum .............................................................................................. 4
+1.4
+Time allocation ................................................................................................................................................. 6
+1.4.1 Foundation Phase ..................................................................................................................................... 6
+1.4.2 Intermediate Phase ................................................................................................................................... 7
+1.4.3 Senior Phase ............................................................................................................................................. 7
+1.4.4 Grades 10-12 ............................................................................................................................................ 8
+SECTION 2: INTRODUCING THE LANGUAGES .................................................................................. 9
+2.1
+Languages in the Curriculum and Assessment Policy Statement.............................................................. 9
+2.1.1 Language levels ....................................................................................................................................... 9
+2.1.2 The language skills ................................................................................................................................ 12
+2.1.3 Language teaching approaches ............................................................................................................. 16
+2.2
+Time allocation ............................................................................................................................................... 17
+2.3
+Learning and Teaching Support Materials .................................................................................................. 17
+SECTION 3: CONTENT AND TEACHING PLANS FOR LANGUAGE SKILLS .................................... 19
+3.1
+Overview of skills, content and strategies .................................................................................................. 19
+3.2
+Spread of texts across Grades 4 – 6 ............................................................................................................ 27
+3.2.1 Spread of text table ................................................................................................................................ 27
+3.2.2 Summary of text types across the phase ............................................................................................... 30
+3.2.3 Lenght of text for Second Additional Language (to be produced by learners) ...................................... 34
+3.2.4 Lenght of text for Second Additional Language (for learners to engage with) ....................................... 34
+3.2.5 Vocabulary to be achieved by Second Additional Language learners .................................................. 35
+3.3
+Teaching plans ............................................................................................................................................... 35
+3.4
+Content and teaching plans for German Second Additional Language ................................................... 37
+SECTION 4: ASSESSMENT IN SECOND ADDITIONAL LANGUAGE ................................................. 98
+4.1
+Introduction ..................................................................................................................................................... 98
+4.2
+Informal or daily assessment ........................................................................................................................ 99
+1
 
 ---
 
@@ -159,7 +159,7 @@ democracy we have built our curriculum on the values that inspired our Constitut
 
 ### What You Will Learn
 
-In Grade 3 Mathematics, you will learn:
+In Grade 4 Mathematics, you will learn:
 
 - Number operations and calculations
 - Patterns, functions, and algebra
@@ -178,12 +178,12 @@ In Grade 3 Mathematics, you will learn:
 
 ## Assessment Guidelines
 
-### Foundation Phase Assessment (Grades R-3)
+### Intermediate Phase Assessment (Grades 4-6)
 
-- **Grade R:** 100% formative assessment (no formal exams)
-- **Grades 1-3:** School-Based Assessment (SBA) 70% + Final Assessment 30%
+- **School-Based Assessment (SBA):** 70%
+- **Final Examination:** 30%
 - **Tasks:** 16 assessment tasks per subject per year
-- **Focus:** Continuous observation, informal testing, practical tasks
+- **Types:** Tests, projects, practical tasks, oral presentations
 
 ---
 
@@ -226,11 +226,6 @@ Download past CAPS assessment papers from:
 - [Department of Basic Education](https://www.education.gov.za)
 - [CAPS Curriculum Documents](https://www.education.gov.za/Curriculum/CurriculumAssessmentPolicyStatementsCAPS.aspx)
 
-### Online Resources
-
-- [CAPS for Foundation Phase](https://www.education.gov.za/Curriculum/CurriculumAssessmentPolicyStatements(CAPS)/CAPSFoundation/tabid/571/Default.aspx)
-- [ENGLISH MA THEMA TICS](https://www.education.gov.za/Portals/0/CD/National%20Curriculum%20Statements%20and%20Vocational/CAPS%20MATHS%20%20ENGLISH%20GR%201-3%20FS.pdf?ver=2015-01-27-160947-800)
-
 ### Textbooks and Workbooks
 
 - CAPS-aligned textbooks (check with your school)
@@ -239,6 +234,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:21:34*
+*Generated: 2026-06-07 16:23:35*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

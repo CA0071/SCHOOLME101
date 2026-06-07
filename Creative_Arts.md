@@ -1,4 +1,4 @@
-# Grade 4 — Home Language (CAPS)
+# Grade 4 — Creative Arts (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Intermediate Phase*
@@ -21,12 +21,12 @@
 ## Curriculum Overview
 
 **Grade:** Grade 4
-**Subject:** Home Language
+**Subject:** Creative Arts
 **Phase:** Intermediate Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Home Language curriculum for Grade 4 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Creative Arts curriculum for Grade 4 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -47,45 +47,7 @@ By the end of Grade 4, learners should be able to:
 
 ## Key Concepts
 
-### Listening and Speaking
-
-*Listening and Speaking* is a fundamental concept in Home Language for Grade 4.
-
-**Understanding:**
-Learners should understand the principles of listening and speaking and how they apply in various contexts.
-
-**Application:**
-This concept is applied when solving home language problems and in real-world scenarios.
-
-### Reading and Viewing
-
-*Reading and Viewing* is a fundamental concept in Home Language for Grade 4.
-
-**Understanding:**
-Learners should understand the principles of reading and viewing and how they apply in various contexts.
-
-**Application:**
-This concept is applied when solving home language problems and in real-world scenarios.
-
-### Writing
-
-*Writing* is a fundamental concept in Home Language for Grade 4.
-
-**Understanding:**
-Learners should understand the principles of writing and how they apply in various contexts.
-
-**Application:**
-This concept is applied when solving home language problems and in real-world scenarios.
-
-### Language Structures
-
-*Language Structures* is a fundamental concept in Home Language for Grade 4.
-
-**Understanding:**
-Learners should understand the principles of language structures and how they apply in various contexts.
-
-**Application:**
-This concept is applied when solving home language problems and in real-world scenarios.
+*Key concepts will be extracted from the curriculum documents.*
 
 ---
 
@@ -149,12 +111,12 @@ Informal or daily assessment ...................................................
 
 ### What You Will Learn
 
-In Grade 4 Home Language, you will learn:
+In Grade 4 Creative Arts, you will learn:
 
-- Listening and speaking skills
-- Reading comprehension and analysis
-- Writing for different purposes
-- Language structures and conventions
+- Core subject concepts and principles
+- Practical applications
+- Critical thinking skills
+- Assessment preparation
 
 ### Study Tips
 
@@ -179,7 +141,7 @@ In Grade 4 Home Language, you will learn:
 
 ## Exam Tips
 
-- Review all Home Language topics from Term 1-4
+- Review all Creative Arts topics from Term 1-4
 - Practice with past CAPS assessment questions
 - Understand the marking guidelines and rubrics
 - Manage your time during the exam
@@ -224,6 +186,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:23:26*
+*Generated: 2026-06-07 16:23:54*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

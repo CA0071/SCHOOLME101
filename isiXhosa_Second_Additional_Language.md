@@ -1,9 +1,9 @@
-# Grade 2 — isiXhosa_Second_Additional_Language (CAPS)
+# Grade 3 — isiXhosa_Second_Additional_Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Foundation Phase*
 
-**Generated:** 2026-06-07 16:10:17
+**Generated:** 2026-06-07 16:10:18
 **Source Documents:** 15 official CAPS document(s)
 
 ---
@@ -24,7 +24,7 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 2
+**Grade:** Grade 3
 **Subject:** isiXhosa_Second_Additional_Language
 **Phase:** Foundation Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
@@ -35,7 +35,7 @@
 
 ### Learning Outcomes
 
-By the end of Grade 2, learners should be able to:
+By the end of Grade 3, learners should be able to:
 
 - Demonstrate understanding of core isiXhosa_Second_Additional_Language concepts appropriate for foundation phase
 - Apply knowledge to solve problems and complete tasks
@@ -80,7 +80,7 @@ and will simply be known as the National Curriculum Statement Grades R-1
 
 ### Ixhobisa abafundi ngolwazi, izakhono nezithethe eziya kubanceda ukuba bakwazi ukuzimela
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -89,7 +89,7 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ### Ivulela abafundi amathuba okuya kwimfundo ephakamileyo;
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -98,7 +98,7 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ### Incedisa abafundi ukuba bakwazi ukuphuma kumaziko emfundo baye kumaziko omsebenzi; yaye
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -107,7 +107,7 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ### Inika abaqeshi umfanekiso ocacileyo ngobuchule nolwazi abanalo abafundi.
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -116,7 +116,7 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ### Ukuphuculwa
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -125,7 +125,7 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ### Ukufunda ngokubandakanyeka kusetyenziswa ingqiqo: ukukhuthaza indlela yokufundisa efuna
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -134,7 +134,7 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ### Ulwazi nezakhono ezikumgangatho ophakamileyo: ukubekwa kweyona migangatho isezantsi
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -143,7 +143,7 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ### Ukuqhubela phambili: umxholo wokufundwayo neemeko ekufundwa phantsi kwazo kwibanga ngalinye
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -152,7 +152,7 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ### Amalungelo oluntu, uqukaniso, ukukhathalelwa kokusingqongileyo nobulungisa bezentlalo: ukufakwa
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -161,7 +161,7 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ### Ukuxatyiswa kolwazi lwemveli: ukuthathela ingqalelo ubutyebi bembali kunye nelifa lemveli leli lizwe
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -170,7 +170,7 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ### Nentembeko, umgangatho ophezulu, kunye negalelo elibonakalayo: ukunika imfundo enokuthelekiseka
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -179,7 +179,7 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ### ukuchonga nokusombulula iingxaki bathabathe izigqibo besebenzisa ingqiqo nokucinga okubonakalisa
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -188,7 +188,7 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ### ukusebenza ngempumelelo bebodwa naxa bekunye nabanye njengamalungu eqela;
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -197,7 +197,7 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ### ukuzicwangcisa nokuzilawula bona buqu kunye nemisebenzi yabo, loo nto beyenza ngentembeko
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -206,7 +206,7 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ### ukuqokelela, ukuhlalutya, ukucwangcisa nokuhlaba amadlala ulwazi;
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -215,7 +215,7 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ### ukunxibelelana nabanye ngempumelelo besebenzisa ubuchule bokubonwayo, bemiqondiso kunye/
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -224,7 +224,7 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ### ukusebenzisa inzululwazi nobuchwepheshe ngempumelelo nangokubonisa ukuba noxanduva
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -233,7 +233,7 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ### nokubonisa ukuliqonda ihlabathi ukuba liyiseti yezinto ngezinto ezizalanayo ngokuqaphela ukuba iimeko
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -242,7 +242,7 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ### ULwazi olusisiSeko
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -251,7 +251,7 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ### EzemiThambo
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -452,9 +452,9 @@ vhuvha havho, vhuḓipfi na mihumbulo, u davhidzana na vhaṅwe n...
 
 ## Document Information
 
-**Generated:** 2026-06-07 16:10:17
+**Generated:** 2026-06-07 16:10:18
 **Source Documents:** 15 CAPS document(s) processed
-**Grade:** Grade 2
+**Grade:** Grade 3
 **Subject:** isiXhosa_Second_Additional_Language
 
 ---

@@ -1,9 +1,9 @@
-# Grade 2 — Siswati_Second_Additional_Language (CAPS)
+# Grade 3 — Siswati_Second_Additional_Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Foundation Phase*
 
-**Generated:** 2026-06-07 16:10:18
+**Generated:** 2026-06-07 16:10:19
 **Source Documents:** 15 official CAPS document(s)
 
 ---
@@ -24,7 +24,7 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 2
+**Grade:** Grade 3
 **Subject:** Siswati_Second_Additional_Language
 **Phase:** Foundation Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
@@ -35,7 +35,7 @@
 
 ### Learning Outcomes
 
-By the end of Grade 2, learners should be able to:
+By the end of Grade 3, learners should be able to:
 
 - Demonstrate understanding of core Siswati_Second_Additional_Language concepts appropriate for foundation phase
 - Apply knowledge to solve problems and complete tasks
@@ -80,7 +80,7 @@ and will simply be known as the National Curriculum Statement Grades R-1
 
 ### kuhlomisa bafundzi ngelwati, emakhono nemagugu ekuphila lafanele, kute banetiseke baphindze
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -89,7 +89,7 @@ This topic covers essential Siswati_Second_Additional_Language concepts for Grad
 
 ### kutsi batfole imfundvo lephakeme;
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -98,7 +98,7 @@ This topic covers essential Siswati_Second_Additional_Language concepts for Grad
 
 ### kulungiselela bafundzi kutsi bakwati kumela timo letehlukile kuleto tasetikolweni temfundvo
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -107,7 +107,7 @@ This topic covers essential Siswati_Second_Additional_Language concepts for Grad
 
 ### nekunika bacashi imininingwane leyenele mayelana nemakhono ebafundzi.
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -116,7 +116,7 @@ This topic covers essential Siswati_Second_Additional_Language concepts for Grad
 
 ### Ingucuko kutenhlalo: kucinisekisa kutsi kungafani kwemfundvo lokwakwentiwa esikhatsini lesengca
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -125,7 +125,7 @@ This topic covers essential Siswati_Second_Additional_Language concepts for Grad
 
 ### Kufundza gekutimisela nangalokujulile: kugcugcutela tindlela tekufundza ngekutimisela
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -134,7 +134,7 @@ This topic covers essential Siswati_Second_Additional_Language concepts for Grad
 
 ### Lwati lolusetulu nemakhono lasetulu: linanincane lemacophelo elwati nemakhono lekumele
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -143,7 +143,7 @@ This topic covers essential Siswati_Second_Additional_Language concepts for Grad
 
 ### Inchubekelembili: lokucuketfwe kanye nesimongcondvo saleso naleso sifundvo kukhombisa
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -152,7 +152,7 @@ This topic covers essential Siswati_Second_Additional_Language concepts for Grad
 
 ### Kuhlonipha lwati lwendzabuko: kwemukela umlandvo lonotsile nemagugu emdzabu alelive
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -161,7 +161,7 @@ This topic covers essential Siswati_Second_Additional_Language concepts for Grad
 
 ### Kwetsembeka, lizinga lelifanele, nelikhono lekwenta: kunika imfundvo lenelizinga lelicatsanisekako
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -170,7 +170,7 @@ This topic covers essential Siswati_Second_Additional_Language concepts for Grad
 
 ### bona nekusombulula tinkinga bese batsatsa tincumo ngekutakhela imicabango lejulile
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -179,7 +179,7 @@ This topic covers essential Siswati_Second_Additional_Language concepts for Grad
 
 ### sebenta ngekubambisana nalabanye njengelilunga lelicembu, lenhlangano nelemmango
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -188,7 +188,7 @@ This topic covers essential Siswati_Second_Additional_Language concepts for Grad
 
 ### hlelembisa, nekutiphatsa ngalokunetibopho kuko konkhe labakwentako ngendlela lenemphumelelo;
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -197,7 +197,7 @@ This topic covers essential Siswati_Second_Additional_Language concepts for Grad
 
 ### gcogca, hlatiya, hlela nekuhlola lwati ngalokujulile
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -206,7 +206,7 @@ This topic covers essential Siswati_Second_Additional_Language concepts for Grad
 
 ### chumana ngemphumelelo ngekusebentisa tibonwa, timphawu ne /nobe bugagu bekusebentisa
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -215,7 +215,7 @@ This topic covers essential Siswati_Second_Additional_Language concepts for Grad
 
 ### sebentisa isayensi nebuchwepheshe ngemphumelelo nangalokujulile bakhombise kutibophelela
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -224,7 +224,7 @@ This topic covers essential Siswati_Second_Additional_Language concepts for Grad
 
 ### khombisa kuvisisa umhlaba njengeluchungechunge lwetehlakalo ngekubona kutsi timongcondvo
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -233,7 +233,7 @@ This topic covers essential Siswati_Second_Additional_Language concepts for Grad
 
 ### Lwati lwekucala
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -242,7 +242,7 @@ This topic covers essential Siswati_Second_Additional_Language concepts for Grad
 
 ### Buciko Bekuticambela
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -251,7 +251,7 @@ This topic covers essential Siswati_Second_Additional_Language concepts for Grad
 
 ### Sifundvo Sekutivocavoca
 
-This topic covers essential Siswati_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -456,9 +456,9 @@ vhuvha havho, vhuḓipfi na mihumbulo, u davhidzana na vhaṅwe n...
 
 ## Document Information
 
-**Generated:** 2026-06-07 16:10:18
+**Generated:** 2026-06-07 16:10:19
 **Source Documents:** 15 CAPS document(s) processed
-**Grade:** Grade 2
+**Grade:** Grade 3
 **Subject:** Siswati_Second_Additional_Language
 
 ---

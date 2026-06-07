@@ -1,4 +1,4 @@
-# Grade 2 — English Home Language (CAPS)
+# Grade 3 — English Home Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Foundation Phase*
@@ -20,13 +20,13 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 2
+**Grade:** Grade 3
 **Subject:** English Home Language
 **Phase:** Foundation Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The English Home Language curriculum for Grade 2 (Foundation Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The English Home Language curriculum for Grade 3 (Foundation Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -36,7 +36,7 @@ Key Focus Areas:
 
 ### Learning Outcomes
 
-By the end of Grade 2, learners should be able to:
+By the end of Grade 3, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 2, learners should be able to:
 
 ### Listening and Speaking
 
-*Listening and Speaking* is a fundamental concept in English Home Language for Grade 2.
+*Listening and Speaking* is a fundamental concept in English Home Language for Grade 3.
 
 **Understanding:**
 Learners should understand the principles of listening and speaking and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving english home language problems and in real-
 
 ### Reading and Viewing
 
-*Reading and Viewing* is a fundamental concept in English Home Language for Grade 2.
+*Reading and Viewing* is a fundamental concept in English Home Language for Grade 3.
 
 **Understanding:**
 Learners should understand the principles of reading and viewing and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving english home language problems and in real-
 
 ### Writing
 
-*Writing* is a fundamental concept in English Home Language for Grade 2.
+*Writing* is a fundamental concept in English Home Language for Grade 3.
 
 **Understanding:**
 Learners should understand the principles of writing and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving english home language problems and in real-
 
 ### Language Structures
 
-*Language Structures* is a fundamental concept in English Home Language for Grade 2.
+*Language Structures* is a fundamental concept in English Home Language for Grade 3.
 
 **Understanding:**
 Learners should understand the principles of language structures and how they apply in various contexts.
@@ -149,7 +149,7 @@ and
 
 ### What You Will Learn
 
-In Grade 2 English Home Language, you will learn:
+In Grade 3 English Home Language, you will learn:
 
 - Listening and speaking skills
 - Reading comprehension and analysis
@@ -220,9 +220,6 @@ Download past CAPS assessment papers from:
 
 - [ENGLISH HOME L ANGU A GE](https://www.education.gov.za/Portals/0/CD/National%20Curriculum%20Statements%20and%20Vocational/CAPS%20English%20HL%20GRADES%20R-3%20FS.pdf?ver=2015-01-27-154201-167)
 - [CAPS for Foundation Phase](https://www.education.gov.za/Curriculum/CurriculumAssessmentPolicyStatements(CAPS)/CAPSFoundation/tabid/571/Default.aspx)
-- [ENGLISH HOME L ANGU A GE](https://www.education.gov.za/Portals/0/CD/National%20Curriculum%20Statements%20and%20Vocational/CAPS%20English%20HL%20GRADES%20R-3%20FS.pdf?ver=2015-01-27-154201-167)
-- [ENGLISH HOME L ANGU A GE](https://www.education.gov.za/Portals/0/CD/National%20Curriculum%20Statements%20and%20Vocational/CAPS%20English%20HL%20GRADES%20R-3%20FS.pdf?ver=2015-01-27-154201-167)
-- [CAPS for Foundation Phase](https://www.education.gov.za/Curriculum/CurriculumAssessmentPolicyStatements(CAPS)/CAPSFoundation/tabid/571/Default.aspx)
 
 ### Textbooks and Workbooks
 
@@ -232,6 +229,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:17:48*
+*Generated: 2026-06-07 16:21:57*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

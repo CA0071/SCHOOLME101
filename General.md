@@ -1,9 +1,9 @@
-# Grade 2 — General (CAPS)
+# Grade 3 — General (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Foundation Phase*
 
-**Generated:** 2026-06-07 16:10:16
+**Generated:** 2026-06-07 16:10:18
 **Source Documents:** 28 official CAPS document(s)
 
 ---
@@ -24,7 +24,7 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 2
+**Grade:** Grade 3
 **Subject:** General
 **Phase:** Foundation Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
@@ -35,7 +35,7 @@
 
 ### Learning Outcomes
 
-By the end of Grade 2, learners should be able to:
+By the end of Grade 3, learners should be able to:
 
 - Demonstrate understanding of core General concepts appropriate for foundation phase
 - Apply knowledge to solve problems and complete tasks
@@ -80,7 +80,7 @@ and will simply be known as the National Curriculum Statement Grades R-1
 
 ### heal the divisions of the past and establish a society based on democratic
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -89,7 +89,7 @@ This topic covers essential General concepts for Grade 2.
 
 ### improve the quality of life of all citizens and free the potential of each person;
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -98,7 +98,7 @@ This topic covers essential General concepts for Grade 2.
 
 ### lay the foundations for a democratic and open society in which government is
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -107,7 +107,7 @@ This topic covers essential General concepts for Grade 2.
 
 ### build a united and democratic South Africa able to take its rightful place as a sovereign state in th
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -116,7 +116,7 @@ This topic covers essential General concepts for Grade 2.
 
 ### equipping learners, irrespective of their socio-economic background, race, gender, physical ability o
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -125,7 +125,7 @@ This topic covers essential General concepts for Grade 2.
 
 ### providing access to higher education;
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -134,7 +134,7 @@ This topic covers essential General concepts for Grade 2.
 
 ### facilitating the transition of learners from education institutions to the workplace; and
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -143,7 +143,7 @@ This topic covers essential General concepts for Grade 2.
 
 ### providing employers with a sufficient profile of a learner’s competences.
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -152,7 +152,7 @@ This topic covers essential General concepts for Grade 2.
 
 ### Social transformation: ensuring that the educational imbalances of the past are redressed, and that e
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -161,7 +161,7 @@ This topic covers essential General concepts for Grade 2.
 
 ### Active and critical learning: encouraging an active and critical approach to learning, rather than ro
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -170,7 +170,7 @@ This topic covers essential General concepts for Grade 2.
 
 ### High knowledge and high skills: the minimum standards of knowledge and skills to be achieved at each
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -179,7 +179,7 @@ This topic covers essential General concepts for Grade 2.
 
 ### Progression: content and context of each grade shows progression from simple to complex;
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -188,7 +188,7 @@ This topic covers essential General concepts for Grade 2.
 
 ### Human rights, inclusivity, environmental and social justice: infusing the principles and practices of
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -197,7 +197,7 @@ This topic covers essential General concepts for Grade 2.
 
 ### Valuing indigenous knowledge systems: acknowledging the rich history and heritage of this country as
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -206,7 +206,7 @@ This topic covers essential General concepts for Grade 2.
 
 ### Credibility, quality and efficiency: providing an education that is comparable in quality, breadth an
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -215,7 +215,7 @@ This topic covers essential General concepts for Grade 2.
 
 ### identify and solve problems and make decisions using critical and creative thinking;
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -224,7 +224,7 @@ This topic covers essential General concepts for Grade 2.
 
 ### work effectively as individuals and with others as members of a team;
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -233,7 +233,7 @@ This topic covers essential General concepts for Grade 2.
 
 ### organise and manage themselves and their activities responsibly and effectively;
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -242,7 +242,7 @@ This topic covers essential General concepts for Grade 2.
 
 ### collect, analyse, organise and critically evaluate information;
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -251,7 +251,7 @@ This topic covers essential General concepts for Grade 2.
 
 ### communicate effectively using visual, symbolic and/or language skills in various modes;
 
-This topic covers essential General concepts for Grade 2.
+This topic covers essential General concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -496,9 +496,9 @@ vhuvha havho, vhuḓipfi na mihumbulo, u davhidzana na vhaṅwe n...
 
 ## Document Information
 
-**Generated:** 2026-06-07 16:10:16
+**Generated:** 2026-06-07 16:10:18
 **Source Documents:** 28 CAPS document(s) processed
-**Grade:** Grade 2
+**Grade:** Grade 3
 **Subject:** General
 
 ---

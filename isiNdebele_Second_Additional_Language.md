@@ -1,9 +1,9 @@
-# Grade 2 — isiNdebele_Second_Additional_Language (CAPS)
+# Grade 3 — isiNdebele_Second_Additional_Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Foundation Phase*
 
-**Generated:** 2026-06-07 16:10:16
+**Generated:** 2026-06-07 16:10:18
 **Source Documents:** 15 official CAPS document(s)
 
 ---
@@ -24,7 +24,7 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 2
+**Grade:** Grade 3
 **Subject:** isiNdebele_Second_Additional_Language
 **Phase:** Foundation Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
@@ -35,7 +35,7 @@
 
 ### Learning Outcomes
 
-By the end of Grade 2, learners should be able to:
+By the end of Grade 3, learners should be able to:
 
 - Demonstrate understanding of core isiNdebele_Second_Additional_Language concepts appropriate for foundation phase
 - Apply knowledge to solve problems and complete tasks
@@ -80,7 +80,7 @@ and will simply be known as the National Curriculum Statement Grades R-1
 
 ### kambiso elandelako esuswe beyajanyiselelwa siTatimende seKharikhyulamu yeliZweloke samaGreyidi 10-12
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -89,7 +89,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### hlomisa abafundi, ngaphandle kokutjheja ibhoduluko lezokuhlalisana-nezomnotho, ubulili, ikghono
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -98,7 +98,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### ukwenza ifundo yamazinga aphezulu ifinyeleleke;
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -107,7 +107,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### ukwenza kube lula bonyana abafundi basuke emazikweni wezefundo baye emisebenzini; begodu
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -116,7 +116,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### kunikela abaqatjhi ngephrofayili eyaneleko yamakghono womfundi.
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -125,7 +125,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### Ukutjhuguluka kwezokuhlalisana : ukuqinisekisa bonyana ukungalingani kezefundo kwesikhathi
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -134,7 +134,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### Ukufunda ngomdlandla nangelihlo elihlabako : ukukhuthaza indlela yokufunda ngelihlo elihlabako
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -143,7 +143,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### Ilwazi namakghono asezingeni eliphakamileko : iimfuneko ezimbalwa zelwazi namakghono okufanele
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -152,7 +152,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### Ukuragela phambili : okumumethweko nobujamo baleyo naleyo greyidi kutjengisa ukuragela phambili
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -161,7 +161,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### Ukukarekela amahlelo welwazi lobugugu bendabuko : ukuthabela umlando onothileko wenarha
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -170,7 +170,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### sisekelo ; begodu
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -179,7 +179,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### Ukuthembeka, ikhwalithi nekghono : ukunikela ifundo emadanisekako ngekhwalithi, ububanzi
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -188,7 +188,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### bona nokurarulula imiraro nokuthatha iinqunto kusetjenziswa ukucabanga ngelihlo elibukhali
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -197,7 +197,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### sebenzisana ngepumelelo nabanye njengamalunga wesiqhema ;
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -206,7 +206,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### hlela nokuziphatha begodu nokuphatha imisebenzi yabo ngokuziphendulela nangepumelelo ;
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -215,7 +215,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### buthelela, ukutsenga, ukuhlela bese bahlaziya ilwazi ngelihlo lokuhlaba ;
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -224,7 +224,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### khulumisana ngepumelelo basebenzisa amakghono wokubonwako/wokubukelwako, wamatshwayo
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -233,7 +233,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### Tjengisa ukuzwisisa iphasi bonyana linamahlelo anetjhebiswano ngokuyelela bonyana ukurarulula
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -242,7 +242,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### Guidelines for Inclusive Teaching
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -251,7 +251,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### ILwazi lokuThoma
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 2.
+This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -456,9 +456,9 @@ vhuvha havho, vhuḓipfi na mihumbulo, u davhidzana na vhaṅwe n...
 
 ## Document Information
 
-**Generated:** 2026-06-07 16:10:16
+**Generated:** 2026-06-07 16:10:18
 **Source Documents:** 15 CAPS document(s) processed
-**Grade:** Grade 2
+**Grade:** Grade 3
 **Subject:** isiNdebele_Second_Additional_Language
 
 ---

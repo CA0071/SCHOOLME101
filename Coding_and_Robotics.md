@@ -1,4 +1,4 @@
-# Grade 2 — Coding and Robotics (CAPS)
+# Grade 3 — Coding and Robotics (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Foundation Phase*
@@ -20,13 +20,13 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 2
+**Grade:** Grade 3
 **Subject:** Coding and Robotics
 **Phase:** Foundation Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Coding and Robotics curriculum for Grade 2 (Foundation Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Coding and Robotics curriculum for Grade 3 (Foundation Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -36,7 +36,7 @@ Key Focus Areas:
 
 ### Learning Outcomes
 
-By the end of Grade 2, learners should be able to:
+By the end of Grade 3, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -111,7 +111,7 @@ build a united and democratic South Africa able to take its rightful place as a 
 
 ### What You Will Learn
 
-In Grade 2 Coding and Robotics, you will learn:
+In Grade 3 Coding and Robotics, you will learn:
 
 - Core subject concepts and principles
 - Practical applications
@@ -191,6 +191,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:21:21*
+*Generated: 2026-06-07 16:23:21*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

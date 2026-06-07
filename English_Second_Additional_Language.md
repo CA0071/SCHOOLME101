@@ -1,9 +1,9 @@
-# Grade 2 — English_Second_Additional_Language (CAPS)
+# Grade 3 — English_Second_Additional_Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Foundation Phase*
 
-**Generated:** 2026-06-07 16:10:16
+**Generated:** 2026-06-07 16:10:18
 **Source Documents:** 15 official CAPS document(s)
 
 ---
@@ -24,7 +24,7 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 2
+**Grade:** Grade 3
 **Subject:** English_Second_Additional_Language
 **Phase:** Foundation Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
@@ -35,7 +35,7 @@
 
 ### Learning Outcomes
 
-By the end of Grade 2, learners should be able to:
+By the end of Grade 3, learners should be able to:
 
 - Demonstrate understanding of core English_Second_Additional_Language concepts appropriate for foundation phase
 - Apply knowledge to solve problems and complete tasks
@@ -67,7 +67,7 @@ Time allocation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### basic interpersonal communication skills.
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -76,7 +76,7 @@ This topic covers essential English_Second_Additional_Language concepts for Grad
 
 ### acquire the language skills necessary to communicate appropriately in the target language at a basic
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -85,7 +85,7 @@ This topic covers essential English_Second_Additional_Language concepts for Grad
 
 ### listen, speak, read/view and write the language with growing confidence and enjoyment. These skills
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -94,7 +94,7 @@ This topic covers essential English_Second_Additional_Language concepts for Grad
 
 ### express, orally and in writing, and emotions in order to become comfortable in the language;
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -103,7 +103,7 @@ This topic covers essential English_Second_Additional_Language concepts for Grad
 
 ### use language to access and manage communication in other contexts. Information literacy is a vital
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -112,7 +112,7 @@ This topic covers essential English_Second_Additional_Language concepts for Grad
 
 ### use language as a means for expressing information on familiar topics; for interacting with a familia
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -121,7 +121,7 @@ This topic covers essential English_Second_Additional_Language concepts for Grad
 
 ### There is a strong focus on Listening and Speaking
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -130,7 +130,7 @@ This topic covers essential English_Second_Additional_Language concepts for Grad
 
 ### There is continued support for the development of vocabulary, sentence and paragraph
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -139,7 +139,7 @@ This topic covers essential English_Second_Additional_Language concepts for Grad
 
 ### Learners work with a variety of texts, including visual texts. These texts increase in difficulty as
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -148,7 +148,7 @@ This topic covers essential English_Second_Additional_Language concepts for Grad
 
 ### heal the divisions of the past and establish a society based on democratic
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -157,7 +157,7 @@ This topic covers essential English_Second_Additional_Language concepts for Grad
 
 ### improve the quality of life of all citizens and free the potential of each person;
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -166,7 +166,7 @@ This topic covers essential English_Second_Additional_Language concepts for Grad
 
 ### lay the foundations for a democratic and open society in which government is
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -175,7 +175,7 @@ This topic covers essential English_Second_Additional_Language concepts for Grad
 
 ### build a united and democratic South Africa able to take its rightful place as a sovereign state in th
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -184,7 +184,7 @@ This topic covers essential English_Second_Additional_Language concepts for Grad
 
 ### equipping learners, irrespective of their socio-economic background, race, gender, physical ability o
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -193,7 +193,7 @@ This topic covers essential English_Second_Additional_Language concepts for Grad
 
 ### providing access to higher education;
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -202,7 +202,7 @@ This topic covers essential English_Second_Additional_Language concepts for Grad
 
 ### facilitating the transition of learners from education institutions to the workplace; and
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -211,7 +211,7 @@ This topic covers essential English_Second_Additional_Language concepts for Grad
 
 ### providing employers with a sufficient profile of a learner’s competences.
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -220,7 +220,7 @@ This topic covers essential English_Second_Additional_Language concepts for Grad
 
 ### Social transformation: ensuring that the educational imbalances of the past are redressed, and that e
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -229,7 +229,7 @@ This topic covers essential English_Second_Additional_Language concepts for Grad
 
 ### Active and critical learning: encouraging an active and critical approach to learning, rather than ro
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -238,7 +238,7 @@ This topic covers essential English_Second_Additional_Language concepts for Grad
 
 ### High knowledge and high skills: the minimum standards of knowledge and skills to be achieved at each
 
-This topic covers essential English_Second_Additional_Language concepts for Grade 2.
+This topic covers essential English_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -476,9 +476,9 @@ vhuvha havho, vhuḓipfi na mihumbulo, u davhidzana na vhaṅwe n...
 
 ## Document Information
 
-**Generated:** 2026-06-07 16:10:16
+**Generated:** 2026-06-07 16:10:18
 **Source Documents:** 15 CAPS document(s) processed
-**Grade:** Grade 2
+**Grade:** Grade 3
 **Subject:** English_Second_Additional_Language
 
 ---

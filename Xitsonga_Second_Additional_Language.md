@@ -1,9 +1,9 @@
-# Grade 2 — Xitsonga_Second_Additional_Language (CAPS)
+# Grade 3 — Xitsonga_Second_Additional_Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Foundation Phase*
 
-**Generated:** 2026-06-07 16:10:18
+**Generated:** 2026-06-07 16:10:20
 **Source Documents:** 15 official CAPS document(s)
 
 ---
@@ -24,7 +24,7 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 2
+**Grade:** Grade 3
 **Subject:** Xitsonga_Second_Additional_Language
 **Phase:** Foundation Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
@@ -35,7 +35,7 @@
 
 ### Learning Outcomes
 
-By the end of Grade 2, learners should be able to:
+By the end of Grade 3, learners should be able to:
 
 - Demonstrate understanding of core Xitsonga_Second_Additional_Language concepts appropriate for foundation phase
 - Apply knowledge to solve problems and complete tasks
@@ -80,7 +80,7 @@ and will simply be known as the National Curriculum Statement Grades R-1
 
 ### fuwisa vadyondzi hi vutivi, vutshila na minkoka leyi nga ta endla leswaku va kota ku tienerisa, na
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -89,7 +89,7 @@ This topic covers essential Xitsonga_Second_Additional_Language concepts for Gra
 
 ### endla leswaku va kota ku fikelela dyondzo ya le henhla;
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -98,7 +98,7 @@ This topic covers essential Xitsonga_Second_Additional_Language concepts for Gra
 
 ### olovisa ku khaluta ka vadyondzi ku suka etindhawini to dyondzela eka tona ku ya etindhawu ta
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -107,7 +107,7 @@ This topic covers essential Xitsonga_Second_Additional_Language concepts for Gra
 
 ### ku nyika vathori matimu yo enela ya vuswikoti bya mudyondzi.
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -116,7 +116,7 @@ This topic covers essential Xitsonga_Second_Additional_Language concepts for Gra
 
 ### Ku hundzuluxa mahanyelo ya vanhu: ku tiyisisa leswaku ku pfumaleka ka ndzingano ka minkarhi
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -125,7 +125,7 @@ This topic covers essential Xitsonga_Second_Additional_Language concepts for Gra
 
 ### Ku dyondza hi ku gingirika na vuxoperi: ku kondletela ku dyondza hi ndlela yo kombisa ku gingirika
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -134,7 +134,7 @@ This topic covers essential Xitsonga_Second_Additional_Language concepts for Gra
 
 ### Vutivi bya le henhla na vuswikoti bya le henhla: mpimohansi wa vutivi na vuswikoti lebyi faneleke
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -143,7 +143,7 @@ This topic covers essential Xitsonga_Second_Additional_Language concepts for Gra
 
 ### Ndlandlamuko: Leswi dyondziwaka na mbangu wa leswi dyondziwaka swa giredi yin’wana na
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -152,7 +152,7 @@ This topic covers essential Xitsonga_Second_Additional_Language concepts for Gra
 
 ### Timfanelo ta vanhu, nkatsahinkwavo, vululami eka ta mbangu na ta mahanyelo ya vanhu: ku katsa
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -161,7 +161,7 @@ This topic covers essential Xitsonga_Second_Additional_Language concepts for Gra
 
 ### Ku vona nkoka wa vutivi bya swa ndhavuko: ku amukela leswaku ndzhaka leyo fuwa ya tiko swi na
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -170,7 +170,7 @@ This topic covers essential Xitsonga_Second_Additional_Language concepts for Gra
 
 ### Ku khorwisa, nkoka na vuswikoti: ku nyika dyondzo leyi yelanaka na ya matiko man’wana hi nkoka,
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -179,7 +179,7 @@ This topic covers essential Xitsonga_Second_Additional_Language concepts for Gra
 
 ### lemuka na ku ololoxa swiphiqo va tlhela va teka na swiboho hi ku ehleketa na hi ndlela ya vuxoperi
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -188,7 +188,7 @@ This topic covers essential Xitsonga_Second_Additional_Language concepts for Gra
 
 ### tirha hi mfanelo va ri voxe na loko va ri na van’wana tanihi swirho swa xipano;
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -197,7 +197,7 @@ This topic covers essential Xitsonga_Second_Additional_Language concepts for Gra
 
 ### lulamisa na ku lawula vona vinyi xikan’we na migingiriko ya vona hi vutihlamuleri na hi ndlela leyi
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -206,7 +206,7 @@ This topic covers essential Xitsonga_Second_Additional_Language concepts for Gra
 
 ### ku hlengeleta, xopaxopa, lulamisa, na ku hlela mahungu hi vuxoperi;
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -215,7 +215,7 @@ This topic covers essential Xitsonga_Second_Additional_Language concepts for Gra
 
 ### ku vulavurisana na van’wana hi ndlela leyi vuyerisaka hi ku tirhisa swilo leswi ngo voniwa kunene,
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -224,7 +224,7 @@ This topic covers essential Xitsonga_Second_Additional_Language concepts for Gra
 
 ### ku tirhisa sayense na thekinoloji hi ndlela leyi vuyerisaka na hi vuxoperi a komba vutihlamuleri eka
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -233,7 +233,7 @@ This topic covers essential Xitsonga_Second_Additional_Language concepts for Gra
 
 ### ku kombisa ku twisisa leswaku misava i sisiteme ya swilo leswi nga na vuxaka na ku lemuka
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -242,7 +242,7 @@ This topic covers essential Xitsonga_Second_Additional_Language concepts for Gra
 
 ### Vutivi bya Masungulo
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -251,7 +251,7 @@ This topic covers essential Xitsonga_Second_Additional_Language concepts for Gra
 
 ### Vutshila byo Tumbuluxa
 
-This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 2.
+This topic covers essential Xitsonga_Second_Additional_Language concepts for Grade 3.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -455,9 +455,9 @@ vhuvha havho, vhuḓipfi na mihumbulo, u davhidzana na vhaṅwe n...
 
 ## Document Information
 
-**Generated:** 2026-06-07 16:10:18
+**Generated:** 2026-06-07 16:10:20
 **Source Documents:** 15 CAPS document(s) processed
-**Grade:** Grade 2
+**Grade:** Grade 3
 **Subject:** Xitsonga_Second_Additional_Language
 
 ---

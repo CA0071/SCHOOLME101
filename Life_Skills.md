@@ -1,4 +1,4 @@
-# Grade 2 — Life Skills (CAPS)
+# Grade 3 — Life Skills (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Foundation Phase*
@@ -20,13 +20,13 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 2
+**Grade:** Grade 3
 **Subject:** Life Skills
 **Phase:** Foundation Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Life Skills curriculum for Grade 2 (Foundation Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Life Skills curriculum for Grade 3 (Foundation Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -36,7 +36,7 @@ Key Focus Areas:
 
 ### Learning Outcomes
 
-By the end of Grade 2, learners should be able to:
+By the end of Grade 3, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -111,7 +111,7 @@ build a united and democratic South Africa able to take its rightful place as a 
 
 ### What You Will Learn
 
-In Grade 2 Life Skills, you will learn:
+In Grade 3 Life Skills, you will learn:
 
 - Core subject concepts and principles
 - Practical applications
@@ -182,9 +182,6 @@ Download past CAPS assessment papers from:
 
 - [CAPS Life Skills English](https://www.education.gov.za/Portals/0/CD/National%20Curriculum%20Statements%20and%20Vocational/CAPS%20Life%20Skills%20%20English%20_%20Gr%20R-3%20FS.pdf)
 - [CAPS for Foundation Phase](https://www.education.gov.za/Curriculum/CurriculumAssessmentPolicyStatements(CAPS)/CAPSFoundation/tabid/571/Default.aspx)
-- [CAPS Life Skills English](https://www.education.gov.za/Portals/0/CD/National%20Curriculum%20Statements%20and%20Vocational/CAPS%20Life%20Skills%20%20English%20_%20Gr%20R-3%20FS.pdf)
-- [CAPS Life Skills English](https://www.education.gov.za/Portals/0/CD/National%20Curriculum%20Statements%20and%20Vocational/CAPS%20Life%20Skills%20%20English%20_%20Gr%20R-3%20FS.pdf)
-- [CAPS for Foundation Phase](https://www.education.gov.za/Curriculum/CurriculumAssessmentPolicyStatements(CAPS)/CAPSFoundation/tabid/571/Default.aspx)
 
 ### Textbooks and Workbooks
 
@@ -194,6 +191,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:17:09*
+*Generated: 2026-06-07 16:21:39*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

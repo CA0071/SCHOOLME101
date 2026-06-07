@@ -27,6 +27,13 @@ GRADE_TO_BAND = {
 HEADER_PATTERN = re.compile(r"^#\s*(Grade\s(?:R|\d{1,2}))\s+—\s+(.+?)\s*\(CAPS\)")
 
 
+def normalize_subject_name(subject: str) -> str:
+    normalized = " ".join(subject.replace("_", " ").split())
+    if normalized.lower() == "siswati":
+        return "siSwati"
+    return normalized
+
+
 def build_entries(repo_root: Path):
     entries = []
     for file_path in sorted(repo_root.glob("*.md")):
@@ -36,7 +43,8 @@ def build_entries(repo_root: Path):
             if not match:
                 continue
 
-            grade, subject = match.group(1), match.group(2).strip()
+            grade = match.group(1)
+            subject = normalize_subject_name(match.group(2).strip())
             grade_band = GRADE_TO_BAND.get(grade)
             if not grade_band:
                 continue

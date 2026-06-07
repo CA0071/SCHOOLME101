@@ -20,7 +20,7 @@
       "id": "grade_r__afrikaans_home_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "Afrikaans_Home_Language",
+      "subject": "Afrikaans Home Language",
       "source_path": "Afrikaans_Home_Language.md"
     },
     {
@@ -69,7 +69,7 @@
       "id": "grade_r__coding_robotics",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "Coding_Robotics",
+      "subject": "Coding Robotics",
       "source_path": "Coding_Robotics.md"
     },
     {
@@ -160,14 +160,14 @@
       "id": "grade_r__english_home_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "English_Home_Language",
+      "subject": "English Home Language",
       "source_path": "English_Home_Language.md"
     },
     {
       "id": "grade_r__english_second_additional_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "English_Second_Additional_Language",
+      "subject": "English Second Additional Language",
       "source_path": "English_Second_Additional_Language.md"
     },
     {
@@ -181,7 +181,7 @@
       "id": "grade_r__first_additional_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "First_Additional_Language",
+      "subject": "First Additional Language",
       "source_path": "First_Additional_Language.md"
     },
     {
@@ -209,7 +209,7 @@
       "id": "grade_r__home_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "Home_Language",
+      "subject": "Home Language",
       "source_path": "Home_Language.md"
     },
     {
@@ -251,7 +251,7 @@
       "id": "grade_r__life_skills",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "Life_Skills",
+      "subject": "Life Skills",
       "source_path": "Life_Skills.md"
     },
     {
@@ -293,7 +293,7 @@
       "id": "grade_6__natural_sciences_tech",
       "grade": "Grade 6",
       "grade_band": "Intermediate Phase",
-      "subject": "Natural_Sciences_Tech",
+      "subject": "Natural Sciences Tech",
       "source_path": "Natural_Sciences_Tech.md"
     },
     {
@@ -328,14 +328,14 @@
       "id": "grade_r__sepedi_home_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "Sepedi_Home_Language",
+      "subject": "Sepedi Home Language",
       "source_path": "Sepedi_Home_Language.md"
     },
     {
       "id": "grade_r__sepedi_second_additional_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "Sepedi_Second_Additional_Language",
+      "subject": "Sepedi Second Additional Language",
       "source_path": "Sepedi_Second_Additional_Language.md"
     },
     {
@@ -349,42 +349,42 @@
       "id": "grade_r__sesotho_home_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "Sesotho_Home_Language",
+      "subject": "Sesotho Home Language",
       "source_path": "Sesotho_Home_Language.md"
     },
     {
       "id": "grade_r__sesotho_second_additional_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "Sesotho_Second_Additional_Language",
+      "subject": "Sesotho Second Additional Language",
       "source_path": "Sesotho_Second_Additional_Language.md"
     },
     {
       "id": "grade_r__setswana_first_additional_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "Setswana_First_Additional_Language",
+      "subject": "Setswana First Additional Language",
       "source_path": "Setswana_First_Additional_Language.md"
     },
     {
       "id": "grade_r__setswana_home_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "Setswana_Home_Language",
+      "subject": "Setswana Home Language",
       "source_path": "Setswana_Home_Language.md"
     },
     {
       "id": "grade_r__setswana_second_additional_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "Setswana_Second_Additional_Language",
+      "subject": "Setswana Second Additional Language",
       "source_path": "Setswana_Second_Additional_Language.md"
     },
     {
       "id": "grade_12__siswati_first_additional_language",
       "grade": "Grade 12",
       "grade_band": "FET Phase",
-      "subject": "Siswati_First_Additional_Language",
+      "subject": "Siswati First Additional Language",
       "source_path": "Siswati_First_Additional_Language.md"
     },
     {
@@ -398,7 +398,7 @@
       "id": "grade_r__siswati_second_additional_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "Siswati_Second_Additional_Language",
+      "subject": "Siswati Second Additional Language",
       "source_path": "Siswati_Second_Additional_Language.md"
     },
     {
@@ -440,7 +440,7 @@
       "id": "grade_r__tshivenda_home_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "Tshivenda_Home_Language",
+      "subject": "Tshivenda Home Language",
       "source_path": "Tshivenda_Home_Language.md"
     },
     {
@@ -475,14 +475,14 @@
       "id": "grade_r__xitsonga_home_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "Xitsonga_Home_Language",
+      "subject": "Xitsonga Home Language",
       "source_path": "Xitsonga_Home_Language.md"
     },
     {
       "id": "grade_r__xitsonga_second_additional_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "Xitsonga_Second_Additional_Language",
+      "subject": "Xitsonga Second Additional Language",
       "source_path": "Xitsonga_Second_Additional_Language.md"
     },
     {
@@ -496,14 +496,14 @@
       "id": "grade_r__isindebele_home_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "isiNdebele_Home_Language",
+      "subject": "isiNdebele Home Language",
       "source_path": "isiNdebele_Home_Language.md"
     },
     {
       "id": "grade_r__isindebele_second_additional_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "isiNdebele_Second_Additional_Language",
+      "subject": "isiNdebele Second Additional Language",
       "source_path": "isiNdebele_Second_Additional_Language.md"
     },
     {
@@ -517,14 +517,14 @@
       "id": "grade_r__isixhosa_home_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "isiXhosa_Home_Language",
+      "subject": "isiXhosa Home Language",
       "source_path": "isiXhosa_Home_Language.md"
     },
     {
       "id": "grade_r__isixhosa_second_additional_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "isiXhosa_Second_Additional_Language",
+      "subject": "isiXhosa Second Additional Language",
       "source_path": "isiXhosa_Second_Additional_Language.md"
     },
     {
@@ -538,14 +538,14 @@
       "id": "grade_r__isizulu_home_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "isiZulu_Home_Language",
+      "subject": "isiZulu Home Language",
       "source_path": "isiZulu_Home_Language.md"
     },
     {
       "id": "grade_r__isizulu_second_additional_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "isiZulu_Second_Additional_Language",
+      "subject": "isiZulu Second Additional Language",
       "source_path": "isiZulu_Second_Additional_Language.md"
     },
     {
@@ -559,7 +559,7 @@
       "id": "grade_r__siswati_home_language",
       "grade": "Grade R",
       "grade_band": "Foundation Phase",
-      "subject": "Siswati_Home_Language",
+      "subject": "Siswati Home Language",
       "source_path": "siSwati_Home_Language.md"
     },
     {

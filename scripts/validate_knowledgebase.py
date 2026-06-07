@@ -29,6 +29,13 @@ HEADER_PATTERN = re.compile(r"^#\s*(Grade\s(?:R|\d{1,2}))\s+—\s+(.+?)\s*\(CAPS
 REQUIRED_FIELDS = ("id", "grade", "grade_band", "subject", "source_path")
 
 
+def normalize_subject_name(subject: str) -> str:
+    normalized = " ".join(subject.replace("_", " ").split())
+    if normalized.lower() == "siswati":
+        return "siSwati"
+    return normalized
+
+
 def _load_json(path: Path) -> Dict:
     return json.loads(path.read_text(encoding="utf-8"))
 
@@ -60,6 +67,8 @@ def validate_catalog(catalog_path: Path, repo_root: Path) -> List[str]:
     entries = catalog.get("entries")
     if not isinstance(entries, list):
         return ["Catalog must include an 'entries' array"]
+
+    discovered_content = discover_content_markdown_files(repo_root)
 
     seen_ids = set()
     seen_keys = set()
@@ -100,7 +109,8 @@ def validate_catalog(catalog_path: Path, repo_root: Path) -> List[str]:
             errors.append(f"{prefix}.source_path must be relative: {source_path}")
             continue
 
-        key = (entry["grade"], entry["subject"], source_path)
+        normalized_subject = normalize_subject_name(entry["subject"])
+        key = (entry["grade"], normalized_subject, source_path)
         if key in seen_keys:
             errors.append(
                 f"Duplicate subject mapping: grade={entry['grade']} subject={entry['subject']} source_path={source_path}"
@@ -112,28 +122,21 @@ def validate_catalog(catalog_path: Path, repo_root: Path) -> List[str]:
         if not source_file.exists() or not source_file.is_file():
             errors.append(f"Missing source file referenced by catalog: {source_path}")
 
-    discovered_content = discover_content_markdown_files(repo_root)
+        source_info = discovered_content.get(source_path)
+        if source_info:
+            header_grade, header_subject = source_info
+            if entry["grade"] != header_grade:
+                errors.append(
+                    f"Metadata mismatch for {source_path}: catalog grade '{entry['grade']}' != header grade '{header_grade}'"
+                )
+            if normalized_subject != normalize_subject_name(header_subject):
+                errors.append(
+                    f"Metadata mismatch for {source_path}: catalog subject '{entry['subject']}' != header subject '{header_subject}'"
+                )
+
     missing_refs = sorted(path for path in discovered_content if path not in catalog_paths)
     for path in missing_refs:
         errors.append(f"Missing catalog reference for content file: {path}")
-
-    for entry in entries:
-        if not isinstance(entry, dict) or not all(k in entry for k in ("source_path", "grade", "subject")):
-            continue
-        source_path = entry.get("source_path")
-        if not isinstance(source_path, str):
-            continue
-        source_info = discovered_content.get(source_path)
-        if source_info:
-            grade, subject = source_info
-            if entry.get("grade") != grade:
-                errors.append(
-                    f"Metadata mismatch for {source_path}: catalog grade '{entry.get('grade')}' != header grade '{grade}'"
-                )
-            if entry.get("subject") != subject:
-                errors.append(
-                    f"Metadata mismatch for {source_path}: catalog subject '{entry.get('subject')}' != header subject '{subject}'"
-                )
 
     return errors
 

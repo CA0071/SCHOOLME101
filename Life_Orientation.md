@@ -1,4 +1,4 @@
-# Grade 7 — Life Orientation (CAPS)
+# Grade 8 — Life Orientation (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Senior Phase*
@@ -20,13 +20,13 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 7
+**Grade:** Grade 8
 **Subject:** Life Orientation
 **Phase:** Senior Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Life Orientation curriculum for Grade 7 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Life Orientation curriculum for Grade 8 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -36,7 +36,7 @@ Key Focus Areas:
 
 ### Learning Outcomes
 
-By the end of Grade 7, learners should be able to:
+By the end of Grade 8, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -111,7 +111,7 @@ Informal or daily assessment ...................................................
 
 ### What You Will Learn
 
-In Grade 7 Life Orientation, you will learn:
+In Grade 8 Life Orientation, you will learn:
 
 - Core subject concepts and principles
 - Practical applications
@@ -185,6 +185,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:33:44*
+*Generated: 2026-06-07 16:37:25*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

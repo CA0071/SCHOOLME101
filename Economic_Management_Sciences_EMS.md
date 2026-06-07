@@ -1,4 +1,4 @@
-# Grade 7 — Economic Management Sciences (EMS) (CAPS)
+# Grade 8 — Economic Management Sciences (EMS) (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Senior Phase*
@@ -20,13 +20,13 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 7
+**Grade:** Grade 8
 **Subject:** Economic Management Sciences (EMS)
 **Phase:** Senior Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Economic Management Sciences (EMS) curriculum for Grade 7 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Economic Management Sciences (EMS) curriculum for Grade 8 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -36,7 +36,7 @@ Key Focus Areas:
 
 ### Learning Outcomes
 
-By the end of Grade 7, learners should be able to:
+By the end of Grade 8, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 7, learners should be able to:
 
 ### Matter and Materials
 
-*Matter and Materials* is a fundamental concept in Economic Management Sciences (EMS) for Grade 7.
+*Matter and Materials* is a fundamental concept in Economic Management Sciences (EMS) for Grade 8.
 
 **Understanding:**
 Learners should understand the principles of matter and materials and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving economic management sciences (ems) problems
 
 ### Living and Non-living
 
-*Living and Non-living* is a fundamental concept in Economic Management Sciences (EMS) for Grade 7.
+*Living and Non-living* is a fundamental concept in Economic Management Sciences (EMS) for Grade 8.
 
 **Understanding:**
 Learners should understand the principles of living and non-living and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving economic management sciences (ems) problems
 
 ### Earth and Beyond
 
-*Earth and Beyond* is a fundamental concept in Economic Management Sciences (EMS) for Grade 7.
+*Earth and Beyond* is a fundamental concept in Economic Management Sciences (EMS) for Grade 8.
 
 **Understanding:**
 Learners should understand the principles of earth and beyond and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving economic management sciences (ems) problems
 
 ### Energy and Change
 
-*Energy and Change* is a fundamental concept in Economic Management Sciences (EMS) for Grade 7.
+*Energy and Change* is a fundamental concept in Economic Management Sciences (EMS) for Grade 8.
 
 **Understanding:**
 Learners should understand the principles of energy and change and how they apply in various contexts.
@@ -149,7 +149,7 @@ Informal or daily assessment ...................................................
 
 ### What You Will Learn
 
-In Grade 7 Economic Management Sciences (EMS), you will learn:
+In Grade 8 Economic Management Sciences (EMS), you will learn:
 
 - Scientific investigation skills
 - Matter, materials, and chemical processes
@@ -223,6 +223,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:33:35*
+*Generated: 2026-06-07 16:37:06*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

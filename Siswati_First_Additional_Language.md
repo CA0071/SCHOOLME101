@@ -1,97 +1,268 @@
-# Grade 11 — siSwati First Additional Language (CAPS)
+# Grade 12 — Siswati_First_Additional_Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *FET Phase*
+
+**Generated:** 2026-06-07 16:10:35
+**Source Documents:** 3 official CAPS document(s)
 
 ---
 
 ## Table of Contents
 
 1. [Curriculum Overview](#curriculum-overview)
-2. [Key Concepts](#key-concepts)
-3. [Topic Summaries](#topic-summaries)
-4. [Study Notes](#study-notes)
-5. [Assessment Guidelines](#assessment-guidelines)
-6. [Exam Tips](#exam-tips)
-7. [Practice Questions](#practice-questions)
-8. [Resources](#resources)
+2. [Introduction](#introduction)
+3. [Key Concepts](#key-concepts)
+4. [Topic Summaries](#topic-summaries)
+5. [Study Notes](#study-notes)
+6. [Assessment Guidelines](#assessment-guidelines)
+7. [Exam Tips](#exam-tips)
+8. [Practice Questions](#practice-questions)
+9. [Resources](#resources)
 
 ---
 
 ## Curriculum Overview
 
-**Grade:** Grade 11
-**Subject:** siSwati First Additional Language
+**Grade:** Grade 12
+**Subject:** Siswati_First_Additional_Language
 **Phase:** FET Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The siSwati First Additional Language curriculum for Grade 11 (FET Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
-
-Key Focus Areas:
-- Alignment with Department of Basic Education standards
-- Age-appropriate content for FET Phase
-- Integration with other subjects where applicable
-- Preparation for assessments and examinations
+**Age Range:** 15-18 years
+**Assessment:** SBA 25% + National Senior Certificate (NSC) 75%
 
 ### Learning Outcomes
 
-By the end of Grade 11, learners should be able to:
+By the end of Grade 12, learners should be able to:
 
-- Demonstrate understanding of core {subject} concepts
-- Apply knowledge to solve problems
+- Demonstrate understanding of core Siswati_First_Additional_Language concepts appropriate for fet phase
+- Apply knowledge to solve problems and complete tasks
 - Communicate effectively using subject-specific terminology
-- Think critically and analytically about {subject.lower()} topics
+- Think critically and analytically
+- Meet CAPS curriculum requirements for this grade
+
+---
+
+## Introduction
+
+FOREWORD by the minister
+Our national curriculum is the culmination of our efforts over a period of seventeen
+years to transform the curriculum bequeathed to us by apartheid. From the start of
+democracy we have built our curriculum on the values that inspired our Constitution
+(Act 108 of 1996). The Preamble to the Constitution states that the aims of the
+Constitution are to:
+•
+heal the divisions of the past and establish a society based on democratic
+values, social justice and fundamental human rights;
+•
+improve the quality of life of all citizens and free the potential of each person;
+•
+lay the foundations for a democratic and open society in which government is
+based on the will of the people and every citizen is equally protected by law;
+and
+•
+build a united and democratic South Africa able to take its rightful place as a sovereign state in the family of
+nations.
+Education and the curriculum have an important role to play in realising these aims.
+In 1997 we introduced outcomes-based education to overcome the curricular divisions of the past, but the experience
+of implementation prompted a review in 2000. This led to the first curriculum revision: the Revised National Curriculum
+Statement Grades R-9 and the National Curriculum Statement Grades 10-12 (2002).
+Ongoing implementation challenges resulted in another review in 2009 and we revised the Revised National
+Curriculum Statement (2002) and the National Curriculum Statement Grades 10-12 to produce this document.
+From 2012 the two National Curriculum Statements, for Grades R-9 and Grades 10-12 respectively, are combined
+in a single document and will simply be known as the National Curriculum Statement Grades R-1
 
 ---
 
 ## Key Concepts
 
-### Listening and Speaking
+### heal the divisions of the past and establish a society based on democratic
 
-*Listening and Speaking* is a fundamental concept in siSwati First Additional Language for Grade 11.
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
 
-**Understanding:**
-Learners should understand the principles of listening and speaking and how they apply in various contexts.
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
 
-**Application:**
-This concept is applied when solving siswati first additional language problems and in real-world scenarios.
+### improve the quality of life of all citizens and free the potential of each person;
 
-### Reading and Viewing
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
 
-*Reading and Viewing* is a fundamental concept in siSwati First Additional Language for Grade 11.
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
 
-**Understanding:**
-Learners should understand the principles of reading and viewing and how they apply in various contexts.
+### lay the foundations for a democratic and open society in which government is
 
-**Application:**
-This concept is applied when solving siswati first additional language problems and in real-world scenarios.
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
 
-### Writing
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
 
-*Writing* is a fundamental concept in siSwati First Additional Language for Grade 11.
+### build a united and democratic South Africa able to take its rightful place as a sovereign state in th
 
-**Understanding:**
-Learners should understand the principles of writing and how they apply in various contexts.
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
 
-**Application:**
-This concept is applied when solving siswati first additional language problems and in real-world scenarios.
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
 
-### Language Structures
+### kuhlomisa bafundzi ngelwati, emakhono nemagugu ekuphila lafanele, kute banetiseke baphindze babambe
 
-*Language Structures* is a fundamental concept in siSwati First Additional Language for Grade 11.
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
 
-**Understanding:**
-Learners should understand the principles of language structures and how they apply in various contexts.
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
 
-**Application:**
-This concept is applied when solving siswati first additional language problems and in real-world scenarios.
+### kutsi batfole imfundvo lephakeme;
+
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### kulungiselela bafundzi kutsi bakwati kumela timo letehlukile kuleto tasetikolweni temfundvo lephakeme
+
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### nekunika bacashi imininingwane leyenele mayelana nemakhono ebafundzi.
+
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### Ingucuko kutenhlalo: kucinisekisa kutsi kungafani kwemfundvo lokwakwentiwa esikhatsini lesengca
+
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### Kufundza gekutimisela nangalokujulile: kugcugcutela tindlela tekufundza ngekutimisela nangalokujulile
+
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### Lwati lolusetulu nemakhono lasetulu: linanincane lemacophelo elwati nemakhono lekumele azuzwe kulelo
+
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### Inchubekelembili: lokucuketfwe kanye nesimongcondvo saleso naleso sifundvo kukhombisa inchubekelembil
+
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### Emalungelo ebantfu, khukhulelangoco, bulungiswa betemvelo netenhlalo: kungeniswa kwemitsetfomgomo
+
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### Kuhlonipha lwati lwendzabuko: kwemukela umlandvo lonotsile nemagugu emdzabu alelive lokungito tintfo
+
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### Kwetsembeka, lizinga lelifanele, nelikhono lekwenta: kunika imfundvo lenelizinga lelicatsanisekako
+
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### bona nekusombulula tinkinga bese batsatsa tincumo ngekutakhela imicabango lejulile
+
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### sebenta ngekubambisana nalabanye njengelilunga lelicembu, lenhlangano nelemmango ngemphumelelo;
+
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### hlelembisa, nekutiphatsa ngalokunetibopho kuko konkhe labakwentako ngendlela lenemphumelelo;
+
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### gcogca, hlatiya, hlela nekuhlola lwati ngalokujulile
+
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### chumana ngemphumelelo ngekusebentisa tibonwa, timphawu ne /nobe bugagu bekusebentisa lulwimi
+
+This topic covers essential Siswati_First_Additional_Language concepts for Grade 12.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
 
 ---
 
 ## Topic Summaries
 
-### SISWATI LULWIMI LWEKUCALA
+### Topic 1: SISWATI LULWIMI LWEKUCALA
 
 LWEKWENGETA
 Sitatimende Senchubomgomo
@@ -110,38 +281,75 @@ siswati lulwimi lwekucala lwekwengeta EMABANGA 4-6
 2
 SITATIMENDE SENCHUBOMGOMO YEKHARIKHULAMU NEKUHLOLA (SISEYENE)
 DISCLAIMER
-In view of the stringent time requirements encountered by the Department of Basic Education to effect the necessary editorial changes and layout
-to the Curriculum and Assessment Policy Statements and the supplementary policy documents, possible errors may occur in the said documents
-placed on the official departmental websites.
-There may also be vernacular inconsistencies in the language documents at Home-, First and Second Additional Language levels which have been
-translated in the various African Languages. Please note that the content of the documents translated and versioned in the African Languages are
-correct as they are based on the English generic language documents at all three language levels to be implemented in all four school phases.
-If any editorial, layout or vernacular inconsistencies are detected, the user is kindly requested to bring this to the attention of the Department of
-Basic Education.
-E-mail: capslangcomments@dbe. gov. za or fax (012) 328 9828
-Department of Basic Education
-222 Struben Street
-Private Bag X895
-Pretoria 0001
-South Africa
-Tel: +27 12 357 3000
-Fax: +27 12 323 0601
-120 Plein Street Private Bag X9023
-Cape Town 8000
-South Africa
-Tel: +27 21 465 1701
-Fax: +27 21 461 8110
-Website: http: //www. education. gov. za
-© 2011 Department of Basic Education
-Isbn: 978-1-4315-0476-3
-Design and Layout by: Ndabase Printing Solution
-Printed by: Government Printing Works
+In view of the stringent time requirements encountered by the Department of Basic Education to effect the necessary editorial...
 
-siswati lulwimi lwekucala lwekwengeta EMABANGA 4-6
-SISEYENE
-FOREWORD by the minister
-Our national curriculum is the culmination of our efforts over a period of seventeen
-years to transform the curriculum bequeathed to us by apartheid. From the start of
+### Topic 2: : INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY STATEMENT 2
+
+1.1
+Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+1.2
+Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+1.3
+General aims of the South African curriculum . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1.4
+Time allocation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+1.4.1 Foundation Phase . . . . . . . . . . . . . . ...
+
+### Topic 3: : INTRODUCING SOUTH AFRICAN SIGN LANGUAGE . . . . . . . . . . . . . . . . 8
+
+2.1
+Language levels . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2.2
+Specific aims of learning SASL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+2.3
+Introducing South African Sign Language (SASL) . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+2.4
+Overview of the SASL curriculum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+2.5
+Rationale for teaching the language skills . . . . . . . . ....
+
+### Topic 4: : CONTENT AND TEACHING PLANS FOR SOUTH AFRICAN SING LANGUAGE
+
+SKILLS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+3.1
+Observing and Signing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+3.2
+Visual Reading and Viewing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+3.3
+Recording . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+3.4
+Language structures and conventions . . . . . . . . . . ...
+
+### Topic 5: : ASSESSMENT IN SASL HOME LANGUAGE. . . . . . . . . . . . . . . . . . . . . 48
+
+4.1
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+4.2
+Informal or daily assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+4.3
+Formal assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+4.4
+Programme of Assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+4.4.1 Overview of requirements . . . . . . . . . . . . . ....
+
+### Topic 6: : INTRODUCTION TO THE CURRICULUM AND
+
+ASSESSMENT POLICY STATEMENT
+1.1 BACKGROUND
+The National Curriculum Statement Grades R-12 (NCS) stipulates policy on curriculum and assessment in the
+schooling sector.
+To improve implementation, the National Curriculum Statement was amended, with the amendments coming into
+effect in January 2012. A single comprehensive Curriculum and Assessment Policy document was developed for
+each subject to replace Subject Statements, Learning Programme Guidelines and Subject Assessment Guidelines
+in Grades R-...
+
+### Topic 7: : INTRODUCING SOUTH AFRICAN SIGN LANGUAGE
+
+Language is a tool for thought and communication. It is also a cultural and aesthetic means commonly shared among
+a people to make better sense of the world they live in. Learning to use language effectively enables learners to
+acquire knowledge, to express their identity, feelings and ideas, to interact with others, and to manage their world. It
+also provides learners with a rich, powerful and deeply rooted set of images and ideas that can be used to make their
+world other than it is; better an...
 
 ---
 
@@ -149,12 +357,11 @@ years to transform the curriculum bequeathed to us by apartheid. From the start 
 
 ### What You Will Learn
 
-In Grade 11 siSwati First Additional Language, you will learn:
-
 - Listening and speaking skills
 - Reading comprehension and analysis
-- Writing for different purposes
+- Writing for different purposes and audiences
 - Language structures and conventions
+- Literature study
 
 ### Study Tips
 
@@ -163,6 +370,8 @@ In Grade 11 siSwati First Additional Language, you will learn:
 3. **Ask questions** - Clarify anything you don't understand
 4. **Use multiple resources** - Textbooks, workbooks, online resources
 5. **Form study groups** - Learn with classmates
+6. **Take breaks** - Use techniques like Pomodoro (25 min study, 5 min break)
+7. **Test yourself** - Use flashcards and practice questions
 
 ---
 
@@ -172,40 +381,70 @@ In Grade 11 siSwati First Additional Language, you will learn:
 
 - **School-Based Assessment (SBA):** 25%
 - **National Senior Certificate (NSC) Exam:** 75%
+
+**NSC Pass Levels:**
 - **Bachelor's Pass:** 40% Home Language + 40% in 4 subjects + 30% in 2 others
-- **Exam Preparation:** Past papers, study guides, revision classes
+- **Diploma Pass:** 40% Home Language + 40% in 4 subjects + 30% in 2 others
+- **Higher Certificate:** 40% Home Language + 40% in 2 subjects + 30% in 3 others
+
+**Exam Preparation:**
+- Study all topics from Terms 1-4
+- Practice with past NSC papers
+- Understand marking guidelines
+- Learn exam technique and time management
 
 ---
 
 ## Exam Tips
 
-- Review all siSwati First Additional Language topics from Term 1-4
-- Practice with past CAPS assessment questions
-- Understand the marking guidelines and rubrics
-- Manage your time during the exam
-- Read questions carefully and answer all parts
+### Before the Exam
 
-### Exam Technique
+1. **Start early** - Begin revision at least 2-3 weeks before
+2. **Create a study schedule** - Plan what to study each day
+3. **Make summary notes** - Condense each topic into key points
+4. **Practice with past papers** - Get familiar with exam format
+5. **Understand the rubric** - Know how marks are allocated
+6. **Get enough sleep** - Rest is crucial for memory
+7. **Eat well** - Proper nutrition helps concentration
+
+### During the Exam
 
 1. **Read all instructions** carefully before starting
-2. **Allocate time** based on mark allocation
-3. **Answer easy questions first** to build confidence
-4. **Show all working** for calculation questions
-5. **Review your answers** if time permits
+2. **Check the mark allocation** - Spend time accordingly
+3. **Answer easy questions first** - Build confidence and secure marks
+4. **Show all working** - Especially for calculations
+5. **Manage your time** - Keep an eye on the clock
+6. **Answer ALL questions** - Even if unsure, write something
+7. **Review your answers** - Check for mistakes if time permits
+
+### Subject-Specific Tips
+
+- Plan your writing before starting
+- Check spelling and grammar
+- Use varied vocabulary
+- Structure essays properly (intro, body, conclusion)
 
 ---
 
 ## Practice Questions
 
-### Sample Questions
+### Sample Question Format
 
-*Practice questions will be generated based on CAPS assessment standards.*
+*Practice questions should follow CAPS assessment standards:*
 
-### Past Papers
+1. **Knowledge questions** - Define, list, identify
+2. **Comprehension questions** - Explain, describe, summarize
+3. **Application questions** - Calculate, solve, demonstrate
+4. **Analysis questions** - Compare, contrast, evaluate
+5. **Synthesis questions** - Create, design, propose
 
-Download past CAPS assessment papers from:
-- Department of Basic Education: www.education.gov.za
-- CAPS Corner: capscorner.weebly.com
+### Where to Find Practice Questions
+
+- **Textbooks** - End-of-chapter exercises
+- **Workbooks** - Practice activities
+- **Past papers** - Department of Basic Education website
+- **Study guides** - Commercially available
+- **Online resources** - Educational websites
 
 ---
 
@@ -215,15 +454,33 @@ Download past CAPS assessment papers from:
 
 - [Department of Basic Education](https://www.education.gov.za)
 - [CAPS Curriculum Documents](https://www.education.gov.za/Curriculum/CurriculumAssessmentPolicyStatementsCAPS.aspx)
+- [Past Exam Papers](https://www.education.gov.za/Examinations/PastExamPapers.aspx)
 
-### Textbooks and Workbooks
+### Study Resources
 
 - CAPS-aligned textbooks (check with your school)
-- Department workbooks (available for Grades R-6)
+- Department workbooks (Grades R-6)
 - Study guides from reputable publishers
+- Online educational platforms
+
+### Additional Support
+
+- School teachers and tutors
+- Study groups with classmates
+- Educational YouTube channels
+- Library resources
 
 ---
 
-*Generated: 2026-06-07 16:51:55*
+## Document Information
 
-*This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*
+**Generated:** 2026-06-07 16:10:35
+**Source Documents:** 3 CAPS document(s) processed
+**Grade:** Grade 12
+**Subject:** Siswati_First_Additional_Language
+
+---
+
+*This study guide is compiled from official South African CAPS curriculum documents. Always refer to the Department of Basic Education for the most authoritative and up-to-date curriculum information.*
+
+*For questions or support, contact your school or the Department of Basic Education.*

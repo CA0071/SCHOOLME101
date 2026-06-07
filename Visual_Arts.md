@@ -1,4 +1,4 @@
-# Grade 11 — Visual Arts (CAPS)
+# Grade 12 — Visual Arts (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *FET Phase*
@@ -20,13 +20,13 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 11
+**Grade:** Grade 12
 **Subject:** Visual Arts
 **Phase:** FET Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Visual Arts curriculum for Grade 11 (FET Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Visual Arts curriculum for Grade 12 (FET Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -36,7 +36,7 @@ Key Focus Areas:
 
 ### Learning Outcomes
 
-By the end of Grade 11, learners should be able to:
+By the end of Grade 12, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -111,7 +111,7 @@ years to transform the curriculum bequeathed to us by apartheid. From the start 
 
 ### What You Will Learn
 
-In Grade 11 Visual Arts, you will learn:
+In Grade 12 Visual Arts, you will learn:
 
 - Core subject concepts and principles
 - Practical applications
@@ -186,6 +186,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:49:58*
+*Generated: 2026-06-07 16:54:06*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

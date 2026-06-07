@@ -1,4 +1,4 @@
-# Grade 11 — Life Sciences (CAPS)
+# Grade 12 — Life Sciences (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *FET Phase*
@@ -20,13 +20,13 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 11
+**Grade:** Grade 12
 **Subject:** Life Sciences
 **Phase:** FET Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Life Sciences curriculum for Grade 11 (FET Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Life Sciences curriculum for Grade 12 (FET Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -36,7 +36,7 @@ Key Focus Areas:
 
 ### Learning Outcomes
 
-By the end of Grade 11, learners should be able to:
+By the end of Grade 12, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 11, learners should be able to:
 
 ### Matter and Materials
 
-*Matter and Materials* is a fundamental concept in Life Sciences for Grade 11.
+*Matter and Materials* is a fundamental concept in Life Sciences for Grade 12.
 
 **Understanding:**
 Learners should understand the principles of matter and materials and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving life sciences problems and in real-world sc
 
 ### Living and Non-living
 
-*Living and Non-living* is a fundamental concept in Life Sciences for Grade 11.
+*Living and Non-living* is a fundamental concept in Life Sciences for Grade 12.
 
 **Understanding:**
 Learners should understand the principles of living and non-living and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving life sciences problems and in real-world sc
 
 ### Earth and Beyond
 
-*Earth and Beyond* is a fundamental concept in Life Sciences for Grade 11.
+*Earth and Beyond* is a fundamental concept in Life Sciences for Grade 12.
 
 **Understanding:**
 Learners should understand the principles of earth and beyond and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving life sciences problems and in real-world sc
 
 ### Energy and Change
 
-*Energy and Change* is a fundamental concept in Life Sciences for Grade 11.
+*Energy and Change* is a fundamental concept in Life Sciences for Grade 12.
 
 **Understanding:**
 Learners should understand the principles of energy and change and how they apply in various contexts.
@@ -149,7 +149,7 @@ years to transform the curriculum bequeathed to us by apartheid. From the start 
 
 ### What You Will Learn
 
-In Grade 11 Life Sciences, you will learn:
+In Grade 12 Life Sciences, you will learn:
 
 - Scientific investigation skills
 - Matter, materials, and chemical processes
@@ -224,6 +224,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:48:38*
+*Generated: 2026-06-07 16:52:47*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

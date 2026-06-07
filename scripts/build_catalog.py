@@ -24,14 +24,12 @@ GRADE_TO_BAND = {
     "Grade 12": "FET Phase",
 }
 
-HEADER_PATTERN = re.compile(r"^#\s*(Grade\s(?:R|\d{1,2}))\s+—\s+(.+?)\s*\(CAPS\)")
+HEADER_PATTERN = re.compile(r"^#\s*(Grade\s(?:R|[1-9]|1[0-2]))\s+—\s+(.+?)\s*\(CAPS\)")
 
 
 def normalize_subject_name(subject: str) -> str:
     normalized = " ".join(subject.replace("_", " ").split())
-    if normalized.lower() == "siswati":
-        return "siSwati"
-    return normalized
+    return re.sub(r"\bsiswati\b", "siSwati", normalized, flags=re.IGNORECASE)
 
 
 def build_entries(repo_root: Path):

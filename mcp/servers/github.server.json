@@ -1,0 +1,21 @@
+{
+  "id": "github",
+  "name": "GitHub MCP",
+  "description": "GitHub integration MCP scaffold for repository workflows.",
+  "category": "Automation",
+  "upstream_repo": "github/github-mcp-server",
+  "install": {
+    "type": "npx",
+    "package": "@github/mcp-server",
+    "env_vars": [
+      "GITHUB_TOKEN"
+    ]
+  },
+  "tools": [
+    "repositories",
+    "issues",
+    "pull_requests",
+    "actions"
+  ],
+  "safety_notes": "Restrict repository scope and avoid exposing private data in learner contexts."
+}

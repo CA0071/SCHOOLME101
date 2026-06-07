@@ -1,0 +1,18 @@
+{
+  "id": "ai_automation",
+  "name": "Education AI Automation MCP",
+  "description": "MEOK AI Labs Education MCP \u2014 agentic AI governance for education workflows",
+  "category": "Automation",
+  "upstream_repo": "CSOAI-ORG/education-ai-mcp",
+  "install": {
+    "type": "docker",
+    "command": "docker run --rm csoai-org/education-ai-mcp",
+    "env_vars": []
+  },
+  "tools": [
+    "workflow_automation",
+    "agent_governance",
+    "policy_controls"
+  ],
+  "safety_notes": "Require human approval for high-impact educational workflow actions."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "lumen_tutor",
+  "name": "Lumen Tutor MCP",
+  "description": "Lumen AI tutor \u2014 course-scoped RAG + citations, pgvector, multi-agent, golden evals",
+  "category": "Education",
+  "upstream_repo": "ahmedEid1/lumen",
+  "install": {
+    "type": "docker",
+    "command": "docker run --rm ahmedeid1/lumen",
+    "env_vars": [
+      "DATABASE_URL"
+    ]
+  },
+  "tools": [
+    "ai_tutoring",
+    "rag",
+    "citations",
+    "evaluation"
+  ],
+  "safety_notes": "Require factual citations and avoid overconfident guidance for learners.",
+  "age_appropriate_content": true
+}

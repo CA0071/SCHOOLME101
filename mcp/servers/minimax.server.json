@@ -1,0 +1,21 @@
+{
+  "id": "minimax",
+  "name": "MiniMax MCP",
+  "description": "MiniMax MCP \u2014 image generation, TTS, video generation",
+  "category": "Image",
+  "upstream_repo": "MiniMax-AI/MiniMax-MCP",
+  "install": {
+    "type": "npx",
+    "package": "minimax-mcp",
+    "env_vars": [
+      "MINIMAX_API_KEY",
+      "MINIMAX_GROUP_ID"
+    ]
+  },
+  "tools": [
+    "image_generation",
+    "video_generation",
+    "tts"
+  ],
+  "safety_notes": "Apply strict content policies and block unsafe visual generation prompts."
+}

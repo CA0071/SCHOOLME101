@@ -1,0 +1,19 @@
+{
+  "id": "image_gen_gpt",
+  "name": "GPT-Image-1 MCP",
+  "description": "GPT-Image-1 generation MCP server",
+  "category": "Image",
+  "upstream_repo": "CLOUDWERX-DEV/gpt-image-1-mcp",
+  "install": {
+    "type": "npx",
+    "package": "gpt-image-1-mcp",
+    "env_vars": [
+      "OPENAI_API_KEY"
+    ]
+  },
+  "tools": [
+    "gpt_image_generation",
+    "prompt_refinement"
+  ],
+  "safety_notes": "Use educational-safe prompt templates and content filtering."
+}

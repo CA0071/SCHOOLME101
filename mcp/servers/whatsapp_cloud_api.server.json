@@ -1,0 +1,22 @@
+{
+  "id": "whatsapp_cloud_api",
+  "name": "WhatsApp Cloud API MCP",
+  "description": "WhatsApp Cloud API MCP \u2014 send messages, conversations, contacts, media via official API",
+  "category": "WhatsApp",
+  "upstream_repo": "FredShred7/whatsapp-mcp-server",
+  "install": {
+    "type": "npx",
+    "package": "whatsapp-mcp-server",
+    "env_vars": [
+      "WHATSAPP_API_TOKEN",
+      "WHATSAPP_PHONE_NUMBER_ID"
+    ]
+  },
+  "tools": [
+    "cloud_messaging",
+    "conversations",
+    "contacts",
+    "media"
+  ],
+  "safety_notes": "Use approved templates and avoid sending sensitive learner data over chat."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "global_education_data",
+  "name": "Global Education Data MCP",
+  "description": "UNESCO UIS + OECD Education data \u2014 4,000+ indicators, no API key required",
+  "category": "Education",
+  "upstream_repo": "malkreide/global-education-mcp",
+  "install": {
+    "type": "pip",
+    "package": "global-education-mcp",
+    "env_vars": []
+  },
+  "tools": [
+    "education_indicators",
+    "dataset_querying",
+    "benchmarking"
+  ],
+  "safety_notes": "Contextualize datasets for South African education planning use cases.",
+  "age_appropriate_content": true
+}

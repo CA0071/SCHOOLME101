@@ -1,0 +1,20 @@
+{
+  "id": "pdf_ai",
+  "name": "ComPDF AI MCP",
+  "description": "ComPDF AI \u2014 intelligent PDF extraction, OCR, data extraction via natural language",
+  "category": "OCR",
+  "upstream_repo": "ComPDFKit/ComIDP-MCP-Server",
+  "install": {
+    "type": "pip",
+    "package": "comidp-mcp-server",
+    "env_vars": [
+      "COMPDF_API_KEY"
+    ]
+  },
+  "tools": [
+    "pdf_extraction",
+    "ocr",
+    "structured_data"
+  ],
+  "safety_notes": "Ensure extracted content is validated before educational decision making."
+}

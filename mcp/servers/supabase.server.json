@@ -1,0 +1,22 @@
+{
+  "id": "supabase",
+  "name": "Supabase MCP",
+  "description": "Full Supabase management: read/write queries, migrations, management API, logs",
+  "category": "Database",
+  "upstream_repo": "alexander-zuev/supabase-mcp-server",
+  "install": {
+    "type": "npx",
+    "package": "supabase-mcp-server",
+    "env_vars": [
+      "SUPABASE_URL",
+      "SUPABASE_SERVICE_ROLE_KEY"
+    ]
+  },
+  "tools": [
+    "sql_queries",
+    "migrations",
+    "management_api",
+    "logs"
+  ],
+  "safety_notes": "Use row-level security and avoid exposing service-role credentials to clients."
+}

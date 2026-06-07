@@ -1,0 +1,20 @@
+{
+  "id": "geogebra",
+  "name": "GeoGebra MCP",
+  "description": "GeoGebra MCP \u2014 geometric construction, CAS, plotting, .ggb export (Gr R\u201312 Maths/Science)",
+  "category": "Education",
+  "upstream_repo": "YZDame/geogebra-mcp-server",
+  "install": {
+    "type": "npx",
+    "package": "geogebra-mcp-server",
+    "env_vars": []
+  },
+  "tools": [
+    "geometry",
+    "cas",
+    "plotting",
+    "ggb_export"
+  ],
+  "safety_notes": "Prioritize Grade 8\u201312 Maths and Physical Sciences classroom-safe visualizations.",
+  "age_appropriate_content": true
+}

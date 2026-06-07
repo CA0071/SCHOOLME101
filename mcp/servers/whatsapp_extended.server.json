@@ -1,0 +1,22 @@
+{
+  "id": "whatsapp_extended",
+  "name": "WhatsApp Extended MCP",
+  "description": "41-tool extended WhatsApp MCP \u2014 reactions, group management, polls, presence",
+  "category": "WhatsApp",
+  "upstream_repo": "FelixIsaac/whatsapp-mcp-extended",
+  "install": {
+    "type": "npx",
+    "package": "whatsapp-mcp-extended",
+    "env_vars": [
+      "WHATSAPP_API_TOKEN",
+      "WHATSAPP_PHONE_NUMBER_ID"
+    ]
+  },
+  "tools": [
+    "group_management",
+    "polls",
+    "reactions",
+    "presence"
+  ],
+  "safety_notes": "Restrict group actions to authorized school staff and keep audit logs."
+}

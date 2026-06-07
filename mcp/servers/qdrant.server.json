@@ -1,0 +1,21 @@
+{
+  "id": "qdrant",
+  "name": "Qdrant MCP",
+  "description": "Qdrant vector search MCP \u2014 production-grade semantic search",
+  "category": "Database",
+  "upstream_repo": "qdrant/mcp-server-qdrant",
+  "install": {
+    "type": "docker",
+    "command": "docker run --rm qdrant/mcp-server-qdrant",
+    "env_vars": [
+      "QDRANT_URL",
+      "QDRANT_API_KEY"
+    ]
+  },
+  "tools": [
+    "vector_search",
+    "collections",
+    "embeddings"
+  ],
+  "safety_notes": "Filter retrieval content for age suitability before student display."
+}

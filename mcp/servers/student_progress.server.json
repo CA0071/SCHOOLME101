@@ -1,0 +1,19 @@
+{
+  "id": "student_progress",
+  "name": "Student Progress Tracker MCP",
+  "description": "Student performance tracking and learning gap identification",
+  "category": "Education",
+  "upstream_repo": "woodstocksoftware/student-progress-tracker",
+  "install": {
+    "type": "pip",
+    "package": "student-progress-tracker",
+    "env_vars": []
+  },
+  "tools": [
+    "performance_tracking",
+    "gap_analysis",
+    "progress_reports"
+  ],
+  "safety_notes": "Treat learner analytics as confidential and bias-check recommendations.",
+  "age_appropriate_content": true
+}

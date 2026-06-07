@@ -1,0 +1,17 @@
+{
+  "id": "powershell",
+  "name": "PowerShell Exec MCP",
+  "description": "PowerShell script execution MCP",
+  "category": "Shell",
+  "upstream_repo": "dfinke/mcp-powershell-exec",
+  "install": {
+    "type": "docker",
+    "command": "docker run --rm dfinke/mcp-powershell-exec",
+    "env_vars": []
+  },
+  "tools": [
+    "script_execution",
+    "command_automation"
+  ],
+  "safety_notes": "Disable unsafe scripts and limit command execution to controlled environments."
+}

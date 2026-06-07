@@ -1,0 +1,22 @@
+{
+  "id": "whatsapp_stream",
+  "name": "WhatsApp Stream MCP",
+  "description": "61-tool WhatsApp MCP \u2014 Baileys + Cloud API, Streamable HTTP, BullMQ, real-time events",
+  "category": "WhatsApp",
+  "upstream_repo": "delltrak/wamcp",
+  "install": {
+    "type": "docker",
+    "command": "docker run --rm delltrak/wamcp",
+    "env_vars": [
+      "WHATSAPP_API_TOKEN",
+      "WHATSAPP_PHONE_NUMBER_ID"
+    ]
+  },
+  "tools": [
+    "real_time_events",
+    "queue_processing",
+    "streaming_http",
+    "messaging"
+  ],
+  "safety_notes": "Enforce least-privilege credentials and monitor real-time channels for abuse."
+}

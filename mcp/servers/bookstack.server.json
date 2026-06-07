@@ -1,0 +1,21 @@
+{
+  "id": "bookstack",
+  "name": "BookStack MCP",
+  "description": "BookStack knowledge base MCP \u2014 56 tools, semantic vector search, pgvector",
+  "category": "Memory",
+  "upstream_repo": "bees-roadhouse/bookstack-mcp",
+  "install": {
+    "type": "docker",
+    "command": "docker run --rm bees-roadhouse/bookstack-mcp",
+    "env_vars": [
+      "BOOKSTACK_URL",
+      "BOOKSTACK_TOKEN"
+    ]
+  },
+  "tools": [
+    "knowledge_base",
+    "semantic_search",
+    "content_management"
+  ],
+  "safety_notes": "Restrict editing rights and moderate contributed educational content."
+}

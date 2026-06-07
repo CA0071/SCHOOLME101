@@ -1,0 +1,18 @@
+{
+  "id": "jupyter",
+  "name": "Jupyter MCP",
+  "description": "Jupyter notebook MCP \u2014 interactive science/maths exercises",
+  "category": "Research",
+  "upstream_repo": "datalayer/jupyter-mcp-server",
+  "install": {
+    "type": "pip",
+    "package": "jupyter-mcp-server",
+    "env_vars": []
+  },
+  "tools": [
+    "notebook_execution",
+    "cell_management",
+    "interactive_exercises"
+  ],
+  "safety_notes": "Execute notebooks in sandboxed environments to prevent unsafe code execution."
+}

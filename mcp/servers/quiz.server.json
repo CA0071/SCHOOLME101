@@ -1,0 +1,22 @@
+{
+  "id": "quiz-assessment",
+  "displayName": "Quiz and Assessment MCP",
+  "purpose": "Generates curriculum-aligned quizzes and marks answers.",
+  "transport": {
+    "type": "stdio",
+    "entrypoint": "python -m mcp_servers.quiz",
+    "notes": "Placeholder command for future server implementation."
+  },
+  "tools": [
+    "create_quiz",
+    "create_marking_rubric",
+    "check_answers",
+    "summarize_assessment_gaps"
+  ],
+  "requiredInputs": [
+    "grade",
+    "subject",
+    "difficulty",
+    "questionCount"
+  ]
+}

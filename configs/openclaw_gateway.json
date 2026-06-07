@@ -1,0 +1,15 @@
+{
+  "gateway": {
+    "name": "schoolme101-central-gateway",
+    "region": "africa-primary",
+    "baseUrl": "https://gateway.example.schoolme101.africa",
+    "healthEndpoint": "/health",
+    "chatEndpoint": "/v1/chat/completions",
+    "mcpRegistryPath": "../mcp/config/mcp_registry.json"
+  },
+  "subscriberScalePlan": {
+    "targetActiveApiKeys": 2000,
+    "allocationStrategy": "pooled-with-tier-caps",
+    "rotationWindowDays": 90
+  }
+}

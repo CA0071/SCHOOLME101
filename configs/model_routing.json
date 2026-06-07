@@ -1,0 +1,46 @@
+{
+  "version": "1.0.0",
+  "defaultProvider": "openclaw-gateway",
+  "providers": {
+    "openclaw-gateway": {
+      "baseUrl": "https://gateway.example.schoolme101.africa",
+      "authMode": "api_key",
+      "models": {
+        "gemini-2.5-flash": {
+          "tier": "fast",
+          "defaultUseCases": [
+            "quick-homework-help",
+            "quiz-generation",
+            "revision-summaries"
+          ]
+        },
+        "gemini-2.5-pro": {
+          "tier": "pro",
+          "defaultUseCases": [
+            "advanced-reasoning",
+            "essay-feedback",
+            "exam-prep"
+          ]
+        }
+      }
+    }
+  },
+  "routingRules": [
+    {
+      "id": "default-student-chat",
+      "when": {
+        "workflow": "tutoring",
+        "complexity": "low_or_medium"
+      },
+      "routeTo": "gemini-2.5-flash"
+    },
+    {
+      "id": "advanced-homework",
+      "when": {
+        "workflow": "homework",
+        "complexity": "high"
+      },
+      "routeTo": "gemini-2.5-pro"
+    }
+  ]
+}

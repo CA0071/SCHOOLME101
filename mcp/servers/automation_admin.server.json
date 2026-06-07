@@ -1,0 +1,20 @@
+{
+  "id": "automation-admin",
+  "displayName": "Automation and Admin MCP",
+  "purpose": "Subscriber onboarding, key lifecycle, and reporting workflows.",
+  "transport": {
+    "type": "stdio",
+    "entrypoint": "python -m mcp_servers.automation_admin",
+    "notes": "Placeholder command for future server implementation."
+  },
+  "tools": [
+    "create_subscriber_record",
+    "allocate_api_key",
+    "rotate_api_key",
+    "generate_usage_report"
+  ],
+  "requiredInputs": [
+    "tenantId",
+    "operatorId"
+  ]
+}

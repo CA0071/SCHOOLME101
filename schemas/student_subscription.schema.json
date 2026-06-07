@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://schoolme101.local/schemas/student_subscription.schema.json",
+  "title": "StudentSubscription",
+  "type": "object",
+  "required": [
+    "subscriptionId",
+    "studentId",
+    "planTier",
+    "status",
+    "activatedAt",
+    "apiKeyRef"
+  ],
+  "properties": {
+    "subscriptionId": { "type": "string", "minLength": 3 },
+    "studentId": { "type": "string", "minLength": 3 },
+    "guardianId": { "type": "string" },
+    "schoolId": { "type": "string" },
+    "planTier": {
+      "type": "string",
+      "enum": ["starter", "standard", "premium", "institutional"]
+    },
+    "status": {
+      "type": "string",
+      "enum": ["active", "paused", "cancelled", "expired"]
+    },
+    "languagePreferences": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 2 },
+      "minItems": 1
+    },
+    "gradesCovered": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+    "activatedAt": { "type": "string", "format": "date-time" },
+    "expiresAt": { "type": "string", "format": "date-time" },
+    "apiKeyRef": { "type": "string", "minLength": 6 }
+  },
+  "additionalProperties": false
+}

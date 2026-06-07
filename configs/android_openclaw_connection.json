@@ -1,0 +1,17 @@
+{
+  "profileName": "SCHOOLME101 Android Manual Setup",
+  "gatewayBaseUrl": "https://gateway.example.schoolme101.africa",
+  "apiKeyHeader": "x-api-key",
+  "apiKeyPlaceholder": "replace-with-issued-student-key",
+  "defaultModel": "gemini-2.5-flash",
+  "fallbackModel": "gemini-2.5-pro",
+  "mcp": {
+    "enabled": true,
+    "registryConfig": "../mcp/config/mcp_registry.json"
+  },
+  "retrieval": {
+    "enabled": true,
+    "subjectFilterRequired": true,
+    "gradeFilterRequired": true
+  }
+}

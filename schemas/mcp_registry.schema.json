@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://schoolme101.local/schemas/mcp_registry.schema.json",
+  "type": "object",
+  "required": ["version", "defaults", "servers"],
+  "properties": {
+    "version": { "type": "string" },
+    "description": { "type": "string" },
+    "defaults": {
+      "type": "object",
+      "required": ["transport", "timeoutMs", "maxConcurrentRequests"],
+      "properties": {
+        "transport": { "type": "string" },
+        "timeoutMs": { "type": "integer", "minimum": 1000 },
+        "maxConcurrentRequests": { "type": "integer", "minimum": 1 }
+      },
+      "additionalProperties": true
+    },
+    "servers": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "enabled", "configPath"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "name": { "type": "string", "minLength": 1 },
+          "enabled": { "type": "boolean" },
+          "configPath": { "type": "string", "minLength": 1 }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

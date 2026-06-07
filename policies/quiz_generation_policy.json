@@ -1,0 +1,28 @@
+{
+  "policyVersion": "1.0.0",
+  "policyName": "quiz-generation",
+  "templates": {
+    "multiple-choice": {
+      "defaultQuestionCount": 10,
+      "optionsPerQuestion": 4,
+      "includeAnswerKey": true
+    },
+    "short-answer": {
+      "defaultQuestionCount": 5,
+      "includeMarkAllocation": true,
+      "requireRubric": true
+    }
+  },
+  "rules": [
+    {
+      "id": "difficulty-band",
+      "description": "Questions must match learner grade and requested difficulty.",
+      "enforcement": "required"
+    },
+    {
+      "id": "caps-tagging",
+      "description": "Tag each question with curriculum strand/topic metadata.",
+      "enforcement": "required"
+    }
+  ]
+}

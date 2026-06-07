@@ -1,0 +1,21 @@
+{
+  "id": "homework-help",
+  "displayName": "Homework Helper MCP",
+  "purpose": "Step-by-step homework guidance without unsafe answer dumping.",
+  "transport": {
+    "type": "stdio",
+    "entrypoint": "python -m mcp_servers.homework",
+    "notes": "Placeholder command for future server implementation."
+  },
+  "tools": [
+    "give_hint",
+    "solve_step_by_step",
+    "check_working",
+    "generate_practice_question"
+  ],
+  "requiredInputs": [
+    "grade",
+    "subject",
+    "studentAttempt"
+  ]
+}

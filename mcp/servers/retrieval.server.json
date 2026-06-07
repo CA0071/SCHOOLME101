@@ -1,0 +1,22 @@
+{
+  "id": "retrieval-search",
+  "displayName": "Retrieval and Search MCP",
+  "purpose": "Metadata-aware search over the tutoring knowledge base.",
+  "transport": {
+    "type": "stdio",
+    "entrypoint": "python -m mcp_servers.retrieval",
+    "notes": "Placeholder command for future server implementation."
+  },
+  "tools": [
+    "search_knowledge_base",
+    "retrieve_context_chunks",
+    "list_sources_for_topic",
+    "trace_answer_citations"
+  ],
+  "requiredInputs": [
+    "query",
+    "grade",
+    "subject",
+    "maxResults"
+  ]
+}

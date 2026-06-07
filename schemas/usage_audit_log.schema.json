@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://schoolme101.local/schemas/usage_audit_log.schema.json",
+  "title": "UsageAuditLog",
+  "type": "object",
+  "required": [
+    "eventId",
+    "timestamp",
+    "keyId",
+    "studentId",
+    "workflow",
+    "model",
+    "requestTokens",
+    "responseTokens",
+    "status"
+  ],
+  "properties": {
+    "eventId": { "type": "string", "minLength": 8 },
+    "timestamp": { "type": "string", "format": "date-time" },
+    "keyId": { "type": "string", "minLength": 8 },
+    "studentId": { "type": "string", "minLength": 3 },
+    "workflow": {
+      "type": "string",
+      "enum": ["tutoring", "homework", "quiz", "admin", "retrieval"]
+    },
+    "model": { "type": "string", "minLength": 3 },
+    "requestTokens": { "type": "integer", "minimum": 0 },
+    "responseTokens": { "type": "integer", "minimum": 0 },
+    "latencyMs": { "type": "integer", "minimum": 0 },
+    "status": { "type": "string", "enum": ["success", "rate_limited", "error"] },
+    "errorCode": { "type": "string" }
+  },
+  "additionalProperties": false
+}

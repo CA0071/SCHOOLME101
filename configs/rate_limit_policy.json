@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "defaultLimits": {
+    "requestsPerMinute": 20,
+    "requestsPerDay": 600,
+    "tokenBudgetPerDay": 250000
+  },
+  "tierOverrides": {
+    "starter": {
+      "requestsPerMinute": 10,
+      "requestsPerDay": 250,
+      "tokenBudgetPerDay": 100000
+    },
+    "standard": {
+      "requestsPerMinute": 20,
+      "requestsPerDay": 600,
+      "tokenBudgetPerDay": 250000
+    },
+    "premium": {
+      "requestsPerMinute": 40,
+      "requestsPerDay": 2000,
+      "tokenBudgetPerDay": 1000000
+    }
+  },
+  "burstControls": {
+    "maxConcurrentRequests": 3,
+    "cooldownSecondsOnViolation": 30
+  }
+}

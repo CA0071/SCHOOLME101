@@ -1,0 +1,22 @@
+{
+  "id": "education-workflows",
+  "displayName": "Education Workflow MCP",
+  "purpose": "Curriculum-aware tutoring workflows and lesson support.",
+  "transport": {
+    "type": "stdio",
+    "entrypoint": "python -m mcp_servers.education",
+    "notes": "Placeholder command for future server implementation."
+  },
+  "tools": [
+    "resolve_grade_subject_topic",
+    "generate_lesson_outline",
+    "explain_concept_for_level",
+    "recommend_revision_path"
+  ],
+  "requiredInputs": [
+    "grade",
+    "subject",
+    "language",
+    "curriculum"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "policyVersion": "1.0.0",
+  "policyName": "tutoring-safety",
+  "rules": [
+    {
+      "id": "age-appropriate-tone",
+      "description": "Adjust complexity and tone to learner grade band.",
+      "enforcement": "required"
+    },
+    {
+      "id": "no-harmful-content",
+      "description": "Refuse dangerous, abusive, or discriminatory tutoring outputs.",
+      "enforcement": "required"
+    },
+    {
+      "id": "ground-in-curriculum",
+      "description": "Prefer CAPS-aligned content and show source references when possible.",
+      "enforcement": "required"
+    }
+  ]
+}

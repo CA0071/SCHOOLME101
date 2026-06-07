@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "schoolme-unified": {
+      "command": "node",
+      "args": ["/absolute/path/to/SCHOOLME101/dist/src/unified-index.js"],
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+}

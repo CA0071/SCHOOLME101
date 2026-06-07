@@ -1,0 +1,37 @@
+{
+  "name": "schoolme101-mcp-server",
+  "version": "1.0.0",
+  "description": "SCHOOLME101 MCP Server - South African CAPS Curriculum AI Tutor for OpenClaw and Claude Desktop",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "watch": "tsc --watch",
+    "clean": "rm -rf dist",
+    "prebuild": "npm run clean"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "education",
+    "curriculum",
+    "caps",
+    "south-africa",
+    "ai-tutor",
+    "openclaw"
+  ],
+  "author": "CA0071",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

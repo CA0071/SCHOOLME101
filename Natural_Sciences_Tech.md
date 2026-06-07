@@ -1,9 +1,9 @@
-# Grade 5 — Natural_Sciences_Tech (CAPS)
+# Grade 6 — Natural_Sciences_Tech (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Intermediate Phase*
 
-**Generated:** 2026-06-07 16:10:23
+**Generated:** 2026-06-07 16:10:25
 **Source Documents:** 23 official CAPS document(s)
 
 ---
@@ -24,7 +24,7 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 5
+**Grade:** Grade 6
 **Subject:** Natural_Sciences_Tech
 **Phase:** Intermediate Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
@@ -35,7 +35,7 @@
 
 ### Learning Outcomes
 
-By the end of Grade 5, learners should be able to:
+By the end of Grade 6, learners should be able to:
 
 - Demonstrate understanding of core Natural_Sciences_Tech concepts appropriate for intermediate phase
 - Apply knowledge to solve problems and complete tasks
@@ -65,49 +65,9 @@ Time allocation ................................................................
 
 ## Key Concepts
 
-### in your table.
-5ood item
-4nergy per āĀĀg
-.
-.
-Ċ
-.
-3hapter ā.
-Stored energy in fuels
-
-.
-QU4ST8ONS
-
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### in your table.
-5ood item
-4nergy per āĀĀg
-.
-.
-Ċ
-.
-3hapter ā.
-Stored energy in fuels
-
-.
-QU4ST8ONS
-
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
 ### equipping learners, irrespective of their socio-economic background, race, gender, physical ability o
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -116,7 +76,7 @@ This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
 
 ### providing access to higher education;
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -125,7 +85,7 @@ This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
 
 ### facilitating the transition of learners from education institutions to the workplace; and
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -134,7 +94,7 @@ This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
 
 ### providing employers with a sufficient profile of a learner’s competences.
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -143,7 +103,7 @@ This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
 
 ### Social transformation: ensuring that the educational imbalances of the past are redressed, and that
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -152,7 +112,7 @@ This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
 
 ### Active and critical learning: encouraging an active and critical approach to learning, rather than ro
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -161,7 +121,7 @@ This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
 
 ### High knowledge and high skills: the minimum standards of knowledge and skills to be achieved at each
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -170,7 +130,7 @@ This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
 
 ### Progression: content and context of each grade shows progression from simple to complex;
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -179,7 +139,7 @@ This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
 
 ### Human rights, inclusivity, environmental and social justice: infusing the principles and practices of
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -188,7 +148,7 @@ This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
 
 ### Valuing indigenous knowledge systems: acknowledging the rich history and heritage of this country as
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -197,7 +157,7 @@ This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
 
 ### Credibility, quality and efficiency: providing an education that is comparable in quality, breadth an
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -206,7 +166,7 @@ This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
 
 ### identify and solve problems and make decisions using critical and creative thinking;
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -215,7 +175,7 @@ This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
 
 ### work effectively as individuals and with others as members of a team;
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -224,7 +184,7 @@ This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
 
 ### organise and manage themselves and their activities responsibly and effectively;
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -233,7 +193,7 @@ This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
 
 ### collect, analyse, organise and critically evaluate information;
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -242,7 +202,7 @@ This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
 
 ### communicate effectively using visual, symbolic and/or language skills in various modes;
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -251,7 +211,7 @@ This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
 
 ### use science and technology effectively and critically showing responsibility towards the environment
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -260,7 +220,7 @@ This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
 
 ### demonstrate an understanding of the world as a set of related systems by recognising that problem
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -269,7 +229,7 @@ This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
 
 ### basic interpersonal communication skills. In Grades 2 and 3 learners start
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -278,7 +238,7 @@ This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
 
 ### basic interpersonal communication skills. In Grades 4 - 6
 
-This topic covers essential Natural_Sciences_Tech concepts for Grade 5.
+This topic covers essential Natural_Sciences_Tech concepts for Grade 6.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -555,9 +515,9 @@ Level 4 on the National Qualifi...
 
 ## Document Information
 
-**Generated:** 2026-06-07 16:10:23
+**Generated:** 2026-06-07 16:10:25
 **Source Documents:** 23 CAPS document(s) processed
-**Grade:** Grade 5
+**Grade:** Grade 6
 **Subject:** Natural_Sciences_Tech
 
 ---

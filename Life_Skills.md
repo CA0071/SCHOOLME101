@@ -1,4 +1,4 @@
-# Grade 5 — Life Skills (CAPS)
+# Grade 6 — Life Skills (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Intermediate Phase*
@@ -20,13 +20,13 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 5
+**Grade:** Grade 6
 **Subject:** Life Skills
 **Phase:** Intermediate Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Life Skills curriculum for Grade 5 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Life Skills curriculum for Grade 6 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -36,7 +36,7 @@ Key Focus Areas:
 
 ### Learning Outcomes
 
-By the end of Grade 5, learners should be able to:
+By the end of Grade 6, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -111,7 +111,7 @@ Informal or daily assessment ...................................................
 
 ### What You Will Learn
 
-In Grade 5 Life Skills, you will learn:
+In Grade 6 Life Skills, you will learn:
 
 - Core subject concepts and principles
 - Practical applications
@@ -186,6 +186,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:27:12*
+*Generated: 2026-06-07 16:30:26*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

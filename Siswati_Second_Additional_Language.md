@@ -1,124 +1,275 @@
-# Grade 6 — siSwati Second Additional Language (CAPS)
+# Grade R — Siswati_Second_Additional_Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
-*Intermediate Phase*
+*Foundation Phase*
+
+**Generated:** 2026-06-07 16:10:14
+**Source Documents:** 32 official CAPS document(s)
 
 ---
 
 ## Table of Contents
 
 1. [Curriculum Overview](#curriculum-overview)
-2. [Key Concepts](#key-concepts)
-3. [Topic Summaries](#topic-summaries)
-4. [Study Notes](#study-notes)
-5. [Assessment Guidelines](#assessment-guidelines)
-6. [Exam Tips](#exam-tips)
-7. [Practice Questions](#practice-questions)
-8. [Resources](#resources)
+2. [Introduction](#introduction)
+3. [Key Concepts](#key-concepts)
+4. [Topic Summaries](#topic-summaries)
+5. [Study Notes](#study-notes)
+6. [Assessment Guidelines](#assessment-guidelines)
+7. [Exam Tips](#exam-tips)
+8. [Practice Questions](#practice-questions)
+9. [Resources](#resources)
 
 ---
 
 ## Curriculum Overview
 
-**Grade:** Grade 6
-**Subject:** siSwati Second Additional Language
-**Phase:** Intermediate Phase
+**Grade:** Grade R
+**Subject:** Siswati_Second_Additional_Language
+**Phase:** Foundation Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The siSwati Second Additional Language curriculum for Grade 6 (Intermediate Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
-
-Key Focus Areas:
-- Alignment with Department of Basic Education standards
-- Age-appropriate content for Intermediate Phase
-- Integration with other subjects where applicable
-- Preparation for assessments and examinations
+**Age Range:** 5-9 years
+**Assessment:** School-Based Assessment (SBA) 70% + Final 30%
 
 ### Learning Outcomes
 
-By the end of Grade 6, learners should be able to:
+By the end of Grade R, learners should be able to:
 
-- Demonstrate understanding of core {subject} concepts
-- Apply knowledge to solve problems
+- Demonstrate understanding of core Siswati_Second_Additional_Language concepts appropriate for foundation phase
+- Apply knowledge to solve problems and complete tasks
 - Communicate effectively using subject-specific terminology
-- Think critically and analytically about {subject.lower()} topics
+- Think critically and analytically
+- Meet CAPS curriculum requirements for this grade
+
+---
+
+## Introduction
+
+FOREWORD by the minister
+Our national curriculum is the culmination of our efforts over a period of seventeen
+years to transform the curriculum bequeathed to us by apartheid. From the start of
+democracy we have built our curriculum on the values that inspired our Constitu-
+tion (Act 108 of 1996). The Preamble to the Constitution states that the aims of the
+Constitution are to:
+•
+heal the divisions of the past and establish a society based on democratic
+values, social justice and fundamental human rights;
+•
+improve the quality of life of all citizens and free the potential of each person;
+•
+lay the foundations for a democratic and open society in which government is
+based on the will of the people and every citizen is equally protected by law;
+and
+•
+build a united and democratic South Africa able to take its rightful place as a sovereign state in the family of
+nations.
+Education and the curriculum have an important role to play in realising these aims.
+In 1997 we introduced outcomes-based education to overcome the curricular divisions of the past, but the experi-
+ence of implementation prompted a review in 2000. This led to the first curriculum revision: the Revised National
+Curriculum Statement Grades R-9 and the National Curriculum Statement Grades 10-12 (2002).
+Ongoing implementation challenges resulted in another review in 2009 and we revised the Revised National Cur-
+riculum Statement (2002) to produce this document.
+From 2012 the two 2002 curricula, for Grades R-9 and Grades 10-12 respectively, are combined in a single docu-
+ment and will simply be known as the National Curriculum Statement Grades R-1
 
 ---
 
 ## Key Concepts
 
-### Listening and Speaking
+### kuhlomisa bafundzi ngelwati, emakhono nemagugu ekuphila lafanele, kute banetiseke baphindze
 
-*Listening and Speaking* is a fundamental concept in siSwati Second Additional Language for Grade 6.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
 
-**Understanding:**
-Learners should understand the principles of listening and speaking and how they apply in various contexts.
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
 
-**Application:**
-This concept is applied when solving siswati second additional language problems and in real-world scenarios.
+### kutsi batfole imfundvo lephakeme;
 
-### Reading and Viewing
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
 
-*Reading and Viewing* is a fundamental concept in siSwati Second Additional Language for Grade 6.
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
 
-**Understanding:**
-Learners should understand the principles of reading and viewing and how they apply in various contexts.
+### kulungiselela bafundzi kutsi bakwati kumela timo letehlukile kuleto tasetikolweni temfundvo
 
-**Application:**
-This concept is applied when solving siswati second additional language problems and in real-world scenarios.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
 
-### Writing
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
 
-*Writing* is a fundamental concept in siSwati Second Additional Language for Grade 6.
+### nekunika bacashi imininingwane leyenele mayelana nemakhono ebafundzi.
 
-**Understanding:**
-Learners should understand the principles of writing and how they apply in various contexts.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
 
-**Application:**
-This concept is applied when solving siswati second additional language problems and in real-world scenarios.
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
 
-### Language Structures
+### Ingucuko kutenhlalo: kucinisekisa kutsi kungafani kwemfundvo lokwakwentiwa esikhatsini lesengca
 
-*Language Structures* is a fundamental concept in siSwati Second Additional Language for Grade 6.
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
 
-**Understanding:**
-Learners should understand the principles of language structures and how they apply in various contexts.
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
 
-**Application:**
-This concept is applied when solving siswati second additional language problems and in real-world scenarios.
+### Kufundza gekutimisela nangalokujulile: kugcugcutela tindlela tekufundza ngekutimisela
+
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### Lwati lolusetulu nemakhono lasetulu: linanincane lemacophelo elwati nemakhono lekumele
+
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### Inchubekelembili: lokucuketfwe kanye nesimongcondvo saleso naleso sifundvo kukhombisa
+
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### Kuhlonipha lwati lwendzabuko: kwemukela umlandvo lonotsile nemagugu emdzabu alelive
+
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### Kwetsembeka, lizinga lelifanele, nelikhono lekwenta: kunika imfundvo lenelizinga lelicatsanisekako
+
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### bona nekusombulula tinkinga bese batsatsa tincumo ngekutakhela imicabango lejulile
+
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### sebenta ngekubambisana nalabanye njengelilunga lelicembu, lenhlangano nelemmango
+
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### hlelembisa, nekutiphatsa ngalokunetibopho kuko konkhe labakwentako ngendlela lenemphumelelo;
+
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### gcogca, hlatiya, hlela nekuhlola lwati ngalokujulile
+
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### chumana ngemphumelelo ngekusebentisa tibonwa, timphawu ne /nobe bugagu bekusebentisa
+
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### sebentisa isayensi nebuchwepheshe ngemphumelelo nangalokujulile bakhombise kutibophelela
+
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### khombisa kuvisisa umhlaba njengeluchungechunge lwetehlakalo ngekubona kutsi timongcondvo
+
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### Lwati lwekucala
+
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### Buciko Bekuticambela
+
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### Sifundvo Sekutivocavoca
+
+This topic covers essential Siswati_Second_Additional_Language concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
 
 ---
 
 ## Topic Summaries
 
-### SISWATI LULWIMI LWESIBILI
+### Topic 1: SISWATI SECOND ADDITIONAL LANGUAGE
 
-LWEKWENGETA
-Sitatimende Senchubomgomo
-Yekharikhulamu nekuhlola
-Sigaba Lesisemkhatsini
-Emabanga 4-6
-Sitatimende Sekharikhulamu Yavelonke
+Curriculum and Assessment
+Policy Statement
+FOUNDATION PHASE
+GRADES 1 – 3
+National Curriculum Statement (NCS)
 
-SISEYENE
-SITATIMENDE SENCHUBOMGOMO
-YEKHARIKHULAMU NEKUHLOLA
-EMABANGA 4-6
-SISWATI LULWIMI LWESIBILI LWEKWENGETA
-
-siswati lulwimi lweSIBILI lwekwengeta EMABANGA 4-6
-2
-SITATIMENDE SENCHUBOMGOMO YEKHARIKHULAMU NEKUHLOLA (SISEYENE)
-DISCLAIMER
-In view of the stringent time requirements encountered by the Department of Basic Education to effect the necessary editorial changes and layout
-to the Curriculum and Assessment Policy Statements and the supplementary policy documents, possible errors may occur in the said documents
-placed on the official departmental websites.
-There may also be vernacular inconsistencies in the language documents at Home-, First and Second Additional Language levels which have been
-translated in the various African Languages. Please note that the content of the documents translated and versioned in the African Languages are
-correct as they are based on the English generic language documents at all three language levels to be implemented in all four school phases.
-If any editorial, layout or vernacular inconsistencies are detected, the user is kindly requested to bring this to the attention of the Department of
-Basic Education.
-E-mail: capslangcomments@dbe. gov. za or fax (012) 328 9828
 Department of Basic Education
 222 Struben Street
 Private Bag X895
@@ -131,17 +282,144 @@ Cape Town 8000
 South Africa
 Tel: +27 21 465 1701
 Fax: +27 21 461 8110
-Website: http: //www. education. gov. za
-© 2011 Department of Basic Education
-Isbn: 978-1-4315-0476-3
-Design and Layout by: Ndabase Printing Solution
-Printed by: Government Printing Works
+Website: http://www.education.gov.za
+© 2016 Department of Basic Education
+DRAFT COPY
 
-siswati lulwimi lweSIBILI lwekwengeta EMABANGA 4-6
-SISEYENE
-FOREWORD by the minister
-Our national curriculum is the culmination of our efforts over a period of seventeen
-years to transform the curriculum bequeathed to us by apartheid. From the start of
+1
+CAPS
+SECOND ADDITIONAL LANGUAGE SISWATI (SAL) GRADES 1 – 3
+SES...
+
+### Topic 2: : INTRODUCTION TO LIFE SKILLS.......................................................................
+
+2.1
+What is Life Skills?......................................................................................................................................... 8
+2.2
+Specific Aims.................................................................................................................................................. 8
+2.3
+Explaining the Life Skills study areas........................................................................................................... 8
+2.4
+Teaching in th...
+
+### Topic 3: : Outline of course material .......................................................................
+
+
+
+### Topic 4: : ASSESSMENT IN LIFE SKILLS.........................................................................
+
+4.1
+Introduction................................................................................................................................................... 66
+4.2
+Programme of assessment.......................................................................................................................... 66
+4.3
+Inclusion........................................................................................................................................................ 67
+4.4
+Recordi...
+
+### Topic 5: 2.1
+
+What is Life Skills?
+The Life Skills subject is central to the holistic development of learners. It is concerned with the social, personal,
+intellectual, emotional and physical growth of learners, and with the way in which these are integrated.
+In the Curriculum and Assessment Policy Statement (CAPS) the subject Life Skills in Foundation Phase (Grades R-3)
+has been organised into four study areas: Beginning Knowledge, Personal and Social Well-being, Creative Arts and
+Physical Education. Life Ski...
+
+### Topic 6: HETHEKANYO YA 2: U ḒIVHADZA LUAMBO LWA U ENGEDZA LWA
+
+VHUVHILI KHA VHUIMO HA FHASI
+2.1
+NYAMBO KHA TSHITATAMENNDE TSHA PHOḼISI YA KHAKHIKHAḼAMU NA U LINGA
+Luambo ndi tshishumiswa tshi shumiswaho kha u humbula na vhudavhidzani. Lu dovha hafhu lwa vha nḓila ya mvelele
+na u takalela vhuḓi ha luambo lu kovhekanywaho vhukati ha vhathu u itela u pfesesa ḽifhasi ḽine vha khou tshila khaḽo.
+U guda u shumisa luambo zwavhuḓi zwi ita uri vhagudi vha kone u humbula na u wana nḓivho, u bvisela khagala
+vhuvha havho, vhuḓipfi na mihumbulo, u davhidzana na vhaṅwe n...
+
+### Topic 7: otFather asks:
+
+What name do you want for your bot? — type: SA Tutor Grade 4
+
+### Topic 8: otFather asks:
+
+What username? — type: SATutorGrade4_bot (must end in _bot)
+
+### Topic 9: otFather gives
+
+you:
+A token like: 7123456789:AAHxxxxxxxxxxxxxxxxxxxxx
+
+### Topic 10: OPY this token:
+
+Save it to a text file on your D: drive as grade4_telegram_token.txt
+Step 3 — Repeat for Grade 7 and Grade 12
+Type /newbot again in BotFather and create two more bots:
+Grade
+Bot Name
+Bot Username
+Save Token As
+Grade 4
+SA Tutor Grade 4
+@SATutorGrade4_bot
+grade4_telegram_token.t
+xt
+Grade 7
+SA Tutor Grade 7
+@SATutorGrade7_bot
+grade7_telegram_token.t
+xt
+Grade 12
+SA Tutor Grade 12
+@SATutorGrade12_bot
+grade12_telegram_token
+.txt
+
+SA AI Tutor Platform — Complete Build & Deployment Guide
+Page 22
+Step 4 ...
+
+### Topic 11: ll the physical quantities have magnitude but they don’t all have direction.
+
+2 A Distance and displacement are similar because they are measured in
+metres and they both have magnitude.
+B
+Distance and displacement are different because distance does not have
+direction while displacement does have direction.
+C
+Speed and velocity are similar because they are measured in metres per
+second and they both have magnitude.
+D Speed and velocity are different because speed does not have direction while
+velocity does have direction.
+E Displacement, velocity and acceleration are simi...
+
+### Topic 12: atter eenhede sal jy gebruik om hierdie vrae te beantwoord?
+
+a) Hoe hoog is die plafon van julle werkswinkel?
+b) Wat is die massa van ’n veeldoelige hamer?
+c) Hoeveel sekondes is daar in ’n uur?
+
+### Topic 13: at is die aanslag (die maksimum aantal ampère) van ’n driepuntprop, soos dié op ’n
+
+elektriese verwarmer of ’n ketel? (Kyk na een van hulle.)
+Afgeleide eenhede
+Baie eenhede is uit die basiese SI-eenhede ontwikkel. Dit word
+afgeleide* eenhede genoem omdat dit in terme van die
+basiseenhede geskryf kan word.
+Die afgeleide eenheid vir oppervlakte* is byvoorbeeld die
+vierkante meter (m2).
+Tabel 1.2 gee nog ’n paar afgeleide eenhede wat jy gaan gebruik.
+Tabel 1.2 Fisiese hoeveelhede, eenhede en simbole van ’n paar afgeleide eenhede
+Fisiese hoeveelheid
+Naam van
+afgeleide eenheid
+Simbo...
+
+### Topic 14: kakel 5 601 milligram na gram om.
+
+Oplossing
+5 601 mg = 5 601 × 1
+______
+1 000 = 5,601 g
 
 ---
 
@@ -149,12 +427,11 @@ years to transform the curriculum bequeathed to us by apartheid. From the start 
 
 ### What You Will Learn
 
-In Grade 6 siSwati Second Additional Language, you will learn:
-
 - Listening and speaking skills
 - Reading comprehension and analysis
-- Writing for different purposes
+- Writing for different purposes and audiences
 - Language structures and conventions
+- Literature study
 
 ### Study Tips
 
@@ -163,49 +440,78 @@ In Grade 6 siSwati Second Additional Language, you will learn:
 3. **Ask questions** - Clarify anything you don't understand
 4. **Use multiple resources** - Textbooks, workbooks, online resources
 5. **Form study groups** - Learn with classmates
+6. **Take breaks** - Use techniques like Pomodoro (25 min study, 5 min break)
+7. **Test yourself** - Use flashcards and practice questions
 
 ---
 
 ## Assessment Guidelines
 
-### Intermediate Phase Assessment (Grades 4-6)
+### Foundation Phase Assessment (Grades R-3)
 
-- **School-Based Assessment (SBA):** 70%
-- **Final Examination:** 30%
-- **Tasks:** 16 assessment tasks per subject per year
-- **Types:** Tests, projects, practical tasks, oral presentations
+**Grade R:**
+- 100% formative assessment (no formal exams)
+- Continuous observation and informal testing
+- Focus on development milestones
+
+**Grades 1-3:**
+- School-Based Assessment (SBA): 70%
+- Final Assessment: 30%
+- 16 assessment tasks per subject per year
+- Mix of informal and formal tasks
 
 ---
 
 ## Exam Tips
 
-- Review all siSwati Second Additional Language topics from Term 1-4
-- Practice with past CAPS assessment questions
-- Understand the marking guidelines and rubrics
-- Manage your time during the exam
-- Read questions carefully and answer all parts
+### Before the Exam
 
-### Exam Technique
+1. **Start early** - Begin revision at least 2-3 weeks before
+2. **Create a study schedule** - Plan what to study each day
+3. **Make summary notes** - Condense each topic into key points
+4. **Practice with past papers** - Get familiar with exam format
+5. **Understand the rubric** - Know how marks are allocated
+6. **Get enough sleep** - Rest is crucial for memory
+7. **Eat well** - Proper nutrition helps concentration
+
+### During the Exam
 
 1. **Read all instructions** carefully before starting
-2. **Allocate time** based on mark allocation
-3. **Answer easy questions first** to build confidence
-4. **Show all working** for calculation questions
-5. **Review your answers** if time permits
+2. **Check the mark allocation** - Spend time accordingly
+3. **Answer easy questions first** - Build confidence and secure marks
+4. **Show all working** - Especially for calculations
+5. **Manage your time** - Keep an eye on the clock
+6. **Answer ALL questions** - Even if unsure, write something
+7. **Review your answers** - Check for mistakes if time permits
+
+### Subject-Specific Tips
+
+- Plan your writing before starting
+- Check spelling and grammar
+- Use varied vocabulary
+- Structure essays properly (intro, body, conclusion)
 
 ---
 
 ## Practice Questions
 
-### Sample Questions
+### Sample Question Format
 
-*Practice questions will be generated based on CAPS assessment standards.*
+*Practice questions should follow CAPS assessment standards:*
 
-### Past Papers
+1. **Knowledge questions** - Define, list, identify
+2. **Comprehension questions** - Explain, describe, summarize
+3. **Application questions** - Calculate, solve, demonstrate
+4. **Analysis questions** - Compare, contrast, evaluate
+5. **Synthesis questions** - Create, design, propose
 
-Download past CAPS assessment papers from:
-- Department of Basic Education: www.education.gov.za
-- CAPS Corner: capscorner.weebly.com
+### Where to Find Practice Questions
+
+- **Textbooks** - End-of-chapter exercises
+- **Workbooks** - Practice activities
+- **Past papers** - Department of Basic Education website
+- **Study guides** - Commercially available
+- **Online resources** - Educational websites
 
 ---
 
@@ -215,15 +521,33 @@ Download past CAPS assessment papers from:
 
 - [Department of Basic Education](https://www.education.gov.za)
 - [CAPS Curriculum Documents](https://www.education.gov.za/Curriculum/CurriculumAssessmentPolicyStatementsCAPS.aspx)
+- [Past Exam Papers](https://www.education.gov.za/Examinations/PastExamPapers.aspx)
 
-### Textbooks and Workbooks
+### Study Resources
 
 - CAPS-aligned textbooks (check with your school)
-- Department workbooks (available for Grades R-6)
+- Department workbooks (Grades R-6)
 - Study guides from reputable publishers
+- Online educational platforms
+
+### Additional Support
+
+- School teachers and tutors
+- Study groups with classmates
+- Educational YouTube channels
+- Library resources
 
 ---
 
-*Generated: 2026-06-07 16:32:47*
+## Document Information
 
-*This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*
+**Generated:** 2026-06-07 16:10:14
+**Source Documents:** 32 CAPS document(s) processed
+**Grade:** Grade R
+**Subject:** Siswati_Second_Additional_Language
+
+---
+
+*This study guide is compiled from official South African CAPS curriculum documents. Always refer to the Department of Basic Education for the most authoritative and up-to-date curriculum information.*
+
+*For questions or support, contact your school or the Department of Basic Education.*

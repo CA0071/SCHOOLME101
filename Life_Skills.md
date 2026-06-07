@@ -1,10 +1,10 @@
-# Grade 9 — Life_Skills (CAPS)
+# Grade R — Life_Skills (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
-*Senior Phase*
+*Foundation Phase*
 
-**Generated:** 2026-06-07 16:10:33
-**Source Documents:** 29 official CAPS document(s)
+**Generated:** 2026-06-07 16:10:13
+**Source Documents:** 31 official CAPS document(s)
 
 ---
 
@@ -24,20 +24,20 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 9
+**Grade:** Grade R
 **Subject:** Life_Skills
-**Phase:** Senior Phase
+**Phase:** Foundation Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-**Age Range:** 12-15 years
-**Assessment:** SBA 75% + Final Examination 25%
+**Age Range:** 5-9 years
+**Assessment:** School-Based Assessment (SBA) 70% + Final 30%
 
 ### Learning Outcomes
 
-By the end of Grade 9, learners should be able to:
+By the end of Grade R, learners should be able to:
 
-- Demonstrate understanding of core Life_Skills concepts appropriate for senior phase
+- Demonstrate understanding of core Life_Skills concepts appropriate for foundation phase
 - Apply knowledge to solve problems and complete tasks
 - Communicate effectively using subject-specific terminology
 - Think critically and analytically
@@ -47,231 +47,211 @@ By the end of Grade 9, learners should be able to:
 
 ## Introduction
 
-SECTION 1 INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY
-STATEMENT ............................................................................................................................................................. 2
-1.1
-Background ....................................................................................................................................................................... 2
-1.2
-Overview ............................................................................................................................................................................ 2
-1.3
-General aims of the South African curriculum .............................................................................................................. 3
-1.4
-Time allocation.................................................................................................................................................................. 5
-1.4.1 Foundation Phase ....................................................................................................................................................... 5
-1.4.2 Intermediate Phase ..................................................................................................................................................... 6
-1.4.3 Senior Phase .............................................................................................................................................................. 6
-1.4.4 Grades 10-12 ............................................................................................................................................................. 7
+FOREWORD by the minister
+Our national curriculum is the culmination of our efforts over a period of seventeen
+years to transform the curriculum bequeathed to us by apartheid. From the start of
+democracy we have built our curriculum on the values that inspired our Constitu-
+tion (Act 108 of 1996). The Preamble to the Constitution states that the aims of the
+Constitution are to:
+•
+heal the divisions of the past and establish a society based on democratic
+values, social justice and fundamental human rights;
+•
+improve the quality of life of all citizens and free the potential of each person;
+•
+lay the foundations for a democratic and open society in which government is
+based on the will of the people and every citizen is equally protected by law;
+and
+•
+build a united and democratic South Africa able to take its rightful place as a sovereign state in the family of
+nations.
+Education and the curriculum have an important role to play in realising these aims.
+In 1997 we introduced outcomes-based education to overcome the curricular divisions of the past, but the experi-
+ence of implementation prompted a review in 2000. This led to the first curriculum revision: the Revised National
+Curriculum Statement Grades R-9 and the National Curriculum Statement Grades 10-12 (2002).
+Ongoing implementation challenges resulted in another review in 2009 and we revised the Revised National Cur-
+riculum Statement (2002) to produce this document.
+From 2012 the two 2002 curricula, for Grades R-9 and Grades 10-12 respectively, are combined in a single docu-
+ment and will simply be known as the National Curriculum Statement Grades R-1
 
 ---
 
 ## Key Concepts
 
-### Topic
-Grade 7
-Grade 8
-Grade 9
-1
-Development of the self in
-society
-• Concept
+### EN ASSESSERINGSBELEIDSVERKLARING
 
-This topic covers essential Life_Skills concepts for Grade 9.
+This topic covers essential Life_Skills concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### TERM 1
-GRADE 7
-WEEKS 1 – 2
-Recommended resources
-Development of the self in society
-2 hours
-Textbook, life skills books and posters
-• Concept
+### EN ASSESSERINGSBELEIDSVERKLARING (KABV)
 
-This topic covers essential Life_Skills concepts for Grade 9.
+This topic covers essential Life_Skills concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### equipping learners, irrespective of their socio-economic background, race, gender, physical ability o
+### tion (Act 108 of 1996). The Preamble to the Constitution states that the aims of the
 
-This topic covers essential Life_Skills concepts for Grade 9.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### providing access to higher education;
-
-This topic covers essential Life_Skills concepts for Grade 9.
+This topic covers essential Life_Skills concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### facilitating the transition of learners from education institutions to the workplace; and
+### heal the divisions of the past and establish a society based on democratic
 
-This topic covers essential Life_Skills concepts for Grade 9.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### providing employers with a sufficient profile of a learner’s competences.
-
-This topic covers essential Life_Skills concepts for Grade 9.
+This topic covers essential Life_Skills concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### Social transformation: ensuring that the educational imbalances of the past are redressed, and that e
+### improve the quality of life of all citizens and free the potential of each person;
 
-This topic covers essential Life_Skills concepts for Grade 9.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### Active and critical learning: encouraging an active and critical approach to learning, rather than ro
-
-This topic covers essential Life_Skills concepts for Grade 9.
+This topic covers essential Life_Skills concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### High knowledge and high skills: the minimum standards of knowledge and skills to be achieved at each
+### lay the foundations for a democratic and open society in which government is
 
-This topic covers essential Life_Skills concepts for Grade 9.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### Progression: content and context of each grade shows progression from simple to complex;
-
-This topic covers essential Life_Skills concepts for Grade 9.
+This topic covers essential Life_Skills concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### Human rights, inclusivity, environmental and social justice: infusing the principles and practices of
+### build a united and democratic South Africa able to take its rightful place as a sovereign state in th
 
-This topic covers essential Life_Skills concepts for Grade 9.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### Valuing indigenous knowledge systems: acknowledging the rich history and heritage of this country as
-
-This topic covers essential Life_Skills concepts for Grade 9.
+This topic covers essential Life_Skills concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### Credibility, quality and efficiency: providing an education that is comparable in quality, breadth an
+### ence of implementation prompted a review in 2000. This led to the first curriculum revision: the Revi
 
-This topic covers essential Life_Skills concepts for Grade 9.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### identify and solve problems and make decisions using critical and creative thinking;
-
-This topic covers essential Life_Skills concepts for Grade 9.
+This topic covers essential Life_Skills concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### work effectively as individuals and with others as members of a team;
+### riculum Statement (2002) to produce this document.
 
-This topic covers essential Life_Skills concepts for Grade 9.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### organise and manage themselves and their activities responsibly and effectively;
-
-This topic covers essential Life_Skills concepts for Grade 9.
+This topic covers essential Life_Skills concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### collect, analyse, organise and critically evaluate information;
+### ment and will simply be known as the National Curriculum Statement Grades R-12. The National Curricul
 
-This topic covers essential Life_Skills concepts for Grade 9.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### communicate effectively using visual, symbolic and/or language skills in various modes;
-
-This topic covers essential Life_Skills concepts for Grade 9.
+This topic covers essential Life_Skills concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### use science and technology effectively and critically showing responsibility towards the environment
+### ment for Grades R-12 builds on the previous curriculum but also updates it and aims to provide cleare
 
-This topic covers essential Life_Skills concepts for Grade 9.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### demonstrate an understanding of the world as a set of related systems by recognising that problem sol
-
-This topic covers essential Life_Skills concepts for Grade 9.
+This topic covers essential Life_Skills concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### basic interpersonal communication skills. In Grades 4 - 6 learners start to
+### ment Grades R-12; and
 
-This topic covers essential Life_Skills concepts for Grade 9.
+This topic covers essential Life_Skills concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### acquire the language skills necessary to communicate appropriately in the target language at a basic
+### EN ASSESSERINGSBELEIDSVERKLARING (KABV)
 
-This topic covers essential Life_Skills concepts for Grade 9.
+This topic covers essential Life_Skills concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### EN ASSESSERINGSBELEIDSVERKLARING...... 3
+
+This topic covers essential Life_Skills concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### EN ASSESSERINGSBELEIDSVERKLARING (KABV)
+
+This topic covers essential Life_Skills concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### en Assesseringsbeleidsverklaring is vir elke
+
+This topic covers essential Life_Skills concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### en Assesseringsbeleidsverklarings vir elke goedgekeurde skoolvak;
+
+This topic covers essential Life_Skills concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### EN ASSESSERINGSBELEIDSVERKLARING (KABV)
+
+This topic covers essential Life_Skills concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### en Assesseringsbeleidsverklaring
+
+This topic covers essential Life_Skills concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### om leerders, ongeag hul sosio-ekonomiese agtergrond, ras, geslag, fisiese of intellektuele vermoë, to
+
+This topic covers essential Life_Skills concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -282,112 +262,162 @@ This topic covers essential Life_Skills concepts for Grade 9.
 
 ## Topic Summaries
 
-### Topic 1: CURRICULUM AND ASSESSMENT
+### Topic 1: AFRIKAANS LIFE SKILLS
 
-POLICY STATEMENT
-GRADES 7 - 9
-LANGUAGES
-GERMAN SECOND ADDITIONAL LANGUAGE
+Curriculum and Assessment
+Policy Statement
+Foundation Phase
+Grades R-3
+National Curriculum Statement (NCS)
 
-CONTENTS
+LEWENSVAARDIGHEID GRAAD R-3
+KURRIKULUM- EN ASSESSERINGSBELEIDSVERKLARING
+graad R-3
+LEWENSVAARDIGHEID
 
-### Topic 2: INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY
+LEWENSVAARDIGHEID GRAAD R-3
+KURRIKULUM- EN ASSESSERINGSBELEIDSVERKLARING (KABV)
+Department of Basic Education
+222 Struben Street
+Private Bag X895
+Pretoria 0001
+South Africa
+Tel: +27 12 357 3000
+Fax: +27 12 323 0601
+120 Plein Street Private Bag X9023
+Cape Town 8000
+South Africa
+Tel: +27 21 ...
 
-STATEMENT ............................................................................................................................................................. 2
-1.1
-Background ....................................................................................................................................................................... 2
-1.2
-Overview .......................................................................................................................................
-
-### Topic 3: : INTRODUCING THE LANGUAGES ........................................................................
-
-2.1
-Languages in the Curriculum and Assessment Policy Statement ................................................................................ 8
-2.1.1 Language levels ....................................................................................................................................................... 8
-2.1.2 The language skills ................................................................................................................................................ 10
-2.1...
-
-### Topic 4: : CONTENT AND TEACHING PLANS FOR LANGUAGE SKILLS .......................................... 14
-
-3.1
-Listening and speaking ................................................................................................................................................... 14
-3.2
-Reading and viewing ...................................................................................................................................................... 19
-3.3
-Writing and presenting ........................................................................................................................
-
-### Topic 5: : ASSESSMENT IN SECOND ADDITIONAL LANGUAGE ........................................................ 
-
-4.1
-Introduction .................................................................................................................................................................... 64
-4.2
-Informal or daily assessment ......................................................................................................................................... 64
-4.3
-Formal assessment ..........................................................................................................................
-
-### Topic 6: : INTRODUCTION TO THE CURRICULUM AND
-
-ASSESSMENT POLICY STATEMENT
-1.1
-BACKGROUND
-The National Curriculum Statement Grades R-12 (NCS) stipulates policy on curriculum and assessment in the schooling
-sector.
-To improve implementation, the National Curriculum Statement was amended, with the amendments coming into effect
-in January 2012. A single comprehensive Curriculum and Assessment Policy document was developed for each subject
-to replace Subject Statements, Learning Programme Guidelines and Subject Assessment Guidelines in Grades R-...
-
-### Topic 7: : INTRODUCING THE LANGUAGES
-
-2.1 Languages in the Curriculum and Assessment Policy Statement
-Language is a tool for thought and communication. It is also a cultural and aesthetic means commonly shared
-among a people to make better sense of the world they live in. Learning to use language effectively enables
-learners to acquire knowledge, to express their identity, feelings and ideas, to interact with others and to
-manage their world. It also provides learners with a rich, powerful and deeply rooted set of images and ideas
-t...
-
-### Topic 8: anguage Structures and Conventions
-
-2.1.3 Language Teaching Approaches
-The approaches to teaching language in these documents are text-based, communicative, integrated and
-process orientated.
-The text-based approach and the communicative approach are both dependent on the continuous use and
-production of texts. The text-based approach explores how texts work. The purpose of a text-based approach
-is to enable learners to become competent, confident and critical readers, writers, viewers and designers of
-texts. It involves listening...
-
-### Topic 9: INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY
-
-STATEMENT ............................................................................................................................................................. 2
-1.1
-Background ....................................................................................................................................................................... 2
-1.2
-Overview .......................................................................................................................................
-
-### Topic 10: : INTRODUCING THE LANGUAGES ........................................................................
+### Topic 2: : INTRODUCTION TO LIFE SKILLS.......................................................................
 
 2.1
-Languages in the Curriculum and Assessment Policy Statement ................................................................................ 8
-2.1.1 Language levels ....................................................................................................................................................... 8
-2.1.2 The language skills ................................................................................................................................................ 10
-2.1...
+What is Life Skills?......................................................................................................................................... 8
+2.2
+Specific Aims.................................................................................................................................................. 8
+2.3
+Explaining the Life Skills study areas........................................................................................................... 8
+2.4
+Teaching in th...
 
-### Topic 11: : CONTENT AND TEACHING PLANS FOR LANGUAGE SKILLS .......................................... 14
+### Topic 3: : Outline of course material .......................................................................
 
-3.1
-Listening and speaking ................................................................................................................................................... 14
-3.2
-Reading and viewing ...................................................................................................................................................... 19
-3.3
-Writing and presenting ........................................................................................................................
 
-### Topic 12: : ASSESSMENT IN SECOND ADDITIONAL LANGUAGE ........................................................ 
+
+### Topic 4: : ASSESSMENT IN LIFE SKILLS.........................................................................
 
 4.1
-Introduction .................................................................................................................................................................... 64
+Introduction................................................................................................................................................... 66
 4.2
-Informal or daily assessment ......................................................................................................................................... 64
+Programme of assessment.......................................................................................................................... 66
 4.3
-Formal assessment ..........................................................................................................................
+Inclusion........................................................................................................................................................ 67
+4.4
+Recordi...
+
+### Topic 5: 2.1
+
+What is Life Skills?
+The Life Skills subject is central to the holistic development of learners. It is concerned with the social, personal,
+intellectual, emotional and physical growth of learners, and with the way in which these are integrated.
+In the Curriculum and Assessment Policy Statement (CAPS) the subject Life Skills in Foundation Phase (Grades R-3)
+has been organised into four study areas: Beginning Knowledge, Personal and Social Well-being, Creative Arts and
+Physical Education. Life Ski...
+
+### Topic 6: HETHEKANYO YA 2: U ḒIVHADZA LUAMBO LWA U ENGEDZA LWA
+
+VHUVHILI KHA VHUIMO HA FHASI
+2.1
+NYAMBO KHA TSHITATAMENNDE TSHA PHOḼISI YA KHAKHIKHAḼAMU NA U LINGA
+Luambo ndi tshishumiswa tshi shumiswaho kha u humbula na vhudavhidzani. Lu dovha hafhu lwa vha nḓila ya mvelele
+na u takalela vhuḓi ha luambo lu kovhekanywaho vhukati ha vhathu u itela u pfesesa ḽifhasi ḽine vha khou tshila khaḽo.
+U guda u shumisa luambo zwavhuḓi zwi ita uri vhagudi vha kone u humbula na u wana nḓivho, u bvisela khagala
+vhuvha havho, vhuḓipfi na mihumbulo, u davhidzana na vhaṅwe n...
+
+### Topic 7: otFather asks:
+
+What name do you want for your bot? — type: SA Tutor Grade 4
+
+### Topic 8: otFather asks:
+
+What username? — type: SATutorGrade4_bot (must end in _bot)
+
+### Topic 9: otFather gives
+
+you:
+A token like: 7123456789:AAHxxxxxxxxxxxxxxxxxxxxx
+
+### Topic 10: OPY this token:
+
+Save it to a text file on your D: drive as grade4_telegram_token.txt
+Step 3 — Repeat for Grade 7 and Grade 12
+Type /newbot again in BotFather and create two more bots:
+Grade
+Bot Name
+Bot Username
+Save Token As
+Grade 4
+SA Tutor Grade 4
+@SATutorGrade4_bot
+grade4_telegram_token.t
+xt
+Grade 7
+SA Tutor Grade 7
+@SATutorGrade7_bot
+grade7_telegram_token.t
+xt
+Grade 12
+SA Tutor Grade 12
+@SATutorGrade12_bot
+grade12_telegram_token
+.txt
+
+SA AI Tutor Platform — Complete Build & Deployment Guide
+Page 22
+Step 4 ...
+
+### Topic 11: ll the physical quantities have magnitude but they don’t all have direction.
+
+2 A Distance and displacement are similar because they are measured in
+metres and they both have magnitude.
+B
+Distance and displacement are different because distance does not have
+direction while displacement does have direction.
+C
+Speed and velocity are similar because they are measured in metres per
+second and they both have magnitude.
+D Speed and velocity are different because speed does not have direction while
+velocity does have direction.
+E Displacement, velocity and acceleration are simi...
+
+### Topic 12: atter eenhede sal jy gebruik om hierdie vrae te beantwoord?
+
+a) Hoe hoog is die plafon van julle werkswinkel?
+b) Wat is die massa van ’n veeldoelige hamer?
+c) Hoeveel sekondes is daar in ’n uur?
+
+### Topic 13: at is die aanslag (die maksimum aantal ampère) van ’n driepuntprop, soos dié op ’n
+
+elektriese verwarmer of ’n ketel? (Kyk na een van hulle.)
+Afgeleide eenhede
+Baie eenhede is uit die basiese SI-eenhede ontwikkel. Dit word
+afgeleide* eenhede genoem omdat dit in terme van die
+basiseenhede geskryf kan word.
+Die afgeleide eenheid vir oppervlakte* is byvoorbeeld die
+vierkante meter (m2).
+Tabel 1.2 gee nog ’n paar afgeleide eenhede wat jy gaan gebruik.
+Tabel 1.2 Fisiese hoeveelhede, eenhede en simbole van ’n paar afgeleide eenhede
+Fisiese hoeveelheid
+Naam van
+afgeleide eenheid
+Simbo...
+
+### Topic 14: kakel 5 601 milligram na gram om.
+
+Oplossing
+5 601 mg = 5 601 × 1
+______
+1 000 = 5,601 g
 
 ---
 
@@ -415,20 +445,18 @@ Formal assessment ..............................................................
 
 ## Assessment Guidelines
 
-### Senior Phase Assessment (Grades 7-9)
+### Foundation Phase Assessment (Grades R-3)
 
-- **School-Based Assessment (SBA):** 75%
-- **Final Examination:** 25%
+**Grade R:**
+- 100% formative assessment (no formal exams)
+- Continuous observation and informal testing
+- Focus on development milestones
 
-**Promotion Requirements:**
-- Pass Home Language + 4 other subjects (50% each)
-- Minimum 40% in 2 other subjects
-
-**Assessment Tasks:**
-- Formal tests and exams
-- Projects and investigations
-- Practical assessments
-- Oral and performance tasks
+**Grades 1-3:**
+- School-Based Assessment (SBA): 70%
+- Final Assessment: 30%
+- 16 assessment tasks per subject per year
+- Mix of informal and formal tasks
 
 ---
 
@@ -507,9 +535,9 @@ Formal assessment ..............................................................
 
 ## Document Information
 
-**Generated:** 2026-06-07 16:10:33
-**Source Documents:** 29 CAPS document(s) processed
-**Grade:** Grade 9
+**Generated:** 2026-06-07 16:10:13
+**Source Documents:** 31 CAPS document(s) processed
+**Grade:** Grade R
 **Subject:** Life_Skills
 
 ---

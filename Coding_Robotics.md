@@ -1,10 +1,10 @@
-# Grade R — isiXhosa_Second_Additional_Language (CAPS)
+# Grade R — Coding_Robotics (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Foundation Phase*
 
-**Generated:** 2026-06-07 16:10:12
-**Source Documents:** 32 official CAPS document(s)
+**Generated:** 2026-06-07 16:10:11
+**Source Documents:** 31 official CAPS document(s)
 
 ---
 
@@ -25,7 +25,7 @@
 ## Curriculum Overview
 
 **Grade:** Grade R
-**Subject:** isiXhosa_Second_Additional_Language
+**Subject:** Coding_Robotics
 **Phase:** Foundation Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
@@ -37,7 +37,7 @@
 
 By the end of Grade R, learners should be able to:
 
-- Demonstrate understanding of core isiXhosa_Second_Additional_Language concepts appropriate for foundation phase
+- Demonstrate understanding of core Coding_Robotics concepts appropriate for foundation phase
 - Apply knowledge to solve problems and complete tasks
 - Communicate effectively using subject-specific terminology
 - Think critically and analytically
@@ -78,180 +78,180 @@ ment and will simply be known as the National Curriculum Statement Grades R-1
 
 ## Key Concepts
 
-### Ixhobisa abafundi ngolwazi, izakhono nezithethe eziya kubanceda ukuba bakwazi ukuzimela
+### EN ASSESSERINGSBELEIDSVERKLARING
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### Ivulela abafundi amathuba okuya kwimfundo ephakamileyo;
-
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
+This topic covers essential Coding_Robotics concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### Incedisa abafundi ukuba bakwazi ukuphuma kumaziko emfundo baye kumaziko omsebenzi; yaye
+### EN ASSESSERINGSBELEIDSVERKLARING (KABV)
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### Inika abaqeshi umfanekiso ocacileyo ngobuchule nolwazi abanalo abafundi.
-
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
+This topic covers essential Coding_Robotics concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### Ukuphuculwa
+### tion (Act 108 of 1996). The Preamble to the Constitution states that the aims of the
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### Ukufunda ngokubandakanyeka kusetyenziswa ingqiqo: ukukhuthaza indlela yokufundisa efuna
-
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
+This topic covers essential Coding_Robotics concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### Ulwazi nezakhono ezikumgangatho ophakamileyo: ukubekwa kweyona migangatho isezantsi
+### heal the divisions of the past and establish a society based on democratic
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### Ukuqhubela phambili: umxholo wokufundwayo neemeko ekufundwa phantsi kwazo kwibanga ngalinye
-
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
+This topic covers essential Coding_Robotics concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### Amalungelo oluntu, uqukaniso, ukukhathalelwa kokusingqongileyo nobulungisa bezentlalo: ukufakwa
+### improve the quality of life of all citizens and free the potential of each person;
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### Ukuxatyiswa kolwazi lwemveli: ukuthathela ingqalelo ubutyebi bembali kunye nelifa lemveli leli lizwe
-
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
+This topic covers essential Coding_Robotics concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### Nentembeko, umgangatho ophezulu, kunye negalelo elibonakalayo: ukunika imfundo enokuthelekiseka
+### lay the foundations for a democratic and open society in which government is
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### ukuchonga nokusombulula iingxaki bathabathe izigqibo besebenzisa ingqiqo nokucinga okubonakalisa
-
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
+This topic covers essential Coding_Robotics concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### ukusebenza ngempumelelo bebodwa naxa bekunye nabanye njengamalungu eqela;
+### build a united and democratic South Africa able to take its rightful place as a sovereign state in th
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### ukuzicwangcisa nokuzilawula bona buqu kunye nemisebenzi yabo, loo nto beyenza ngentembeko
-
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
+This topic covers essential Coding_Robotics concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### ukuqokelela, ukuhlalutya, ukucwangcisa nokuhlaba amadlala ulwazi;
+### ence of implementation prompted a review in 2000. This led to the first curriculum revision: the Revi
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### ukunxibelelana nabanye ngempumelelo besebenzisa ubuchule bokubonwayo, bemiqondiso kunye/
-
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
+This topic covers essential Coding_Robotics concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### ukusebenzisa inzululwazi nobuchwepheshe ngempumelelo nangokubonisa ukuba noxanduva
+### riculum Statement (2002) to produce this document.
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### nokubonisa ukuliqonda ihlabathi ukuba liyiseti yezinto ngezinto ezizalanayo ngokuqaphela ukuba iimeko
-
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
+This topic covers essential Coding_Robotics concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### ULwazi olusisiSeko
+### ment and will simply be known as the National Curriculum Statement Grades R-12. The National Curricul
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
+This topic covers essential Coding_Robotics concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### EzemiThambo
+### ment for Grades R-12 builds on the previous curriculum but also updates it and aims to provide cleare
 
-This topic covers essential isiXhosa_Second_Additional_Language concepts for Grade R.
+This topic covers essential Coding_Robotics concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### ment Grades R-12; and
+
+This topic covers essential Coding_Robotics concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### EN ASSESSERINGSBELEIDSVERKLARING (KABV)
+
+This topic covers essential Coding_Robotics concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### EN ASSESSERINGSBELEIDSVERKLARING...... 3
+
+This topic covers essential Coding_Robotics concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### EN ASSESSERINGSBELEIDSVERKLARING (KABV)
+
+This topic covers essential Coding_Robotics concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### en Assesseringsbeleidsverklaring is vir elke
+
+This topic covers essential Coding_Robotics concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### en Assesseringsbeleidsverklarings vir elke goedgekeurde skoolvak;
+
+This topic covers essential Coding_Robotics concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### EN ASSESSERINGSBELEIDSVERKLARING (KABV)
+
+This topic covers essential Coding_Robotics concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### en Assesseringsbeleidsverklaring
+
+This topic covers essential Coding_Robotics concepts for Grade R.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### om leerders, ongeag hul sosio-ekonomiese agtergrond, ras, geslag, fisiese of intellektuele vermoë, to
+
+This topic covers essential Coding_Robotics concepts for Grade R.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -262,17 +262,21 @@ This topic covers essential isiXhosa_Second_Additional_Language concepts for Gra
 
 ## Topic Summaries
 
-### Topic 1: ISIXHOSA SECOND ADDITIONAL LANGUAGE
+### Topic 1: AFRIKAANS LIFE SKILLS
 
 Curriculum and Assessment
 Policy Statement
-FOUNDATION PHASE
-GRADES 1 – 3
+Foundation Phase
+Grades R-3
 National Curriculum Statement (NCS)
 
-ISIXHOSA IILWIMI LWESIBINI OLONGEZELELWEYO IBANGA 1-3
-2
-INTSHAYELELO YENKCAZELO YEPOLISI YEKHARITYHULAM NOKUHLOLA
+LEWENSVAARDIGHEID GRAAD R-3
+KURRIKULUM- EN ASSESSERINGSBELEIDSVERKLARING
+graad R-3
+LEWENSVAARDIGHEID
+
+LEWENSVAARDIGHEID GRAAD R-3
+KURRIKULUM- EN ASSESSERINGSBELEIDSVERKLARING (KABV)
 Department of Basic Education
 222 Struben Street
 Private Bag X895
@@ -283,9 +287,7 @@ Fax: +27 12 323 0601
 120 Plein Street Private Bag X9023
 Cape Town 8000
 South Africa
-Tel: +27 21 465 1701
-Fax: +27 21 461 8110
-Website: http://www.education.gov.za...
+Tel: +27 21 ...
 
 ### Topic 2: : INTRODUCTION TO LIFE SKILLS.......................................................................
 
@@ -423,11 +425,11 @@ ______
 
 ### What You Will Learn
 
-- Listening and speaking skills
-- Reading comprehension and analysis
-- Writing for different purposes and audiences
-- Language structures and conventions
-- Literature study
+- Core subject concepts and principles
+- Practical applications
+- Critical thinking skills
+- Assessment preparation
+- Real-world connections
 
 ### Study Tips
 
@@ -482,10 +484,6 @@ ______
 
 ### Subject-Specific Tips
 
-- Plan your writing before starting
-- Check spelling and grammar
-- Use varied vocabulary
-- Structure essays properly (intro, body, conclusion)
 
 ---
 
@@ -537,10 +535,10 @@ ______
 
 ## Document Information
 
-**Generated:** 2026-06-07 16:10:12
-**Source Documents:** 32 CAPS document(s) processed
+**Generated:** 2026-06-07 16:10:11
+**Source Documents:** 31 CAPS document(s) processed
 **Grade:** Grade R
-**Subject:** isiXhosa_Second_Additional_Language
+**Subject:** Coding_Robotics
 
 ---
 

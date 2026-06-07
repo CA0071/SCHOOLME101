@@ -1,4 +1,4 @@
-# Grade 8 — Social Sciences (CAPS)
+# Grade 9 — Social Sciences (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Senior Phase*
@@ -20,13 +20,13 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 8
+**Grade:** Grade 9
 **Subject:** Social Sciences
 **Phase:** Senior Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Social Sciences curriculum for Grade 8 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Social Sciences curriculum for Grade 9 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -36,7 +36,7 @@ Key Focus Areas:
 
 ### Learning Outcomes
 
-By the end of Grade 8, learners should be able to:
+By the end of Grade 9, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 8, learners should be able to:
 
 ### Matter and Materials
 
-*Matter and Materials* is a fundamental concept in Social Sciences for Grade 8.
+*Matter and Materials* is a fundamental concept in Social Sciences for Grade 9.
 
 **Understanding:**
 Learners should understand the principles of matter and materials and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving social sciences problems and in real-world 
 
 ### Living and Non-living
 
-*Living and Non-living* is a fundamental concept in Social Sciences for Grade 8.
+*Living and Non-living* is a fundamental concept in Social Sciences for Grade 9.
 
 **Understanding:**
 Learners should understand the principles of living and non-living and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving social sciences problems and in real-world 
 
 ### Earth and Beyond
 
-*Earth and Beyond* is a fundamental concept in Social Sciences for Grade 8.
+*Earth and Beyond* is a fundamental concept in Social Sciences for Grade 9.
 
 **Understanding:**
 Learners should understand the principles of earth and beyond and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving social sciences problems and in real-world 
 
 ### Energy and Change
 
-*Energy and Change* is a fundamental concept in Social Sciences for Grade 8.
+*Energy and Change* is a fundamental concept in Social Sciences for Grade 9.
 
 **Understanding:**
 Learners should understand the principles of energy and change and how they apply in various contexts.
@@ -149,7 +149,7 @@ Informal or daily assessment ...................................................
 
 ### What You Will Learn
 
-In Grade 8 Social Sciences, you will learn:
+In Grade 9 Social Sciences, you will learn:
 
 - Scientific investigation skills
 - Matter, materials, and chemical processes
@@ -223,6 +223,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:36:57*
+*Generated: 2026-06-07 16:40:37*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

@@ -1,9 +1,9 @@
-# Grade 8 — Life_Skills (CAPS)
+# Grade 9 — Life_Skills (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Senior Phase*
 
-**Generated:** 2026-06-07 16:10:30
+**Generated:** 2026-06-07 16:10:33
 **Source Documents:** 29 official CAPS document(s)
 
 ---
@@ -24,7 +24,7 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 8
+**Grade:** Grade 9
 **Subject:** Life_Skills
 **Phase:** Senior Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
@@ -35,7 +35,7 @@
 
 ### Learning Outcomes
 
-By the end of Grade 8, learners should be able to:
+By the end of Grade 9, learners should be able to:
 
 - Demonstrate understanding of core Life_Skills concepts appropriate for senior phase
 - Apply knowledge to solve problems and complete tasks
@@ -75,7 +75,7 @@ Development of the self in
 society
 • Concept
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -91,7 +91,7 @@ Development of the self in society
 Textbook, life skills books and posters
 • Concept
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -100,7 +100,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### equipping learners, irrespective of their socio-economic background, race, gender, physical ability o
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -109,7 +109,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### providing access to higher education;
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -118,7 +118,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### facilitating the transition of learners from education institutions to the workplace; and
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -127,7 +127,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### providing employers with a sufficient profile of a learner’s competences.
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -136,7 +136,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### Social transformation: ensuring that the educational imbalances of the past are redressed, and that e
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -145,7 +145,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### Active and critical learning: encouraging an active and critical approach to learning, rather than ro
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -154,7 +154,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### High knowledge and high skills: the minimum standards of knowledge and skills to be achieved at each
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -163,7 +163,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### Progression: content and context of each grade shows progression from simple to complex;
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -172,7 +172,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### Human rights, inclusivity, environmental and social justice: infusing the principles and practices of
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -181,7 +181,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### Valuing indigenous knowledge systems: acknowledging the rich history and heritage of this country as
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -190,7 +190,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### Credibility, quality and efficiency: providing an education that is comparable in quality, breadth an
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -199,7 +199,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### identify and solve problems and make decisions using critical and creative thinking;
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -208,7 +208,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### work effectively as individuals and with others as members of a team;
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -217,7 +217,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### organise and manage themselves and their activities responsibly and effectively;
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -226,7 +226,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### collect, analyse, organise and critically evaluate information;
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -235,7 +235,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### communicate effectively using visual, symbolic and/or language skills in various modes;
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -244,7 +244,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### use science and technology effectively and critically showing responsibility towards the environment
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -253,7 +253,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### demonstrate an understanding of the world as a set of related systems by recognising that problem sol
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -262,7 +262,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### basic interpersonal communication skills. In Grades 4 - 6 learners start to
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -271,7 +271,7 @@ This topic covers essential Life_Skills concepts for Grade 8.
 
 ### acquire the language skills necessary to communicate appropriately in the target language at a basic
 
-This topic covers essential Life_Skills concepts for Grade 8.
+This topic covers essential Life_Skills concepts for Grade 9.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -507,9 +507,9 @@ Formal assessment ..............................................................
 
 ## Document Information
 
-**Generated:** 2026-06-07 16:10:30
+**Generated:** 2026-06-07 16:10:33
 **Source Documents:** 29 CAPS document(s) processed
-**Grade:** Grade 8
+**Grade:** Grade 9
 **Subject:** Life_Skills
 
 ---

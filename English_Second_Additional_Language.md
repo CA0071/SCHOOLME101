@@ -1,4 +1,4 @@
-# Grade 8 — English Second Additional Language (CAPS)
+# Grade 9 — English Second Additional Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *Senior Phase*
@@ -20,13 +20,13 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 8
+**Grade:** Grade 9
 **Subject:** English Second Additional Language
 **Phase:** Senior Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The English Second Additional Language curriculum for Grade 8 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The English Second Additional Language curriculum for Grade 9 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -36,7 +36,7 @@ Key Focus Areas:
 
 ### Learning Outcomes
 
-By the end of Grade 8, learners should be able to:
+By the end of Grade 9, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 8, learners should be able to:
 
 ### Listening and Speaking
 
-*Listening and Speaking* is a fundamental concept in English Second Additional Language for Grade 8.
+*Listening and Speaking* is a fundamental concept in English Second Additional Language for Grade 9.
 
 **Understanding:**
 Learners should understand the principles of listening and speaking and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving english second additional language problems
 
 ### Reading and Viewing
 
-*Reading and Viewing* is a fundamental concept in English Second Additional Language for Grade 8.
+*Reading and Viewing* is a fundamental concept in English Second Additional Language for Grade 9.
 
 **Understanding:**
 Learners should understand the principles of reading and viewing and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving english second additional language problems
 
 ### Writing
 
-*Writing* is a fundamental concept in English Second Additional Language for Grade 8.
+*Writing* is a fundamental concept in English Second Additional Language for Grade 9.
 
 **Understanding:**
 Learners should understand the principles of writing and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving english second additional language problems
 
 ### Language Structures
 
-*Language Structures* is a fundamental concept in English Second Additional Language for Grade 8.
+*Language Structures* is a fundamental concept in English Second Additional Language for Grade 9.
 
 **Understanding:**
 Learners should understand the principles of language structures and how they apply in various contexts.
@@ -149,7 +149,7 @@ democracy we have built our curriculum on the values that inspired our Constitut
 
 ### What You Will Learn
 
-In Grade 8 English Second Additional Language, you will learn:
+In Grade 9 English Second Additional Language, you will learn:
 
 - Listening and speaking skills
 - Reading comprehension and analysis
@@ -223,6 +223,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:39:18*
+*Generated: 2026-06-07 16:42:54*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

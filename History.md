@@ -1,4 +1,4 @@
-# Grade 10 — Sepedi Home Language (CAPS)
+# Grade 10 — History (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *FET Phase*
@@ -21,12 +21,12 @@
 ## Curriculum Overview
 
 **Grade:** Grade 10
-**Subject:** Sepedi Home Language
+**Subject:** History
 **Phase:** FET Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Sepedi Home Language curriculum for Grade 10 (FET Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The History curriculum for Grade 10 (FET Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
@@ -47,45 +47,45 @@ By the end of Grade 10, learners should be able to:
 
 ## Key Concepts
 
-### Listening and Speaking
+### Sources and Evidence
 
-*Listening and Speaking* is a fundamental concept in Sepedi Home Language for Grade 10.
-
-**Understanding:**
-Learners should understand the principles of listening and speaking and how they apply in various contexts.
-
-**Application:**
-This concept is applied when solving sepedi home language problems and in real-world scenarios.
-
-### Reading and Viewing
-
-*Reading and Viewing* is a fundamental concept in Sepedi Home Language for Grade 10.
+*Sources and Evidence* is a fundamental concept in History for Grade 10.
 
 **Understanding:**
-Learners should understand the principles of reading and viewing and how they apply in various contexts.
+Learners should understand the principles of sources and evidence and how they apply in various contexts.
 
 **Application:**
-This concept is applied when solving sepedi home language problems and in real-world scenarios.
+This concept is applied when solving history problems and in real-world scenarios.
 
-### Writing
+### Change and Continuity
 
-*Writing* is a fundamental concept in Sepedi Home Language for Grade 10.
+*Change and Continuity* is a fundamental concept in History for Grade 10.
 
 **Understanding:**
-Learners should understand the principles of writing and how they apply in various contexts.
+Learners should understand the principles of change and continuity and how they apply in various contexts.
 
 **Application:**
-This concept is applied when solving sepedi home language problems and in real-world scenarios.
+This concept is applied when solving history problems and in real-world scenarios.
 
-### Language Structures
+### Cause and Effect
 
-*Language Structures* is a fundamental concept in Sepedi Home Language for Grade 10.
+*Cause and Effect* is a fundamental concept in History for Grade 10.
 
 **Understanding:**
-Learners should understand the principles of language structures and how they apply in various contexts.
+Learners should understand the principles of cause and effect and how they apply in various contexts.
 
 **Application:**
-This concept is applied when solving sepedi home language problems and in real-world scenarios.
+This concept is applied when solving history problems and in real-world scenarios.
+
+### Multiple Perspectives
+
+*Multiple Perspectives* is a fundamental concept in History for Grade 10.
+
+**Understanding:**
+Learners should understand the principles of multiple perspectives and how they apply in various contexts.
+
+**Application:**
+This concept is applied when solving history problems and in real-world scenarios.
 
 ---
 
@@ -149,12 +149,12 @@ years to transform the curriculum bequeathed to us by apartheid. From the start 
 
 ### What You Will Learn
 
-In Grade 10 Sepedi Home Language, you will learn:
+In Grade 10 History, you will learn:
 
-- Listening and speaking skills
-- Reading comprehension and analysis
-- Writing for different purposes
-- Language structures and conventions
+- Historical sources and evidence
+- Change and continuity over time
+- Cause and effect relationships
+- Multiple historical perspectives
 
 ### Study Tips
 
@@ -179,7 +179,7 @@ In Grade 10 Sepedi Home Language, you will learn:
 
 ## Exam Tips
 
-- Review all Sepedi Home Language topics from Term 1-4
+- Review all History topics from Term 1-4
 - Practice with past CAPS assessment questions
 - Understand the marking guidelines and rubrics
 - Manage your time during the exam
@@ -224,6 +224,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:46:40*
+*Generated: 2026-06-07 16:44:56*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

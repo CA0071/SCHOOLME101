@@ -1,10 +1,10 @@
-# Grade 9 — General (CAPS)
+# Grade 10 — General (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
-*Senior Phase*
+*FET Phase*
 
-**Generated:** 2026-06-07 16:10:32
-**Source Documents:** 58 official CAPS document(s)
+**Generated:** 2026-06-07 16:10:34
+**Source Documents:** 4 official CAPS document(s)
 
 ---
 
@@ -24,20 +24,20 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 9
+**Grade:** Grade 10
 **Subject:** General
-**Phase:** Senior Phase
+**Phase:** FET Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-**Age Range:** 12-15 years
-**Assessment:** SBA 75% + Final Examination 25%
+**Age Range:** 15-18 years
+**Assessment:** SBA 25% + National Senior Certificate (NSC) 75%
 
 ### Learning Outcomes
 
-By the end of Grade 9, learners should be able to:
+By the end of Grade 10, learners should be able to:
 
-- Demonstrate understanding of core General concepts appropriate for senior phase
+- Demonstrate understanding of core General concepts appropriate for fet phase
 - Apply knowledge to solve problems and complete tasks
 - Communicate effectively using subject-specific terminology
 - Think critically and analytically
@@ -47,231 +47,211 @@ By the end of Grade 9, learners should be able to:
 
 ## Introduction
 
-SECTION 1 INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY
-STATEMENT ............................................................................................................................................................. 2
-1.1
-Background ....................................................................................................................................................................... 2
-1.2
-Overview ............................................................................................................................................................................ 2
-1.3
-General aims of the South African curriculum .............................................................................................................. 3
-1.4
-Time allocation.................................................................................................................................................................. 5
-1.4.1 Foundation Phase ....................................................................................................................................................... 5
-1.4.2 Intermediate Phase ..................................................................................................................................................... 6
-1.4.3 Senior Phase .............................................................................................................................................................. 6
-1.4.4 Grades 10-12 ............................................................................................................................................................. 7
+FOREWORD BY THE MINISTER
+Our national curriculum is the culmination of our efforts over a period of seventeen
+years to transform the curriculum bequeathed to us by apartheid. From the start of
+democracy we have built our curriculum on the values that inspired our Constitution
+(Act 108 of 1996). The Preamble to the Constitution states that the aims of the
+Constitution are to:
+•
+heal the divisions of the past and establish a society based on democratic
+values, social justice and fundamental human rights;
+•
+improve the quality of life of all citizens and free the potential of each person;
+•
+lay the foundations for a democratic and open society in which government is
+based on the will of the people and every citizen is equally protected by law;
+and
+•
+build a united and democratic South Africa able to take its rightful place as a sovereign state in the family of
+nations.
+Education and the curriculum have an important role to play in realising these aims.
+In 1997 we introduced outcomes-based education to overcome the curricular divisions of the past, but the experience
+of implementation prompted a review in 2000. This led to the first curriculum revision: the Revised National Curriculum
+Statement Grades R-9 and the National Curriculum Statement Grades 10-12 (2002).
+Ongoing implementation challenges resulted in another review in 2009 and we revised the Revised National
+Curriculum Statement (2002) and the National Curriculum Statement Grades 10-12 to produce this document.
+From 2012 the two National Curriculum Statements, for Grades R-9 and Grades 10-12 respectively, are combined
+in a single document and will simply be known as the National Curriculum Statement Grades R-1
 
 ---
 
 ## Key Concepts
 
-### Topic
-Grade 7
-Grade 8
-Grade 9
-1
-Development of the self in
-society
-• Concept
+### heal the divisions of the past and establish a society based on democratic
 
-This topic covers essential General concepts for Grade 9.
+This topic covers essential General concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### TERM 1
-GRADE 7
-WEEKS 1 – 2
-Recommended resources
-Development of the self in society
-2 hours
-Textbook, life skills books and posters
-• Concept
+### improve the quality of life of all citizens and free the potential of each person;
 
-This topic covers essential General concepts for Grade 9.
+This topic covers essential General concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### equipping learners, irrespective of their socio-economic background, race, gender, physical ability o
+### lay the foundations for a democratic and open society in which government is
 
-This topic covers essential General concepts for Grade 9.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### providing access to higher education;
-
-This topic covers essential General concepts for Grade 9.
+This topic covers essential General concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### facilitating the transition of learners from education institutions to the workplace; and
+### build a united and democratic South Africa able to take its rightful place as a sovereign state in th
 
-This topic covers essential General concepts for Grade 9.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### providing employers with a sufficient profile of a learner’s competences.
-
-This topic covers essential General concepts for Grade 9.
+This topic covers essential General concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### Social transformation: ensuring that the educational imbalances of the past are redressed, and that e
+### kambiso elandelako esuswe beyajanyiselelwa siTatimende seKharikhyulamu yeliZweloke samaGreyidi 10-12
 
-This topic covers essential General concepts for Grade 9.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### Active and critical learning: encouraging an active and critical approach to learning, rather than ro
-
-This topic covers essential General concepts for Grade 9.
+This topic covers essential General concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### High knowledge and high skills: the minimum standards of knowledge and skills to be achieved at each
+### hlomisa abafundi, ngaphandle kokutjheja ibhoduluko lezokuhlalisana-nezomnotho, ubulili, ikghono
 
-This topic covers essential General concepts for Grade 9.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### Progression: content and context of each grade shows progression from simple to complex;
-
-This topic covers essential General concepts for Grade 9.
+This topic covers essential General concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### Human rights, inclusivity, environmental and social justice: infusing the principles and practices of
+### ukwenza ifundo yamazinga aphezulu ifinyeleleke;
 
-This topic covers essential General concepts for Grade 9.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### Valuing indigenous knowledge systems: acknowledging the rich history and heritage of this country as
-
-This topic covers essential General concepts for Grade 9.
+This topic covers essential General concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### Credibility, quality and efficiency: providing an education that is comparable in quality, breadth an
+### ukwenza kube lula bonyana abafundi basuke emazikweni wezefundo baye emisebenzini; begodu
 
-This topic covers essential General concepts for Grade 9.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### identify and solve problems and make decisions using critical and creative thinking;
-
-This topic covers essential General concepts for Grade 9.
+This topic covers essential General concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### work effectively as individuals and with others as members of a team;
+### kunikela abaqatjhi ngephrofayili eyaneleko yamakghono womfundi.
 
-This topic covers essential General concepts for Grade 9.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### organise and manage themselves and their activities responsibly and effectively;
-
-This topic covers essential General concepts for Grade 9.
+This topic covers essential General concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### collect, analyse, organise and critically evaluate information;
+### Ukutjhuguluka kwezokuhlalisana : ukuqinisekisa bonyana ukungalingani kezefundo kwesikhathi
 
-This topic covers essential General concepts for Grade 9.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### communicate effectively using visual, symbolic and/or language skills in various modes;
-
-This topic covers essential General concepts for Grade 9.
+This topic covers essential General concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### use science and technology effectively and critically showing responsibility towards the environment
+### Ukufunda ngomdlandla nangelihlo elihlabako : ukukhuthaza indlela yokufunda ngelihlo elihlabako
 
-This topic covers essential General concepts for Grade 9.
-
-**What you'll learn:**
-- Key principles and definitions
-- How to apply this in practice
-- Common examples and exercises
-
-### demonstrate an understanding of the world as a set of related systems by recognising that problem sol
-
-This topic covers essential General concepts for Grade 9.
+This topic covers essential General concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### basic interpersonal communication skills. In Grades 4 - 6 learners start to
+### Ilwazi namakghono asezingeni eliphakamileko : iimfuneko ezimbalwa zelwazi namakghono okufanele
 
-This topic covers essential General concepts for Grade 9.
+This topic covers essential General concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
 - How to apply this in practice
 - Common examples and exercises
 
-### acquire the language skills necessary to communicate appropriately in the target language at a basic
+### Ukuragela phambili : okumumethweko nobujamo baleyo naleyo greyidi kutjengisa ukuragela phambili
 
-This topic covers essential General concepts for Grade 9.
+This topic covers essential General concepts for Grade 10.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### Ukukarekela amahlelo welwazi lobugugu bendabuko : ukuthabela umlando onothileko wenarha
+
+This topic covers essential General concepts for Grade 10.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### sisekelo ; begodu
+
+This topic covers essential General concepts for Grade 10.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### Ukuthembeka, ikhwalithi nekghono : ukunikela ifundo emadanisekako ngekhwalithi, ububanzi
+
+This topic covers essential General concepts for Grade 10.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### bona nokurarulula imiraro nokuthatha iinqunto kusetjenziswa ukucabanga ngelihlo elibukhali
+
+This topic covers essential General concepts for Grade 10.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### sebenzisana ngepumelelo nabanye njengamalunga wesiqhema ;
+
+This topic covers essential General concepts for Grade 10.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### hlela nokuziphatha begodu nokuphatha imisebenzi yabo ngokuziphendulela nangepumelelo ;
+
+This topic covers essential General concepts for Grade 10.
+
+**What you'll learn:**
+- Key principles and definitions
+- How to apply this in practice
+- Common examples and exercises
+
+### buthelela, ukutsenga, ukuhlela bese bahlaziya ilwazi ngelihlo lokuhlaba ;
+
+This topic covers essential General concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -282,112 +262,162 @@ This topic covers essential General concepts for Grade 9.
 
 ## Topic Summaries
 
-### Topic 1: CURRICULUM AND ASSESSMENT
+### Topic 1: ISINDEBELE ILIMI LEKHAYA
 
-POLICY STATEMENT
-GRADES 7 - 9
-LANGUAGES
-GERMAN SECOND ADDITIONAL LANGUAGE
+IsiTatimende somThetho-kambiso
+weKharikhyulamu nokuHlola
+EsiGabeni-esiPhakathi
+AmaGreyidi 4-6
+IsiTatimende seKharikhyulamu
+yeliZweloke (TKZ)
 
-CONTENTS
+TTKH
+ISITATIMENDE SOMTHETHO-KAMBISO
+WEKHARIKHYULAMU NOKUHLOLA
+AMAGREYIDI 4-6
+ISINDEBELE ILIMI LEKHAYA
 
-### Topic 2: INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY
+ISINDEBELE ILIMI LEKHAYA AMAGREYIDI 4-6
+2
+ISITATIMENDE SOMTHETHO-KAMBISO WEKHARIKHYULAMU NOKUHLOLA (TTKH)
+DISCLAIMER
+In view of the stringent time requirements encountered by the Department of Basic Education to effect the necessary editorial changes and ...
 
-STATEMENT ............................................................................................................................................................. 2
+### Topic 2: : INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY STATEMENT 2
+
 1.1
-Background ....................................................................................................................................................................... 2
+Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
 1.2
-Overview .......................................................................................................................................
+Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+1.3
+General aims of the South African curriculum . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1.4
+Time allocation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+1.4.1 Foundation Phase . . . . . . . . . . . . . . ...
 
-### Topic 3: : INTRODUCING THE LANGUAGES ........................................................................
+### Topic 3: : INTRODUCING SOUTH AFRICAN SIGN LANGUAGE . . . . . . . . . . . . . . . . 8
 
 2.1
-Languages in the Curriculum and Assessment Policy Statement ................................................................................ 8
-2.1.1 Language levels ....................................................................................................................................................... 8
-2.1.2 The language skills ................................................................................................................................................ 10
-2.1...
+Language levels . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2.2
+Specific aims of learning SASL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+2.3
+Introducing South African Sign Language (SASL) . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+2.4
+Overview of the SASL curriculum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+2.5
+Rationale for teaching the language skills . . . . . . . . ....
 
-### Topic 4: : CONTENT AND TEACHING PLANS FOR LANGUAGE SKILLS .......................................... 14
+### Topic 4: : CONTENT AND TEACHING PLANS FOR SOUTH AFRICAN SING LANGUAGE
 
+SKILLS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
 3.1
-Listening and speaking ................................................................................................................................................... 14
+Observing and Signing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
 3.2
-Reading and viewing ...................................................................................................................................................... 19
+Visual Reading and Viewing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
 3.3
-Writing and presenting ........................................................................................................................
+Recording . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+3.4
+Language structures and conventions . . . . . . . . . . ...
 
-### Topic 5: : ASSESSMENT IN SECOND ADDITIONAL LANGUAGE ........................................................ 
+### Topic 5: : ASSESSMENT IN SASL HOME LANGUAGE. . . . . . . . . . . . . . . . . . . . . 48
 
 4.1
-Introduction .................................................................................................................................................................... 64
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
 4.2
-Informal or daily assessment ......................................................................................................................................... 64
+Informal or daily assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
 4.3
-Formal assessment ..........................................................................................................................
+Formal assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+4.4
+Programme of Assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+4.4.1 Overview of requirements . . . . . . . . . . . . . ....
 
 ### Topic 6: : INTRODUCTION TO THE CURRICULUM AND
 
 ASSESSMENT POLICY STATEMENT
+1.1 BACKGROUND
+The National Curriculum Statement Grades R-12 (NCS) stipulates policy on curriculum and assessment in the
+schooling sector.
+To improve implementation, the National Curriculum Statement was amended, with the amendments coming into
+effect in January 2012. A single comprehensive Curriculum and Assessment Policy document was developed for
+each subject to replace Subject Statements, Learning Programme Guidelines and Subject Assessment Guidelines
+in Grades R-...
+
+### Topic 7: : INTRODUCING SOUTH AFRICAN SIGN LANGUAGE
+
+Language is a tool for thought and communication. It is also a cultural and aesthetic means commonly shared among
+a people to make better sense of the world they live in. Learning to use language effectively enables learners to
+acquire knowledge, to express their identity, feelings and ideas, to interact with others, and to manage their world. It
+also provides learners with a rich, powerful and deeply rooted set of images and ideas that can be used to make their
+world other than it is; better an...
+
+### Topic 8: : INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY STATEMENT 2
+
 1.1
-BACKGROUND
-The National Curriculum Statement Grades R-12 (NCS) stipulates policy on curriculum and assessment in the schooling
-sector.
-To improve implementation, the National Curriculum Statement was amended, with the amendments coming into effect
-in January 2012. A single comprehensive Curriculum and Assessment Policy document was developed for each subject
-to replace Subject Statements, Learning Programme Guidelines and Subject Assessment Guidelines in Grades R-...
-
-### Topic 7: : INTRODUCING THE LANGUAGES
-
-2.1 Languages in the Curriculum and Assessment Policy Statement
-Language is a tool for thought and communication. It is also a cultural and aesthetic means commonly shared
-among a people to make better sense of the world they live in. Learning to use language effectively enables
-learners to acquire knowledge, to express their identity, feelings and ideas, to interact with others and to
-manage their world. It also provides learners with a rich, powerful and deeply rooted set of images and ideas
-t...
-
-### Topic 8: anguage Structures and Conventions
-
-2.1.3 Language Teaching Approaches
-The approaches to teaching language in these documents are text-based, communicative, integrated and
-process orientated.
-The text-based approach and the communicative approach are both dependent on the continuous use and
-production of texts. The text-based approach explores how texts work. The purpose of a text-based approach
-is to enable learners to become competent, confident and critical readers, writers, viewers and designers of
-texts. It involves listening...
-
-### Topic 9: INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY
-
-STATEMENT ............................................................................................................................................................. 2
-1.1
-Background ....................................................................................................................................................................... 2
+Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
 1.2
-Overview .......................................................................................................................................
+Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+1.3
+General aims of the South African curriculum . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1.4
+Time allocation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+1.4.1 Foundation Phase . . . . . . . . . . . . . . ...
 
-### Topic 10: : INTRODUCING THE LANGUAGES ........................................................................
+### Topic 9: : INTRODUCING SOUTH AFRICAN SIGN LANGUAGE . . . . . . . . . . . . . . . . 8
 
 2.1
-Languages in the Curriculum and Assessment Policy Statement ................................................................................ 8
-2.1.1 Language levels ....................................................................................................................................................... 8
-2.1.2 The language skills ................................................................................................................................................ 10
-2.1...
+Language levels . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2.2
+Specific aims of learning SASL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+2.3
+Introducing South African Sign Language (SASL) . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+2.4
+Overview of the SASL curriculum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+2.5
+Rationale for teaching the language skills . . . . . . . . ....
 
-### Topic 11: : CONTENT AND TEACHING PLANS FOR LANGUAGE SKILLS .......................................... 14
+### Topic 10: : CONTENT AND TEACHING PLANS FOR SOUTH AFRICAN SING LANGUAGE
 
+SKILLS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
 3.1
-Listening and speaking ................................................................................................................................................... 14
+Observing and Signing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
 3.2
-Reading and viewing ...................................................................................................................................................... 19
+Visual Reading and Viewing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
 3.3
-Writing and presenting ........................................................................................................................
+Recording . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+3.4
+Language structures and conventions . . . . . . . . . . ...
 
-### Topic 12: : ASSESSMENT IN SECOND ADDITIONAL LANGUAGE ........................................................ 
+### Topic 11: : ASSESSMENT IN SASL HOME LANGUAGE. . . . . . . . . . . . . . . . . . . . . 48
 
 4.1
-Introduction .................................................................................................................................................................... 64
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
 4.2
-Informal or daily assessment ......................................................................................................................................... 64
+Informal or daily assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
 4.3
-Formal assessment ..........................................................................................................................
+Formal assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+4.4
+Programme of Assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+4.4.1 Overview of requirements . . . . . . . . . . . . . ....
+
+### Topic 12: : INTRODUCTION TO THE CURRICULUM AND
+
+ASSESSMENT POLICY STATEMENT
+1.1 BACKGROUND
+The National Curriculum Statement Grades R-12 (NCS) stipulates policy on curriculum and assessment in the
+schooling sector.
+To improve implementation, the National Curriculum Statement was amended, with the amendments coming into
+effect in January 2012. A single comprehensive Curriculum and Assessment Policy document was developed for
+each subject to replace Subject Statements, Learning Programme Guidelines and Subject Assessment Guidelines
+in Grades R-...
+
+### Topic 13: : INTRODUCING SOUTH AFRICAN SIGN LANGUAGE
+
+Language is a tool for thought and communication. It is also a cultural and aesthetic means commonly shared among
+a people to make better sense of the world they live in. Learning to use language effectively enables learners to
+acquire knowledge, to express their identity, feelings and ideas, to interact with others, and to manage their world. It
+also provides learners with a rich, powerful and deeply rooted set of images and ideas that can be used to make their
+world other than it is; better an...
 
 ---
 
@@ -415,20 +445,21 @@ Formal assessment ..............................................................
 
 ## Assessment Guidelines
 
-### Senior Phase Assessment (Grades 7-9)
+### FET Phase Assessment (Grades 10-12)
 
-- **School-Based Assessment (SBA):** 75%
-- **Final Examination:** 25%
+- **School-Based Assessment (SBA):** 25%
+- **National Senior Certificate (NSC) Exam:** 75%
 
-**Promotion Requirements:**
-- Pass Home Language + 4 other subjects (50% each)
-- Minimum 40% in 2 other subjects
+**NSC Pass Levels:**
+- **Bachelor's Pass:** 40% Home Language + 40% in 4 subjects + 30% in 2 others
+- **Diploma Pass:** 40% Home Language + 40% in 4 subjects + 30% in 2 others
+- **Higher Certificate:** 40% Home Language + 40% in 2 subjects + 30% in 3 others
 
-**Assessment Tasks:**
-- Formal tests and exams
-- Projects and investigations
-- Practical assessments
-- Oral and performance tasks
+**Exam Preparation:**
+- Study all topics from Terms 1-4
+- Practice with past NSC papers
+- Understand marking guidelines
+- Learn exam technique and time management
 
 ---
 
@@ -507,9 +538,9 @@ Formal assessment ..............................................................
 
 ## Document Information
 
-**Generated:** 2026-06-07 16:10:32
-**Source Documents:** 58 CAPS document(s) processed
-**Grade:** Grade 9
+**Generated:** 2026-06-07 16:10:34
+**Source Documents:** 4 CAPS document(s) processed
+**Grade:** Grade 10
 **Subject:** General
 
 ---

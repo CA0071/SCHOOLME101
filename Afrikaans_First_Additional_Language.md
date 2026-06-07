@@ -1,7 +1,7 @@
-# Grade 9 — Afrikaans First Additional Language (CAPS)
+# Grade 10 — Afrikaans First Additional Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
-*Senior Phase*
+*FET Phase*
 
 ---
 
@@ -20,23 +20,23 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 9
+**Grade:** Grade 10
 **Subject:** Afrikaans First Additional Language
-**Phase:** Senior Phase
+**Phase:** FET Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Afrikaans First Additional Language curriculum for Grade 9 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Afrikaans First Additional Language curriculum for Grade 10 (FET Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
-- Age-appropriate content for Senior Phase
+- Age-appropriate content for FET Phase
 - Integration with other subjects where applicable
 - Preparation for assessments and examinations
 
 ### Learning Outcomes
 
-By the end of Grade 9, learners should be able to:
+By the end of Grade 10, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 9, learners should be able to:
 
 ### Listening and Speaking
 
-*Listening and Speaking* is a fundamental concept in Afrikaans First Additional Language for Grade 9.
+*Listening and Speaking* is a fundamental concept in Afrikaans First Additional Language for Grade 10.
 
 **Understanding:**
 Learners should understand the principles of listening and speaking and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving afrikaans first additional language problem
 
 ### Reading and Viewing
 
-*Reading and Viewing* is a fundamental concept in Afrikaans First Additional Language for Grade 9.
+*Reading and Viewing* is a fundamental concept in Afrikaans First Additional Language for Grade 10.
 
 **Understanding:**
 Learners should understand the principles of reading and viewing and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving afrikaans first additional language problem
 
 ### Writing
 
-*Writing* is a fundamental concept in Afrikaans First Additional Language for Grade 9.
+*Writing* is a fundamental concept in Afrikaans First Additional Language for Grade 10.
 
 **Understanding:**
 Learners should understand the principles of writing and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving afrikaans first additional language problem
 
 ### Language Structures
 
-*Language Structures* is a fundamental concept in Afrikaans First Additional Language for Grade 9.
+*Language Structures* is a fundamental concept in Afrikaans First Additional Language for Grade 10.
 
 **Understanding:**
 Learners should understand the principles of language structures and how they apply in various contexts.
@@ -91,57 +91,57 @@ This concept is applied when solving afrikaans first additional language problem
 
 ## Topic Summaries
 
-### AFRIKAANS EERSTE ADDISIONELE TAAL
+### ISINDEBELE ILIMI LEKHAYA
 
-Kurrikulum- en
-assesseringsbeleidsverklaring
-Senior fase
-Graad 7-9
-Nasionale Kurrikulumverklaring (NKV)
+IsiTatimende somThetho-kambiso
+weKharikhyulamu nokuHlola
+EsiGabeni-esiPhakathi
+AmaGreyidi 4-6
+IsiTatimende seKharikhyulamu
+yeliZweloke (TKZ)
 
-KABV
-KURRIKULUM- EN ASSESSERINGSBELEIDSVERKLARING
-GRAAD 7-9
-AFRIKAANS EERSTE ADDISIONELE TAAL
+TTKH
+ISITATIMENDE SOMTHETHO-KAMBISO
+WEKHARIKHYULAMU NOKUHLOLA
+AMAGREYIDI 4-6
+ISINDEBELE ILIMI LEKHAYA
 
-AFRIKAANS EERSTE ADDISIONELE TAAL GRAAD 7-9
-KURRIKULUM- EN ASSESSERINGSBELEIDSVERKLARING (KABV)
-Departement van Basiese Onderwys
-Strubenstraat 222
-Privaatsak X895
+ISINDEBELE ILIMI LEKHAYA AMAGREYIDI 4-6
+2
+ISITATIMENDE SOMTHETHO-KAMBISO WEKHARIKHYULAMU NOKUHLOLA (TTKH)
+DISCLAIMER
+In view of the stringent time requirements encountered by the Department of Basic Education to effect the necessary editorial changes and layout
+to the Curriculum and Assessment Policy Statements and the supplementary policy documents, possible errors may occur in the said documents
+placed on the official departmental websites.
+There may also be vernacular inconsistencies in the language documents at Home-, First and Second Additional Language levels which have been
+translated in the various African Languages. Please note that the content of the documents translated and versioned in the African Languages are
+correct as they are based on the English generic language documents at all three language levels to be implemented in all four school phases.
+If any editorial, layout or vernacular inconsistencies are detected, the user is kindly requested to bring this to the attention of the Department of
+Basic Education.
+E-mail: capslangcomments@dbe.gov.za or fax (012) 328 9828
+Department of Basic Education
+222 Struben Street
+Private Bag X895
 Pretoria 0001
-Suid-Afrika
+South Africa
 Tel: +27 12 357 3000
-Faks: +27 12 323 0601
-Pleinstraat 120 Privaatsak X9023
-Kaapstad 8000
-Suid-Afrika
+Fax: +27 12 323 0601
+120 Plein Street Private Bag X9023
+Cape Town 8000
+South Africa
 Tel: +27 21 465 1701
-Faks: +27 21 461 8110
-Webtuiste: http: //www.education.gov.za
-© 2011 Departement van Basiese Onderwys
-Isbn: 978-1-4315-0504-3
-Ontwerp en uitleg deur: Ndabase Printing Solution
-Gedruk deur: Staatsdrukkery
+Fax: +27 21 461 8110
+Website: http://www.education.gov.za
+© 2011 Department of Basic Education
+ISBN: 978-1-4315-0464-0
+Design and Layout by: Ndabase Printing Solution
+Printed by: Government Printing Works
 
-AFRIKAANS EERSTE ADDISIONELE TAAL GRAAD 7-9
-KABV
-VOORWOORD VAN DIE MINISTER
-Die nasionale kurrikulum is die hoogtepunt van ons poging oor ֹ’n tydperk van
-17 jaar om die apartheidskurrikulum wat ons geërf het, te hervorm. Sedert die
-aanvang van demokrasie het ons gepoog om die kurrikulum op die waardes deur
-die Grondwet (Wet No. 108 van 1998) geϊnspireer, te skoei. Die Aanhef van die
-Grondwet verklaar die doelstellings van die Grondwet soos volg:
-•
-Die verdeeldheid van die verlede te heel en ’n samelewing gegrond op
-demokratiese waardes, maatskaplike geregtigheid en basiese menseregte te
-skep;
-•
-Die lewensgehalte van alle burgers te verhoog en die potensiaal van elke
-mens te ontsluit;
-•
-Die grondslag te lê vir ’n demokratiese en oop samelewing waarin regering
-gebaseer is op die wil van die bevolking en elke burger gelyk deur die reg
+ISINDEBELE ILIMI LEKHAYA AMAGREYIDI 4-6
+TTKH
+FOREWORD BY THE MINISTER
+Our national curriculum is the culmination of our efforts over a period of seventeen
+years to transform the curriculum bequeathed to us by apartheid. From the start of
 
 ---
 
@@ -149,7 +149,7 @@ gebaseer is op die wil van die bevolking en elke burger gelyk deur die reg
 
 ### What You Will Learn
 
-In Grade 9 Afrikaans First Additional Language, you will learn:
+In Grade 10 Afrikaans First Additional Language, you will learn:
 
 - Listening and speaking skills
 - Reading comprehension and analysis
@@ -168,11 +168,12 @@ In Grade 9 Afrikaans First Additional Language, you will learn:
 
 ## Assessment Guidelines
 
-### Senior Phase Assessment (Grades 7-9)
+### FET Phase Assessment (Grades 10-12)
 
-- **School-Based Assessment (SBA):** 75%
-- **Final Examination:** 25%
-- **Promotion:** Pass Home Language + 4 other subjects (50% each)
+- **School-Based Assessment (SBA):** 25%
+- **National Senior Certificate (NSC) Exam:** 75%
+- **Bachelor's Pass:** 40% Home Language + 40% in 4 subjects + 30% in 2 others
+- **Exam Preparation:** Past papers, study guides, revision classes
 
 ---
 
@@ -223,6 +224,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:42:05*
+*Generated: 2026-06-07 16:47:23*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

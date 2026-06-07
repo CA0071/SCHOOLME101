@@ -1,7 +1,7 @@
-# Grade 9 — Computer Applications Technology (CAT) (CAPS)
+# Grade 10 — Computer Applications Technology (CAT) (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
-*Senior Phase*
+*FET Phase*
 
 ---
 
@@ -20,23 +20,23 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 9
+**Grade:** Grade 10
 **Subject:** Computer Applications Technology (CAT)
-**Phase:** Senior Phase
+**Phase:** FET Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Computer Applications Technology (CAT) curriculum for Grade 9 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Computer Applications Technology (CAT) curriculum for Grade 10 (FET Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
-- Age-appropriate content for Senior Phase
+- Age-appropriate content for FET Phase
 - Integration with other subjects where applicable
 - Preparation for assessments and examinations
 
 ### Learning Outcomes
 
-By the end of Grade 9, learners should be able to:
+By the end of Grade 10, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -53,57 +53,57 @@ By the end of Grade 9, learners should be able to:
 
 ## Topic Summaries
 
-### CURRICULUM AND ASSESSMENT
+### ISINDEBELE ILIMI LEKHAYA
 
-POLICY STATEMENT
-GRADES 7 - 9
-LANGUAGES
-GERMAN SECOND ADDITIONAL LANGUAGE
+IsiTatimende somThetho-kambiso
+weKharikhyulamu nokuHlola
+EsiGabeni-esiPhakathi
+AmaGreyidi 4-6
+IsiTatimende seKharikhyulamu
+yeliZweloke (TKZ)
 
-CONTENTS
-SECTION 1 INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY
-STATEMENT ............................................................................................................................................................. 2
-1.1
-Background ....................................................................................................................................................................... 2
-1.2
-Overview ............................................................................................................................................................................ 2
-1.3
-General aims of the South African curriculum .............................................................................................................. 3
-1.4
-Time allocation.................................................................................................................................................................. 5
-1.4.1 Foundation Phase ....................................................................................................................................................... 5
-1.4.2 Intermediate Phase ..................................................................................................................................................... 6
-1.4.3 Senior Phase .............................................................................................................................................................. 6
-1.4.4 Grades 10-12 ............................................................................................................................................................. 7
-SECTION 2: INTRODUCING THE LANGUAGES .............................................................................................. 8
-2.1
-Languages in the Curriculum and Assessment Policy Statement ................................................................................ 8
-2.1.1 Language levels ....................................................................................................................................................... 8
-2.1.2 The language skills ................................................................................................................................................ 10
-2.1.3 Language teaching approaches .............................................................................................................................. 10
-2.2
-Time allocation................................................................................................................................................................ 12
-2.3
-Learning and Teaching Support Materials .................................................................................................................. 13
-SECTION 3: CONTENT AND TEACHING PLANS FOR LANGUAGE SKILLS .......................................... 14
-3.1
-Listening and speaking ................................................................................................................................................... 14
-3.2
-Reading and viewing ...................................................................................................................................................... 19
-3.3
-Writing and presenting .................................................................................................................................................. 23
-3.4
-Language structures and conventions .......................................................................................................................... 26
-3.5
-Teaching plans ................................................................................................................................................................ 29
-3.6
-Spread of texts across Grades 7-9 ................................................................................................................................. 32
-SECTION 4: ASSESSMENT IN SECOND ADDITIONAL LANGUAGE ........................................................ 64
-4.1
-Introduction .................................................................................................................................................................... 64
-4.2
-Informal or daily assessment ......................................................................................................................................... 64
-4.3
+TTKH
+ISITATIMENDE SOMTHETHO-KAMBISO
+WEKHARIKHYULAMU NOKUHLOLA
+AMAGREYIDI 4-6
+ISINDEBELE ILIMI LEKHAYA
+
+ISINDEBELE ILIMI LEKHAYA AMAGREYIDI 4-6
+2
+ISITATIMENDE SOMTHETHO-KAMBISO WEKHARIKHYULAMU NOKUHLOLA (TTKH)
+DISCLAIMER
+In view of the stringent time requirements encountered by the Department of Basic Education to effect the necessary editorial changes and layout
+to the Curriculum and Assessment Policy Statements and the supplementary policy documents, possible errors may occur in the said documents
+placed on the official departmental websites.
+There may also be vernacular inconsistencies in the language documents at Home-, First and Second Additional Language levels which have been
+translated in the various African Languages. Please note that the content of the documents translated and versioned in the African Languages are
+correct as they are based on the English generic language documents at all three language levels to be implemented in all four school phases.
+If any editorial, layout or vernacular inconsistencies are detected, the user is kindly requested to bring this to the attention of the Department of
+Basic Education.
+E-mail: capslangcomments@dbe.gov.za or fax (012) 328 9828
+Department of Basic Education
+222 Struben Street
+Private Bag X895
+Pretoria 0001
+South Africa
+Tel: +27 12 357 3000
+Fax: +27 12 323 0601
+120 Plein Street Private Bag X9023
+Cape Town 8000
+South Africa
+Tel: +27 21 465 1701
+Fax: +27 21 461 8110
+Website: http://www.education.gov.za
+© 2011 Department of Basic Education
+ISBN: 978-1-4315-0464-0
+Design and Layout by: Ndabase Printing Solution
+Printed by: Government Printing Works
+
+ISINDEBELE ILIMI LEKHAYA AMAGREYIDI 4-6
+TTKH
+FOREWORD BY THE MINISTER
+Our national curriculum is the culmination of our efforts over a period of seventeen
+years to transform the curriculum bequeathed to us by apartheid. From the start of
 
 ---
 
@@ -111,7 +111,7 @@ Informal or daily assessment ...................................................
 
 ### What You Will Learn
 
-In Grade 9 Computer Applications Technology (CAT), you will learn:
+In Grade 10 Computer Applications Technology (CAT), you will learn:
 
 - Core subject concepts and principles
 - Practical applications
@@ -130,11 +130,12 @@ In Grade 9 Computer Applications Technology (CAT), you will learn:
 
 ## Assessment Guidelines
 
-### Senior Phase Assessment (Grades 7-9)
+### FET Phase Assessment (Grades 10-12)
 
-- **School-Based Assessment (SBA):** 75%
-- **Final Examination:** 25%
-- **Promotion:** Pass Home Language + 4 other subjects (50% each)
+- **School-Based Assessment (SBA):** 25%
+- **National Senior Certificate (NSC) Exam:** 75%
+- **Bachelor's Pass:** 40% Home Language + 40% in 4 subjects + 30% in 2 others
+- **Exam Preparation:** Past papers, study guides, revision classes
 
 ---
 
@@ -185,6 +186,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:41:01*
+*Generated: 2026-06-07 16:45:11*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

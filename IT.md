@@ -1,10 +1,10 @@
-# Grade 10 — isiNdebele_Second_Additional_Language (CAPS)
+# Grade 10 — IT (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
 *FET Phase*
 
 **Generated:** 2026-06-07 16:10:34
-**Source Documents:** 3 official CAPS document(s)
+**Source Documents:** 2 official CAPS document(s)
 
 ---
 
@@ -25,7 +25,7 @@
 ## Curriculum Overview
 
 **Grade:** Grade 10
-**Subject:** isiNdebele_Second_Additional_Language
+**Subject:** IT
 **Phase:** FET Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
@@ -37,7 +37,7 @@
 
 By the end of Grade 10, learners should be able to:
 
-- Demonstrate understanding of core isiNdebele_Second_Additional_Language concepts appropriate for fet phase
+- Demonstrate understanding of core IT concepts appropriate for fet phase
 - Apply knowledge to solve problems and complete tasks
 - Communicate effectively using subject-specific terminology
 - Think critically and analytically
@@ -80,7 +80,7 @@ in a single document and will simply be known as the National Curriculum Stateme
 
 ### heal the divisions of the past and establish a society based on democratic
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -89,7 +89,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### improve the quality of life of all citizens and free the potential of each person;
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -98,7 +98,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### lay the foundations for a democratic and open society in which government is
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -107,7 +107,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### build a united and democratic South Africa able to take its rightful place as a sovereign state in th
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -116,7 +116,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### kambiso elandelako esuswe beyajanyiselelwa siTatimende seKharikhyulamu yeliZweloke samaGreyidi 10-12
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -125,7 +125,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### hlomisa abafundi, ngaphandle kokutjheja ibhoduluko lezokuhlalisana-nezomnotho, ubulili, ikghono
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -134,7 +134,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### ukwenza ifundo yamazinga aphezulu ifinyeleleke;
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -143,7 +143,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### ukwenza kube lula bonyana abafundi basuke emazikweni wezefundo baye emisebenzini; begodu
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -152,7 +152,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### kunikela abaqatjhi ngephrofayili eyaneleko yamakghono womfundi.
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -161,7 +161,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### Ukutjhuguluka kwezokuhlalisana : ukuqinisekisa bonyana ukungalingani kezefundo kwesikhathi
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -170,7 +170,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### Ukufunda ngomdlandla nangelihlo elihlabako : ukukhuthaza indlela yokufunda ngelihlo elihlabako
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -179,7 +179,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### Ilwazi namakghono asezingeni eliphakamileko : iimfuneko ezimbalwa zelwazi namakghono okufanele
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -188,7 +188,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### Ukuragela phambili : okumumethweko nobujamo baleyo naleyo greyidi kutjengisa ukuragela phambili
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -197,7 +197,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### Ukukarekela amahlelo welwazi lobugugu bendabuko : ukuthabela umlando onothileko wenarha
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -206,7 +206,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### sisekelo ; begodu
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -215,7 +215,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### Ukuthembeka, ikhwalithi nekghono : ukunikela ifundo emadanisekako ngekhwalithi, ububanzi
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -224,7 +224,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### bona nokurarulula imiraro nokuthatha iinqunto kusetjenziswa ukucabanga ngelihlo elibukhali
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -233,7 +233,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### sebenzisana ngepumelelo nabanye njengamalunga wesiqhema ;
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -242,7 +242,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### hlela nokuziphatha begodu nokuphatha imisebenzi yabo ngokuziphendulela nangepumelelo ;
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -251,7 +251,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ### buthelela, ukutsenga, ukuhlela bese bahlaziya ilwazi ngelihlo lokuhlaba ;
 
-This topic covers essential isiNdebele_Second_Additional_Language concepts for Grade 10.
+This topic covers essential IT concepts for Grade 10.
 
 **What you'll learn:**
 - Key principles and definitions
@@ -262,7 +262,7 @@ This topic covers essential isiNdebele_Second_Additional_Language concepts for G
 
 ## Topic Summaries
 
-### Topic 1: ISINDEBELE ILIMI LESIBILI LOKWENGEZA
+### Topic 1: ISINDEBELE ILIMI LEKHAYA
 
 IsiTatimende somThetho-kambiso
 weKharikhyulamu nokuHlola
@@ -275,13 +275,13 @@ TTKH
 ISITATIMENDE SOMTHETHO-KAMBISO
 WEKHARIKHYULAMU NOKUHLOLA
 AMAGREYIDI 4-6
-ISINDEBELE ILIMI LESIBILI LOKWENGEZA
+ISINDEBELE ILIMI LEKHAYA
 
-ISINDEBELE ILIMI LESIBILI LOKWENGEZA AMAGREYIDI 4-6
+ISINDEBELE ILIMI LEKHAYA AMAGREYIDI 4-6
 2
 ISITATIMENDE SOMTHETHO-KAMBISO WEKHARIKHYULAMU NOKUHLOLA (TTKH)
 DISCLAIMER
-In view of the stringent time requirements encountered by the Department of Basic Education to effect the necessar...
+In view of the stringent time requirements encountered by the Department of Basic Education to effect the necessary editorial changes and ...
 
 ### Topic 2: : INTRODUCTION TO THE CURRICULUM AND ASSESSMENT POLICY STATEMENT 2
 
@@ -357,11 +357,11 @@ world other than it is; better an...
 
 ### What You Will Learn
 
-- Listening and speaking skills
-- Reading comprehension and analysis
-- Writing for different purposes and audiences
-- Language structures and conventions
-- Literature study
+- Core subject concepts and principles
+- Practical applications
+- Critical thinking skills
+- Assessment preparation
+- Real-world connections
 
 ### Study Tips
 
@@ -419,10 +419,6 @@ world other than it is; better an...
 
 ### Subject-Specific Tips
 
-- Plan your writing before starting
-- Check spelling and grammar
-- Use varied vocabulary
-- Structure essays properly (intro, body, conclusion)
 
 ---
 
@@ -475,9 +471,9 @@ world other than it is; better an...
 ## Document Information
 
 **Generated:** 2026-06-07 16:10:34
-**Source Documents:** 3 CAPS document(s) processed
+**Source Documents:** 2 CAPS document(s) processed
 **Grade:** Grade 10
-**Subject:** isiNdebele_Second_Additional_Language
+**Subject:** IT
 
 ---
 

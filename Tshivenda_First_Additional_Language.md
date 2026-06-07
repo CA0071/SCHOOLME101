@@ -1,7 +1,7 @@
-# Grade 9 — Tshivenda First Additional Language (CAPS)
+# Grade 10 — Tshivenda First Additional Language (CAPS)
 
 *South African Curriculum and Assessment Policy Statement*
-*Senior Phase*
+*FET Phase*
 
 ---
 
@@ -20,23 +20,23 @@
 
 ## Curriculum Overview
 
-**Grade:** Grade 9
+**Grade:** Grade 10
 **Subject:** Tshivenda First Additional Language
-**Phase:** Senior Phase
+**Phase:** FET Phase
 **Curriculum:** CAPS (Curriculum and Assessment Policy Statement)
 **Department:** South African Department of Basic Education
 
-The Tshivenda First Additional Language curriculum for Grade 9 (Senior Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
+The Tshivenda First Additional Language curriculum for Grade 10 (FET Phase) follows the South African CAPS (Curriculum and Assessment Policy Statement) guidelines.
 
 Key Focus Areas:
 - Alignment with Department of Basic Education standards
-- Age-appropriate content for Senior Phase
+- Age-appropriate content for FET Phase
 - Integration with other subjects where applicable
 - Preparation for assessments and examinations
 
 ### Learning Outcomes
 
-By the end of Grade 9, learners should be able to:
+By the end of Grade 10, learners should be able to:
 
 - Demonstrate understanding of core {subject} concepts
 - Apply knowledge to solve problems
@@ -49,7 +49,7 @@ By the end of Grade 9, learners should be able to:
 
 ### Listening and Speaking
 
-*Listening and Speaking* is a fundamental concept in Tshivenda First Additional Language for Grade 9.
+*Listening and Speaking* is a fundamental concept in Tshivenda First Additional Language for Grade 10.
 
 **Understanding:**
 Learners should understand the principles of listening and speaking and how they apply in various contexts.
@@ -59,7 +59,7 @@ This concept is applied when solving tshivenda first additional language problem
 
 ### Reading and Viewing
 
-*Reading and Viewing* is a fundamental concept in Tshivenda First Additional Language for Grade 9.
+*Reading and Viewing* is a fundamental concept in Tshivenda First Additional Language for Grade 10.
 
 **Understanding:**
 Learners should understand the principles of reading and viewing and how they apply in various contexts.
@@ -69,7 +69,7 @@ This concept is applied when solving tshivenda first additional language problem
 
 ### Writing
 
-*Writing* is a fundamental concept in Tshivenda First Additional Language for Grade 9.
+*Writing* is a fundamental concept in Tshivenda First Additional Language for Grade 10.
 
 **Understanding:**
 Learners should understand the principles of writing and how they apply in various contexts.
@@ -79,7 +79,7 @@ This concept is applied when solving tshivenda first additional language problem
 
 ### Language Structures
 
-*Language Structures* is a fundamental concept in Tshivenda First Additional Language for Grade 9.
+*Language Structures* is a fundamental concept in Tshivenda First Additional Language for Grade 10.
 
 **Understanding:**
 Learners should understand the principles of language structures and how they apply in various contexts.
@@ -91,23 +91,24 @@ This concept is applied when solving tshivenda first additional language problem
 
 ## Topic Summaries
 
-### TSHIVENDA LUAMBO LWA U ENGEDZA
+### ISINDEBELE ILIMI LEKHAYA
 
-LWA U THOMA
-Vhuimo ha Ntha
-Gireidi dza 7-9
-Tshitatamennde tsha Pholisi ya
-Kharikhulamu na u Linga
-Tshitatamennde tsha
-Kharikhulamu ya Lushaka
+IsiTatimende somThetho-kambiso
+weKharikhyulamu nokuHlola
+EsiGabeni-esiPhakathi
+AmaGreyidi 4-6
+IsiTatimende seKharikhyulamu
+yeliZweloke (TKZ)
 
-TSHIPHOKHALI
-Tshitatamennde tsha Phoḽisi YA Kharikhuḽamu na u Linga
-GIREIDI DZA 7-9
-TSHIVENḓA LUAMBO LWA U ENGEDZA LWA U THOMA
+TTKH
+ISITATIMENDE SOMTHETHO-KAMBISO
+WEKHARIKHYULAMU NOKUHLOLA
+AMAGREYIDI 4-6
+ISINDEBELE ILIMI LEKHAYA
 
-TSHIVENḓA LUAMBO LWA U ENGEDZA LWA U THOMA GIREIDI DZA 7-9
-TSHITATAMENNDE TSHA PHOḼISI YA KHARIKHUḼAMU NA U LINGA
+ISINDEBELE ILIMI LEKHAYA AMAGREYIDI 4-6
+2
+ISITATIMENDE SOMTHETHO-KAMBISO WEKHARIKHYULAMU NOKUHLOLA (TTKH)
 DISCLAIMER
 In view of the stringent time requirements encountered by the Department of Basic Education to effect the necessary editorial changes and layout
 to the Curriculum and Assessment Policy Statements and the supplementary policy documents, possible errors may occur in the said documents
@@ -132,16 +133,15 @@ Tel: +27 21 465 1701
 Fax: +27 21 461 8110
 Website: http://www.education.gov.za
 © 2011 Department of Basic Education
-Isbn: 978-1-4315-0509-8
+ISBN: 978-1-4315-0464-0
 Design and Layout by: Ndabase Printing Solution
 Printed by: Government Printing Works
 
-TSHIVENḓA LUAMBO LWA U ENGEDZA LWA U THOMA GIREIDI DZA 7-9
-TSHIPHOKHALI
-FOREWORD by the minister
+ISINDEBELE ILIMI LEKHAYA AMAGREYIDI 4-6
+TTKH
+FOREWORD BY THE MINISTER
 Our national curriculum is the culmination of our efforts over a period of seventeen
 years to transform the curriculum bequeathed to us by apartheid. From the start of
-democracy we have built our curriculum on the values that inspired our Constitution
 
 ---
 
@@ -149,7 +149,7 @@ democracy we have built our curriculum on the values that inspired our Constitut
 
 ### What You Will Learn
 
-In Grade 9 Tshivenda First Additional Language, you will learn:
+In Grade 10 Tshivenda First Additional Language, you will learn:
 
 - Listening and speaking skills
 - Reading comprehension and analysis
@@ -168,11 +168,12 @@ In Grade 9 Tshivenda First Additional Language, you will learn:
 
 ## Assessment Guidelines
 
-### Senior Phase Assessment (Grades 7-9)
+### FET Phase Assessment (Grades 10-12)
 
-- **School-Based Assessment (SBA):** 75%
-- **Final Examination:** 25%
-- **Promotion:** Pass Home Language + 4 other subjects (50% each)
+- **School-Based Assessment (SBA):** 25%
+- **National Senior Certificate (NSC) Exam:** 75%
+- **Bachelor's Pass:** 40% Home Language + 40% in 4 subjects + 30% in 2 others
+- **Exam Preparation:** Past papers, study guides, revision classes
 
 ---
 
@@ -223,6 +224,6 @@ Download past CAPS assessment papers from:
 
 ---
 
-*Generated: 2026-06-07 16:42:39*
+*Generated: 2026-06-07 16:47:51*
 
 *This study guide is based on the South African CAPS curriculum. Always refer to official Department of Basic Education documents for the most accurate and up-to-date information.*

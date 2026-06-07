@@ -1,0 +1,21 @@
+{
+  "server_id": "github",
+  "tool_surface": {
+    "repository": ["get_file_contents", "list_branches", "list_commits"],
+    "issues": ["list_issues", "issue_read"],
+    "pull_requests": ["list_pull_requests", "pull_request_read", "reply_to_comment"],
+    "workflows_actions": ["list_workflow_runs", "list_workflow_jobs", "get_job_logs"],
+    "code_and_commits": ["search_code", "search_commits", "get_commit"],
+    "projects_and_meta": ["list_issue_fields", "search_repositories"],
+    "security": ["list_code_scanning_alerts", "list_secret_scanning_alerts"]
+  },
+  "skill_surface": [
+    "issue_triage_assist",
+    "pr_review_support",
+    "ci_failure_investigation"
+  ],
+  "deployment": {
+    "mode": "scaffold-only",
+    "note": "This is a template configuration and not an active service declaration."
+  }
+}

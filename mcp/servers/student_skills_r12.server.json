@@ -1,0 +1,51 @@
+{
+  "id": "student_skills_r12",
+  "title": "Grade R–12 Student Skills MCP",
+  "status": "scaffolded",
+  "scope": "student skill orchestration for Grade R through Grade 12",
+  "grade_bands": [
+    {
+      "band": "foundation_phase",
+      "grades": ["R", "1", "2", "3"],
+      "communication_style": "simple_playful"
+    },
+    {
+      "band": "intermediate_phase",
+      "grades": ["4", "5", "6"],
+      "communication_style": "clear_stepwise"
+    },
+    {
+      "band": "senior_phase",
+      "grades": ["7", "8", "9"],
+      "communication_style": "coach_like"
+    },
+    {
+      "band": "fet",
+      "grades": ["10", "11", "12"],
+      "communication_style": "exam_focused"
+    }
+  ],
+  "skill_categories": [
+    "tutoring",
+    "summaries",
+    "quizzes",
+    "homework_help",
+    "remediation",
+    "study_planning",
+    "exam_prep",
+    "language_learning",
+    "age_appropriate_guidance"
+  ],
+  "subject_aware": true,
+  "knowledgebase_hooks": {
+    "curriculum_alignment_schema": "schemas/skills_server_profile.schema.json",
+    "localized_framework_metadata": ["CAPS", "IEB", "IMPAQ"]
+  },
+  "policies": [
+    "policies/tutoring_safety.policy.json",
+    "policies/mcp_integration_disclaimer.policy.json"
+  ],
+  "examples": [
+    "examples/skills_server_profile.example.json"
+  ]
+}

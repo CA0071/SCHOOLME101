@@ -1,0 +1,14 @@
+{
+  "id": "homework",
+  "title": "Homework Support MCP",
+  "status": "scaffolded",
+  "scope": "homework assistance",
+  "capabilities": [
+    "homework_help",
+    "step_guidance",
+    "submission_precheck"
+  ],
+  "policies": [
+    "policies/tutoring_safety.policy.json"
+  ]
+}

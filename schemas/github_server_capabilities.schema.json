@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GitHub MCP Capability Surface",
+  "type": "object",
+  "required": ["server_id", "tool_surface", "skill_surface"],
+  "properties": {
+    "server_id": {"const": "github"},
+    "tool_surface": {
+      "type": "object",
+      "required": [
+        "repository",
+        "issues",
+        "pull_requests",
+        "workflows_actions",
+        "code_and_commits",
+        "projects_and_meta",
+        "security"
+      ],
+      "additionalProperties": {
+        "type": "array",
+        "items": {"type": "string"}
+      }
+    },
+    "skill_surface": {
+      "type": "array",
+      "items": {"type": "string"}
+    }
+  }
+}

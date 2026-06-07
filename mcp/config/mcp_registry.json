@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schemas/mcp_registry.schema.json",
+  "version": "1.0.0",
+  "description": "MCP server registry scaffold for the SCHOOLME101 tutor platform.",
+  "defaults": {
+    "transport": "stdio",
+    "timeoutMs": 12000,
+    "maxConcurrentRequests": 16
+  },
+  "servers": [
+    {
+      "id": "education-workflows",
+      "name": "Education Workflow MCP",
+      "enabled": true,
+      "configPath": "../servers/education.server.json"
+    },
+    {
+      "id": "quiz-assessment",
+      "name": "Quiz & Assessment MCP",
+      "enabled": true,
+      "configPath": "../servers/quiz.server.json"
+    },
+    {
+      "id": "homework-help",
+      "name": "Homework Helper MCP",
+      "enabled": true,
+      "configPath": "../servers/homework.server.json"
+    },
+    {
+      "id": "automation-admin",
+      "name": "Automation & Admin MCP",
+      "enabled": true,
+      "configPath": "../servers/automation_admin.server.json"
+    },
+    {
+      "id": "retrieval-search",
+      "name": "Retrieval/Search MCP",
+      "enabled": true,
+      "configPath": "../servers/retrieval.server.json"
+    }
+  ]
+}

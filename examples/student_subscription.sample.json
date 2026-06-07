@@ -1,0 +1,13 @@
+{
+  "subscriptionId": "sub_000001",
+  "studentId": "student_za_001",
+  "guardianId": "guardian_za_010",
+  "schoolId": "school_za_gauteng_01",
+  "planTier": "standard",
+  "status": "active",
+  "languagePreferences": ["en", "zu"],
+  "gradesCovered": ["Grade_7"],
+  "activatedAt": "2026-06-01T00:00:00Z",
+  "expiresAt": "2027-05-31T23:59:59Z",
+  "apiKeyRef": "key_12ab34cd"
+}

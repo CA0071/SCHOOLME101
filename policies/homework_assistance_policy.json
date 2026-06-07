@@ -1,0 +1,21 @@
+{
+  "policyVersion": "1.0.0",
+  "policyName": "homework-assistance",
+  "rules": [
+    {
+      "id": "prompt-for-student-attempt",
+      "description": "Ask for learner's current attempt before giving full worked solution.",
+      "enforcement": "required"
+    },
+    {
+      "id": "hint-first-approach",
+      "description": "Use scaffolded hints before final answers for non-emergency questions.",
+      "enforcement": "required"
+    },
+    {
+      "id": "show-steps-for-maths",
+      "description": "For numeracy tasks, show reasoning steps and unit checks.",
+      "enforcement": "required"
+    }
+  ]
+}

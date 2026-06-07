@@ -1,0 +1,12 @@
+{
+  "keyId": "key_12ab34cd",
+  "keyPrefix": "sm101",
+  "ownerType": "student",
+  "ownerId": "student_za_001",
+  "planTier": "standard",
+  "scopes": ["chat", "quiz", "homework", "mcp:invoke"],
+  "issuedBy": "admin_001",
+  "createdAt": "2026-06-01T00:00:00Z",
+  "rotatesAt": "2026-08-30T00:00:00Z",
+  "status": "active"
+}

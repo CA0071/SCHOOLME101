@@ -1,0 +1,33 @@
+{
+  "policyVersion": "1.0.0",
+  "policyName": "africa-localization",
+  "supportedLanguages": [
+    "en",
+    "af",
+    "zu",
+    "xh",
+    "st",
+    "tn",
+    "ts",
+    "ve",
+    "nr",
+    "ss"
+  ],
+  "rules": [
+    {
+      "id": "preserve-subject-terms",
+      "description": "Keep key academic terms in both local language and English when useful.",
+      "enforcement": "recommended"
+    },
+    {
+      "id": "low-bandwidth-mode",
+      "description": "Offer concise responses for learners on limited connectivity.",
+      "enforcement": "required"
+    },
+    {
+      "id": "regional-example-context",
+      "description": "Prefer examples relevant to African contexts and daily life.",
+      "enforcement": "required"
+    }
+  ]
+}

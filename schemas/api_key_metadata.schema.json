@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://schoolme101.local/schemas/api_key_metadata.schema.json",
+  "title": "ApiKeyMetadata",
+  "type": "object",
+  "required": [
+    "keyId",
+    "keyPrefix",
+    "ownerType",
+    "ownerId",
+    "planTier",
+    "createdAt",
+    "status",
+    "scopes"
+  ],
+  "properties": {
+    "keyId": { "type": "string", "minLength": 8 },
+    "keyPrefix": { "type": "string", "minLength": 4, "maxLength": 12 },
+    "ownerType": {
+      "type": "string",
+      "enum": ["student", "teacher", "school_admin", "system"]
+    },
+    "ownerId": { "type": "string", "minLength": 3 },
+    "planTier": {
+      "type": "string",
+      "enum": ["starter", "standard", "premium", "institutional"]
+    },
+    "scopes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["chat", "quiz", "homework", "admin:reporting", "mcp:invoke"]
+      },
+      "minItems": 1
+    },
+    "issuedBy": { "type": "string" },
+    "createdAt": { "type": "string", "format": "date-time" },
+    "rotatesAt": { "type": "string", "format": "date-time" },
+    "status": { "type": "string", "enum": ["active", "disabled", "rotated"] }
+  },
+  "additionalProperties": false
+}

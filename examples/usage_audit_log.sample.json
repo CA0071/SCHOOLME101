@@ -1,0 +1,12 @@
+{
+  "eventId": "evt_00112233",
+  "timestamp": "2026-06-07T12:15:32Z",
+  "keyId": "key_12ab34cd",
+  "studentId": "student_za_001",
+  "workflow": "homework",
+  "model": "gemini-2.5-flash",
+  "requestTokens": 820,
+  "responseTokens": 512,
+  "latencyMs": 1610,
+  "status": "success"
+}
